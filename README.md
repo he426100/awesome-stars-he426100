@@ -55,9 +55,7 @@
 *   [Rich Text Format](#rich-text-format)
 *   [Markdown](#markdown)
 *   [Clojure](#clojure)
-*   [TeX](#tex)
 *   [Astro](#astro)
-*   [Less](#less)
 *   [Thanks](#thanks)
 
 ## PHP
@@ -398,7 +396,7 @@
 
 *   [walkor/webman](https://github.com/walkor/webman) - Probably the fastest PHP web framework in the world.
 
-*   [top-think/think-throttle](https://github.com/top-think/think-throttle) - thinkphp6.0 限制访问频率的中间件
+*   [top-think/think-throttle](https://github.com/top-think/think-throttle) - thinkphp 5.1/6.0 限制访问频率的中间件
 
 *   [matriphe/larinfo](https://github.com/matriphe/larinfo) - Display system information (IP address, OS, versions) for Laravel.
 
@@ -866,6 +864,8 @@
 
 *   [easy-swoole/easyswoole](https://github.com/easy-swoole/easyswoole) - swoole,easyswoole,swoole framework
 
+*   [upfor/juggler](https://github.com/upfor/juggler) - PHP lightweight database framework
+
 ## miscellaneous
 
 *   [cdoco/common-regex](https://github.com/cdoco/common-regex) - :jack\_o\_lantern: 常用正则表达式 - 收集一些在平时项目开发中经常用到的正则表达式。
@@ -1277,6 +1277,8 @@
 *   [geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample) - Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板
 
 *   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+
+*   [markyun/My-blog](https://github.com/markyun/My-blog) - 马云云在Github的学习片段 https://www.yuque.com/markyun
 
 ## Python
 
@@ -3132,17 +3134,9 @@
 
 *   [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 
-## TeX
-
-*   [bubifengyun/deepin-bible](https://github.com/bubifengyun/deepin-bible) - 关于深度操作系统的使用介绍
-
 ## Astro
 
 *   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-
-## Less
-
-*   [AxiosLeo/tpr-cms](https://github.com/AxiosLeo/tpr-cms) - CMS application using TPR
 
 ## Thanks
 
