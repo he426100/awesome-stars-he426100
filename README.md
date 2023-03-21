@@ -407,7 +407,7 @@
 
 *   [aldas/modbus-tcp-client](https://github.com/aldas/modbus-tcp-client) - PHP client for Modbus TCP and Modbus RTU over TCP (can be used for serial)
 
-*   [zjkal/time-helper](https://github.com/zjkal/time-helper) - 最方便的PHP时间助手类, 所有方法都可传入任意类型的时间格式&时间戳
+*   [zjkal/time-helper](https://github.com/zjkal/time-helper) - 最方便的PHP时间助手类库, 所有方法都可传入任意类型的时间格式&时间戳
 
 *   [vinkla/hashids](https://github.com/vinkla/hashids) - A small PHP library to generate YouTube-like ids from numbers. Use it when you don't want to expose your database ids to the user.
 
@@ -1205,7 +1205,7 @@
 
 *   [cdoco/common-regex](https://github.com/cdoco/common-regex) - :jack\_o\_lantern: 常用正则表达式 - 收集一些在平时项目开发中经常用到的正则表达式。
 
-*   [xx025/carrot](https://github.com/xx025/carrot) - 这儿为你准备了众多免费好用的ChatGPT镜像站点
+*   [xx025/carrot](https://github.com/xx025/carrot) - 这儿为你准备了众多免费好用的ChatGPT镜像站点，当前81个点
 
 *   [DeepTecher/awesome-ChatGPT-resource-zh](https://github.com/DeepTecher/awesome-ChatGPT-resource-zh) - 精选 OpenAI 的 [ChatGPT](https://chat.openai.com) 资源清单, 跟随最新资源并添加中文相关Work
 
@@ -2495,7 +2495,7 @@
 
 *   [MonkSoul/Layx](https://github.com/MonkSoul/Layx) - Layx 新一代Web弹窗组件。
 
-*   [lin-123/javascript](https://github.com/lin-123/javascript) - eslint-config-airbnb 翻译版 https://lin-123.github.io/javascript/
+*   [lin-123/javascript](https://github.com/lin-123/javascript) - eslint-config-airbnb 中文版
 
 *   [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 
