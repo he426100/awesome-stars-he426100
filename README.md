@@ -131,7 +131,7 @@
 
 *   [RemoteDebug/remotedebug-ios-webkit-adapter](https://github.com/RemoteDebug/remotedebug-ios-webkit-adapter) - Debug Safari and WebViews on iOS from tools like VS Code and Chrome DevTools
 
-*   [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
+*   [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 
 *   [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 
@@ -821,7 +821,7 @@
 
 *   [aldas/modbus-tcp-client](https://github.com/aldas/modbus-tcp-client) - PHP client for Modbus TCP and Modbus RTU over TCP (can be used for serial)
 
-*   [zjkal/time-helper](https://github.com/zjkal/time-helper) - 最方便的PHP时间助手类库, 所有方法都可传入任意类型的时间格式&时间戳
+*   [zjkal/time-helper](https://github.com/zjkal/time-helper) - ⭐最方便的PHP时间助手类库, 所有方法都可传入任意类型的时间格式&时间戳
 
 *   [vinkla/hashids](https://github.com/vinkla/hashids) - A small PHP library to generate YouTube-like ids from numbers. Use it when you don't want to expose your database ids to the user.
 
