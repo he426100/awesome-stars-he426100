@@ -16,6 +16,7 @@
 
 ## Table of Contents
 
+*   [CSS](#css)
 *   [Python](#python)
 *   [TypeScript](#typescript)
 *   [EJS](#ejs)
@@ -39,7 +40,6 @@
 *   [Makefile](#makefile)
 *   [Lua](#lua)
 *   [Solidity](#solidity)
-*   [CSS](#css)
 *   [Ruby](#ruby)
 *   [C#](#c-2)
 *   [Java](#java)
@@ -59,6 +59,50 @@
 *   [Astro](#astro)
 *   [Thanks](#thanks)
 
+## CSS
+
+*   [thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) - 免费 Prompt Engineering 教程
+
+*   [fingerchar/fingernft](https://github.com/fingerchar/fingernft) - FingerNFT是一款开源NFT市场，兼容Opensea、Rarible。
+
+*   [openexchangerates/money.js](https://github.com/openexchangerates/money.js) - money.js is a tiny (1kb) javascript currency conversion library, for web & nodeJS
+
+*   [guixianleng/vue-licence-plate](https://github.com/guixianleng/vue-licence-plate) - 基于Vue的移动端车牌键盘
+
+*   [filipelinhares/ress](https://github.com/filipelinhares/ress) - 🚿 A modern CSS reset
+
+*   [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
+
+*   [rime/home](https://github.com/rime/home) - Rime::Home is home to Rime users and developers
+
+*   [30-seconds/30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - Short CSS code snippets for all your development needs
+
+*   [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
+
+*   [nicejade/markdown-online-editor](https://github.com/nicejade/markdown-online-editor) - 📝基于 Vue、Vditor，所构建的在线 Markdown 编辑器，支持流程图、甘特图、时序图、任务列表、HTML 自动转换为 Markdown 等功能；🎉新增「所见即所得」编辑模式。
+
+*   [codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web
+
+*   [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
+
+*   [zlq4863947/tradingViewWikiCn](https://github.com/zlq4863947/tradingViewWikiCn) - tradingView的中文开发文档
+
+*   [SilurianYang/uni-app-tools](https://github.com/SilurianYang/uni-app-tools) - this is some uni-app toolset, more routing extensions
+
+*   [chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - CSS Inspiration，在这里找到写 CSS 的灵感！
+
+*   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
+
+*   [xtyxtyx/sorry](https://github.com/xtyxtyx/sorry) - 在线制作`sorry 为所欲为`的gif
+
+*   [houshanren/hangzhou\_house\_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) - 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according  to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I hope that it would be useful to everyone.
+
+*   [ruanyf/jstutorial](https://github.com/ruanyf/jstutorial) - Javascript tutorial book
+
+*   [msys2/msys2.github.io](https://github.com/msys2/msys2.github.io) - The MSYS2 homepage
+
+*   [kphcdr/ppphp](https://github.com/kphcdr/ppphp) - php framework
+
 ## Python
 
 *   [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
@@ -70,8 +114,6 @@
 *   [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B：开源双语对话语言模型  | An Open Bilingual Dialogue Language Model
 
 *   [tatsu-lab/stanford\_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
-
-*   [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
 
 *   [kale5195/chilloutai](https://github.com/kale5195/chilloutai) - AI 图片生成
 
@@ -1298,10 +1340,6 @@
 ## JavaScript
 
 *   [timqian/openprompt.co](https://github.com/timqian/openprompt.co) - Create. Use. Share. ChatGPT prompts
-
-*   [ayaka14732/ChatGPTAPIFree](https://github.com/ayaka14732/ChatGPTAPIFree) - A simple and open-source proxy API that allows you to access OpenAI's ChatGPT API for free!
-
-*   [openai/openai-quickstart-node](https://github.com/openai/openai-quickstart-node) - Node.js example app from the OpenAI API quickstart tutorial
 
 *   [kgepachong/crawler](https://github.com/kgepachong/crawler) - K 哥爬虫代码分享，JS 逆向，爬虫进阶。关注公众号：K哥爬虫
 
@@ -2809,6 +2847,8 @@
 
 *   [oneinstack/oneinstack](https://github.com/oneinstack/oneinstack) - OneinStack - A PHP/JAVA Deployment Tool
 
+*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+
 ## SCSS
 
 *   [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
@@ -2937,48 +2977,6 @@
 
 *   [AmazingAng/WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) - 我最近在重新学solidity，巩固一下细节，也写一个“WTF Solidity极简入门”，供小白们使用，每周更新1-3讲。官网: https://wtf.academy
 
-## CSS
-
-*   [fingerchar/fingernft](https://github.com/fingerchar/fingernft) - FingerNFT是一款开源NFT市场，兼容Opensea、Rarible。
-
-*   [openexchangerates/money.js](https://github.com/openexchangerates/money.js) - money.js is a tiny (1kb) javascript currency conversion library, for web & nodeJS
-
-*   [guixianleng/vue-licence-plate](https://github.com/guixianleng/vue-licence-plate) - 基于Vue的移动端车牌键盘
-
-*   [filipelinhares/ress](https://github.com/filipelinhares/ress) - 🚿 A modern CSS reset
-
-*   [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
-
-*   [rime/home](https://github.com/rime/home) - Rime::Home is home to Rime users and developers
-
-*   [30-seconds/30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - Short CSS code snippets for all your development needs
-
-*   [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
-
-*   [nicejade/markdown-online-editor](https://github.com/nicejade/markdown-online-editor) - 📝基于 Vue、Vditor，所构建的在线 Markdown 编辑器，支持流程图、甘特图、时序图、任务列表、HTML 自动转换为 Markdown 等功能；🎉新增「所见即所得」编辑模式。
-
-*   [codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web
-
-*   [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
-
-*   [zlq4863947/tradingViewWikiCn](https://github.com/zlq4863947/tradingViewWikiCn) - tradingView的中文开发文档
-
-*   [SilurianYang/uni-app-tools](https://github.com/SilurianYang/uni-app-tools) - this is some uni-app toolset, more routing extensions
-
-*   [chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - CSS Inspiration，在这里找到写 CSS 的灵感！
-
-*   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
-
-*   [xtyxtyx/sorry](https://github.com/xtyxtyx/sorry) - 在线制作`sorry 为所欲为`的gif
-
-*   [houshanren/hangzhou\_house\_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) - 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according  to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I hope that it would be useful to everyone.
-
-*   [ruanyf/jstutorial](https://github.com/ruanyf/jstutorial) - Javascript tutorial book
-
-*   [msys2/msys2.github.io](https://github.com/msys2/msys2.github.io) - The MSYS2 homepage
-
-*   [kphcdr/ppphp](https://github.com/kphcdr/ppphp) - php framework
-
 ## Ruby
 
 *   [pluosi/app-host](https://github.com/pluosi/app-host) - 应用内网发布 | iOS OTA (Over-the-Air) | APP publish website like fir.im  | 适用于企业 iOS & Android 内网发布测试使用，方便管理和分发 APP 包
@@ -3022,6 +3020,8 @@
 *   [shadowsocksrr/shadowsocksr-csharp](https://github.com/shadowsocksrr/shadowsocksr-csharp) -
 
 *   [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - Launcher for Windows, an alternative to Alfred and Launchy.
+
+*   [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
 
 ## Java
 
