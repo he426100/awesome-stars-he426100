@@ -551,7 +551,7 @@
 
 *   [wxxiong6/tree](https://github.com/wxxiong6/tree) - 使用递归把有规则数据，处理成树形数据结构。适用场景菜单、权限、分类等功能。
 
-*   [kanyxmo/MineAdmin](https://github.com/kanyxmo/MineAdmin) - 🎉🌈🔥MineAdmin是基于Hyperf框架 和 Vue3+Vite3 开发的前后端分离权限管理系统，自适应多终端。特色：crud生成 + json配置化开发一把梭
+*   [kanyxmo/MineAdmin](https://github.com/kanyxmo/MineAdmin) - 🎉🎉🎉 MineAdmin是基于Hyperf框架 和 Vue3+Vite4 开发的前后端分离权限管理系统，自适应多终端。特色：后端 crud 生成 + 前端低代码 json 化配置
 
 *   [mochat-cloud/mochat](https://github.com/mochat-cloud/mochat) - 基于企业微信的开源SCRM应用开发框架&引擎，也是一套通用的企业私域流量管理系统!
 
@@ -1387,7 +1387,7 @@
 
 *   [holynova/gushi\_namer](https://github.com/holynova/gushi_namer) - 古诗文起名: 利用诗经 楚辞 唐诗 宋词等给小朋友起名字
 
-*   [xiangyuecn/AreaCity-JsSpider-StatsGov](https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov) - 省市区县乡镇三级或四级城市数据，带拼音标注、坐标、行政区域边界范围；2023年02月02日最新采集，提供csv格式文件，支持在线转成多级联动js代码、通用json格式，提供软件转成shp、geojson、sql、导入数据库；带浏览器里面运行的js采集源码，综合了中华人民共和国民政部、国家统计局、高德地图、腾讯地图行政区划数据
+*   [xiangyuecn/AreaCity-JsSpider-StatsGov](https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov) - 省市区县乡镇三级或四级城市数据，带拼音标注、坐标、行政区域边界范围；2023年04月03日最新采集，提供csv格式文件，支持在线转成多级联动js代码、通用json格式，提供软件转成shp、geojson、sql、导入数据库；带浏览器里面运行的js采集源码，综合了中华人民共和国民政部、国家统计局、高德地图、腾讯地图行政区划数据
 
 *   [keyvan-m-sadeghi/pythonic](https://github.com/keyvan-m-sadeghi/pythonic) - Python like utility functions for JavaScript: range, enumerate, zip and items.
 
