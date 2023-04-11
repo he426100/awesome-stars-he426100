@@ -265,7 +265,7 @@
 
 *   [ddiu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) - A demo repo based on OpenAI API.
 
-*   [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) - Play and chat smarter with Better ChatGPT - an amazing open-source web app with a better UI for exploring OpenAI's ChatGPT API! (Website + Windows + MacOS + Linux)
+*   [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) - An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
 
 *   [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
 
@@ -680,6 +680,8 @@
 *   [overtrue/socialite](https://github.com/overtrue/socialite) - Socialite is an OAuth2 Authentication tool. It is inspired by laravel/socialite, you can easily use it without Laravel.
 
 *   [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - PrestaShop is the universal open-source software platform to build your e-commerce solution.
+
+*   [gongfuxiang/shopxo](https://github.com/gongfuxiang/shopxo) - ShopXO企业级免费开源商城系统，可视化DIY拖拽装修、包含PC、H5、多端小程序(微信+支付宝+百度+头条&抖音+QQ+快手)、APP、多仓库、多商户、多门店、IM客服，进销存遵循MIT开源协议发布、基于ThinkPHP6框架研发
 
 *   [ofcold/identity-card](https://github.com/ofcold/identity-card) - A simple proof of identity card of the people's Republic of China.
 
@@ -1660,8 +1662,6 @@
 *   [yalin28/vue-antdesign-admin-template](https://github.com/yalin28/vue-antdesign-admin-template) - Ant Design Pro Vue Template
 
 *   [WeBankFinTech/fes.js](https://github.com/WeBankFinTech/fes.js) - Fes.js 是一个基于 Vue 3 好用的前端应用解决方案。以约定、配置化、组件化的设计思想，让用户仅仅关心用组件搭建页面内容。技术曲线平缓，上手也简单。在经过多个项目中打磨后趋于稳定。丰富的 Vue 3 生态 和 Fes.js 插件，让业务开发更加简单快捷~
-
-*   [gongfuxiang/shopxo](https://github.com/gongfuxiang/shopxo) - ShopXO企业级免费开源商城系统，可视化DIY拖拽装修、包含PC、H5、多端小程序(微信+支付宝+百度+头条&抖音+QQ+快手)、APP、多仓库、多商户、多门店、IM客服，进销存遵循MIT开源协议发布、基于ThinkPHP6框架研发
 
 *   [snowzijun/vue-vant-base](https://github.com/snowzijun/vue-vant-base) - 这个项目是将一些基础配置比如eslint,移动端适配等进行了封装，开发人员只需fork就可直接开箱即用，不用再做额外的配置
 
