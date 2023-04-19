@@ -549,6 +549,8 @@
 
 *   [multiformats/js-multibase](https://github.com/multiformats/js-multibase) - JavaScript implementation of the multibase specification
 
+*   [mrmlnc/fast-glob](https://github.com/mrmlnc/fast-glob) - :rocket: It's a very fast and efficient glob library for Node.js
+
 *   [terkelg/tiny-glob](https://github.com/terkelg/tiny-glob) - Super tiny and ~350% faster alternative to node-glob
 
 *   [sindresorhus/globby](https://github.com/sindresorhus/globby) - User-friendly glob matching
@@ -1152,8 +1154,6 @@
 *   [luin/ioredis](https://github.com/luin/ioredis) - 🚀 A robust, performance-focused, and full-featured Redis client for Node.js.
 
 *   [redis/node-redis](https://github.com/redis/node-redis) - A high-performance Node.js Redis client.
-
-*   [mrmlnc/fast-glob](https://github.com/mrmlnc/fast-glob) - :rocket: It's a very fast and efficient glob library for Node.js
 
 *   [thecodrr/fdir](https://github.com/thecodrr/fdir) - ⚡ The fastest directory crawler & globbing library for NodeJS. Crawls 1m files in < 1s
 
