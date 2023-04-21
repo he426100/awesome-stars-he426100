@@ -1151,7 +1151,7 @@
 
 *   [luin/ioredis](https://github.com/luin/ioredis) - 🚀 A robust, performance-focused, and full-featured Redis client for Node.js.
 
-*   [redis/node-redis](https://github.com/redis/node-redis) - A high-performance Node.js Redis client.
+*   [redis/node-redis](https://github.com/redis/node-redis) - Redis Node.js client
 
 *   [thecodrr/fdir](https://github.com/thecodrr/fdir) - ⚡ The fastest directory crawler & globbing library for NodeJS. Crawls 1m files in < 1s
 
