@@ -145,6 +145,8 @@
 
 *   [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 
+*   [web3/web3.js](https://github.com/web3/web3.js) - Ethereum JavaScript API
+
 *   [koajs/koa-body](https://github.com/koajs/koa-body) - koa body parser middleware
 
 *   [astroboy-lab/astroboy](https://github.com/astroboy-lab/astroboy) - Astroboy（阿童木）is a Nodejs SFB(Separation of Front and Back ends) framework, built on koa2.
@@ -1024,8 +1026,6 @@
 *   [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
 
 *   [log4js-node/log4js-node](https://github.com/log4js-node/log4js-node) - A port of log4js to node.js
-
-*   [web3/web3.js](https://github.com/web3/web3.js) - Ethereum JavaScript API
 
 *   [dominhhai/koa-log4js](https://github.com/dominhhai/koa-log4js) - log4js-node supports Koa-middleware
 
