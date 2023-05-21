@@ -56,7 +56,6 @@
 *   [Rich Text Format](#rich-text-format)
 *   [Markdown](#markdown)
 *   [Clojure](#clojure)
-*   [Astro](#astro)
 *   [Thanks](#thanks)
 
 ## PHP
@@ -1657,6 +1656,8 @@
 
 *   [alibaba/ice](https://github.com/alibaba/ice) - 🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
 
+*   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+
 *   [Caligatio/jsSHA](https://github.com/Caligatio/jsSHA) - A JavaScript/TypeScript implementation of the complete Secure Hash Standard (SHA) family (SHA-1, SHA-224/256/384/512, SHA3-224/256/384/512, SHAKE128/256, cSHAKE128/256, and KMAC128/256) with HMAC.
 
 *   [midwayjs/pandora](https://github.com/midwayjs/pandora) - A Manageable, Measurable and Traceable Node.js Application Manager represented by Alibaba powered by TypeScript
@@ -3136,10 +3137,6 @@
 ## Clojure
 
 *   [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
-
-## Astro
-
-*   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## Thanks
 
