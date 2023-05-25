@@ -1418,7 +1418,7 @@
 
 *   [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - 这是一个ChatGPT的畅聊与增强插件。开源免费。不仅能解决所有报错不再刷新，还有保持活跃、取消审计、克隆对话、净化首页、展示大屏、展示全屏、言无不尽、拦截跟踪、日新月异等多个高级功能。让我们的AI体验无比顺畅、丝滑、高效、简洁。
 
-*   [isno/theByteBook](https://github.com/isno/theByteBook) - 这几年互联网技术出现了很大的更新迭代，比如 SDN 网络、高性能网络（DPDK、XDP）、Container、ServiceMesh 等等，我对这些技术有一些浅薄的见解和实践，但也远没达到深刻理解的境界，我尝试使用 费曼学习法 把这些东西体系化地总结输出。一方面是加深自我的学习认识，另一方面也希望这些输出对其他人有所帮助。
+*   [isno/theByteBook](https://github.com/isno/theByteBook) - 深入讲解网络、应用网络、ServiceMesh、容器等云原生相关技术
 
 *   [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 
@@ -2504,7 +2504,7 @@
 
 *   [gwuhaolin/lightsocks](https://github.com/gwuhaolin/lightsocks) - ⚡️一个轻巧的网络混淆代理🌏
 
-*   [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform network tool. 一个跨平台网络工具.
+*   [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform programmable network tool. 一个跨平台可编程网络工具.
 
 *   [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 
