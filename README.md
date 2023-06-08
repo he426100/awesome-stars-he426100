@@ -564,8 +564,6 @@
 
 *   [rialto-php/puphpeteer](https://github.com/rialto-php/puphpeteer) - A Puppeteer bridge for PHP, supporting the entire API.
 
-*   [silexphp/Pimple](https://github.com/silexphp/Pimple) - A small PHP dependency injection container
-
 *   [passbolt/passbolt\_api](https://github.com/passbolt/passbolt_api) - Passbolt CE Backend, a JSON API written with CakePHP
 
 *   [zhaocong6/lock](https://github.com/zhaocong6/lock) - 高性能分布式并发锁, 行为限流
@@ -1302,7 +1300,7 @@
 
 *   [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - 这是一个ChatGPT的畅聊与增强插件。开源免费。不仅能解决所有报错不再刷新，还有保持活跃、取消审计、克隆对话、净化首页、展示大屏、展示全屏、言无不尽、拦截跟踪、日新月异等多个高级功能。让我们的AI体验无比顺畅、丝滑、高效、简洁。
 
-*   [isno/theByteBook](https://github.com/isno/theByteBook) - 深入讲解网络、应用网络、ServiceMesh、容器等云原生相关技术
+*   [isno/theByteBook](https://github.com/isno/theByteBook) - 深入讲解网络、应用网络、ServiceMesh、容器等云原生相关技术。如果碰到错误内容，欢迎给我提 issue。
 
 *   [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 
@@ -2809,6 +2807,8 @@
 *   [kphcdr/ppphp](https://github.com/kphcdr/ppphp) - php framework
 
 *   [laravel-china/php-the-right-way](https://github.com/laravel-china/php-the-right-way) - 收集 PHP 最佳实践、编码规范和权威学习指南，方便 PHP 开发者阅读和查找
+
+*   [fgnass/spin.js](https://github.com/fgnass/spin.js) - A spinning activity indicator
 
 ## EJS
 
