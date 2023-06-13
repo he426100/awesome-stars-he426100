@@ -290,6 +290,8 @@
 
 *   [mhor/php-mediainfo](https://github.com/mhor/php-mediainfo) - PHP wrapper around the mediainfo command
 
+*   [jingjingxyk/swoole-cli](https://github.com/jingjingxyk/swoole-cli) - SWOOLE-CLI is a php binary distribution composed swoole & php-core & cli & php-fpm and mostly of common extensions.
+
 *   [bootgly/bootgly](https://github.com/bootgly/bootgly) - Base PHP Framework for Multi Projects
 
 *   [geekr-dev/geekchat](https://github.com/geekr-dev/geekchat) - GeekChat - ChatGPT With Support For Text、Voice、Image And Translate
@@ -517,6 +519,8 @@
 *   [zhongshaofa/easyadmin](https://github.com/zhongshaofa/easyadmin) - 框架主要使用ThinkPHP6.0 + layui，拥有完善的权限的管理模块以及敏捷的开发方式，让你开发起来更加的舒服。
 
 *   [overtrue/socialite](https://github.com/overtrue/socialite) - Socialite is an OAuth2 Authentication tool. It is inspired by laravel/socialite, you can easily use it without Laravel.
+
+*   [crmeb/CRMEB](https://github.com/crmeb/CRMEB) - 🔥CRMEB开源商城免费开源多语言商城系统，Tp6框架商城，系统可商用；包含小程序商城、H5商城、公众号商城、PC商城、App，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、页面DIY，前后端分离，方便二开，更有详细使用文档、接口文档、数据字典、二开文档/视频教程，欢迎大家提出宝贵意见和建议
 
 *   [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - PrestaShop is the universal open-source software platform to build your e-commerce solution.
 
@@ -1408,8 +1412,6 @@
 
 *   [adsr/phpspy](https://github.com/adsr/phpspy) - low-overhead sampling profiler for PHP 7+
 
-*   [jingjingxyk/swoole-cli](https://github.com/jingjingxyk/swoole-cli) - SWOOLE-CLI is a php binary distribution composed swoole & php-core & cli & php-fpm and mostly of common extensions.
-
 *   [swoole/swoole-cli](https://github.com/swoole/swoole-cli) - SWOOLE-CLI is a php binary distribution composed swoole & php-core & cli & fpm and mostly of common extensions.
 
 *   [ADD-SP/ngx\_waf](https://github.com/ADD-SP/ngx_waf) - Handy, High performance, ModSecurity compatible Nginx firewall module & 方便、高性能、兼容 ModSecurity 的 Nginx 防火墙模块
@@ -1498,7 +1500,7 @@
 
 ## PowerShell
 
-*   [apnpc/Git-Learnnig](https://github.com/apnpc/Git-Learnnig) - 快速掌握 Git 的基本概念和使用方法
+*   [apnpc/git-learnnig](https://github.com/apnpc/git-learnnig) - 快速掌握 Git 的基本概念和使用方法
 
 *   [Raphire/Win10Debloat](https://github.com/Raphire/Win10Debloat) - A simple powershell script to remove bloatware apps from windows 10/11, disable telemetry, bing in windows search aswell as perform various other changes to declutter the windows 10/11 experience.
 
@@ -1510,7 +1512,7 @@
 
 ## JavaScript
 
-*   [sunner/ChatALL](https://github.com/sunner/ChatALL) -  Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the best answers
+*   [sunner/ChatALL](https://github.com/sunner/ChatALL) -  Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 
 *   [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - 这是一个ChatGPT的畅聊与增强插件。开源免费。不仅能解决所有报错不再刷新，还有保持活跃、取消审计、克隆对话、净化首页、展示大屏、展示全屏、言无不尽、拦截跟踪、日新月异等多个高级功能。让我们的AI体验无比顺畅、丝滑、高效、简洁。
 
@@ -2947,8 +2949,6 @@
 *   [JaguarJack/catch-admin-vue](https://github.com/JaguarJack/catch-admin-vue) - catchAdmin vue 版本
 
 *   [edenleung/think-element](https://github.com/edenleung/think-element) - ThinkPHP 5.1 与 Vue-Element-Admin 基础权限系统
-
-*   [crmeb/CRMEB](https://github.com/crmeb/CRMEB) - 🔥CRMEB开源商城免费开源多语言商城系统，Tp6框架商城，系统可商用；包含小程序商城、H5商城、公众号商城、PC商城、App，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、页面DIY，前后端分离，方便二开，更有详细使用文档、接口文档、数据字典、二开文档/视频教程，欢迎大家提出宝贵意见和建议
 
 *   [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
 
