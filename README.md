@@ -1154,7 +1154,7 @@
 
 *   [luofei614/SocketLog](https://github.com/luofei614/SocketLog) - 微信调试、API调试和AJAX的调试的工具，能将日志通过WebSocket输出到Chrome浏览器的console中
 
-*   [overtrue/pinyin](https://github.com/overtrue/pinyin) - :cn: 基于词库的中文转拼音优质解决方案
+*   [overtrue/pinyin](https://github.com/overtrue/pinyin) - 🇨🇳 基于词库的中文转拼音优质解决方案
 
 *   [zoujingli/ThinkAdmin](https://github.com/zoujingli/ThinkAdmin) - 基于 ThinkPHP6 的极简后台管理系统，内置注解权限、异步多任务、应用插件生态等，支持类 PaaS 更新公共模块和应用插件，插件可本地化定制开发。
 
