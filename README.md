@@ -116,7 +116,7 @@
 
 *   [aweiu/dm.dll](https://github.com/aweiu/dm.dll) - JS 版按键精灵（大漠插件）
 
-*   [luin/ioredis](https://github.com/luin/ioredis) - 🚀 A robust, performance-focused, and full-featured Redis client for Node.js.
+*   [redis/ioredis](https://github.com/redis/ioredis) - 🚀 A robust, performance-focused, and full-featured Redis client for Node.js.
 
 *   [redis/node-redis](https://github.com/redis/node-redis) - Redis Node.js client
 
@@ -640,7 +640,7 @@
 
 *   [walkor/webman](https://github.com/walkor/webman) - Probably the fastest PHP web framework in the world.
 
-*   [top-think/think-throttle](https://github.com/top-think/think-throttle) - thinkphp 5.1/6.0 限制访问频率的中间件
+*   [top-think/think-throttle](https://github.com/top-think/think-throttle) - thinkphp 5.1/6.x 限制访问频率的中间件
 
 *   [matriphe/larinfo](https://github.com/matriphe/larinfo) - Display system information (IP address, OS, versions) for Laravel.
 
@@ -1200,7 +1200,7 @@
 
 *   [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and many LLMs
 
-*   [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️ChatGPT、软件程序各类镜像，国立台湾大学、国立新加坡大学、早稻田大学、东京大学、中国与香港重点高校及科研机构，社科、经济、系统工程类学术论文等知识库。
+*   [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️ChatGPT、软件程序各类镜像，国立台湾大学、新加坡国立大学、早稻田大学、东京大学、中国与香港重点高校及科研机构，社科、经济、系统工程类学术论文等知识库。
 
 *   [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
 
