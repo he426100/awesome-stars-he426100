@@ -70,11 +70,11 @@
 
 *   [lzwme/chatgpt-sites](https://github.com/lzwme/chatgpt-sites) -  ChatGPT 网站导航。搜集国内可用的 ChatGPT 在线体验免费网站列表。定时任务每日更新
 
-*   [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。
+*   [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 
 *   [prompt-engineering/click-prompt](https://github.com/prompt-engineering/click-prompt) - ClickPrompt - Streamline your prompt design, with ClickPrompt, you can easily view, share, and run these prompts with just one click.  ClickPrompt 用于一键轻松查看、分享和执行您的 Prompt。
 
-*   [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - Maximize your efficiency and productivity. 让生产力加倍的 ChatGPT 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。
+*   [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity, Maximize your efficiency and productivity, support for English, Chinese, Japanese, and Korean. 让生产力加倍的 ChatGPT 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。
 
 *   [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) - Elegant and Powerfull. Powered by OpenAI and Vercel.
 
@@ -97,6 +97,8 @@
 *   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 
 *   [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
+
+*   [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 
 *   [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo) - Monorepo for the Ethereum VM TypeScript Implementation
 
@@ -290,11 +292,7 @@
 
 *   [mhor/php-mediainfo](https://github.com/mhor/php-mediainfo) - PHP wrapper around the mediainfo command
 
-*   [jingjingxyk/swoole-cli](https://github.com/jingjingxyk/swoole-cli) - SWOOLE-CLI is a php binary distribution composed swoole & php-core & cli & php-fpm and mostly of common extensions.
-
 *   [bootgly/bootgly](https://github.com/bootgly/bootgly) - Base PHP Framework for Multi Projects
-
-*   [geekr-dev/geekchat](https://github.com/geekr-dev/geekchat) - GeekChat - ChatGPT With Support For Text、Voice、Image And Translate
 
 *   [tectalichq/public-openai-client-php](https://github.com/tectalichq/public-openai-client-php) - OpenAI API Client for PHP. Includes all endpoints and models (DTOs) for all requests and responses.
 
@@ -1412,6 +1410,8 @@
 
 *   [adsr/phpspy](https://github.com/adsr/phpspy) - low-overhead sampling profiler for PHP 7+
 
+*   [jingjingxyk/swoole-cli](https://github.com/jingjingxyk/swoole-cli) - SWOOLE-CLI is a php binary distribution composed swoole & php-core & cli & php-fpm and mostly of common extensions.
+
 *   [swoole/swoole-cli](https://github.com/swoole/swoole-cli) - SWOOLE-CLI is a php binary distribution composed swoole & php-core & cli & fpm and mostly of common extensions.
 
 *   [ADD-SP/ngx\_waf](https://github.com/ADD-SP/ngx_waf) - Handy, High performance, ModSecurity compatible Nginx firewall module & 方便、高性能、兼容 ModSecurity 的 Nginx 防火墙模块
@@ -1529,8 +1529,6 @@
 *   [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 
 *   [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
-
-*   [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 
 *   [zebra-ui/zebra-uniapp-swiper](https://github.com/zebra-ui/zebra-uniapp-swiper) - 基于uniapp开发的多端适配轮播组件
 
@@ -2222,7 +2220,7 @@
 
 ## miscellaneous
 
-*   [yzfly/awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh) - ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
+*   [yzfly/awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh) - ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
 
 *   [chenking2020/FindTheChatGPTer](https://github.com/chenking2020/FindTheChatGPTer) - ChatGPT爆火，开启了通往AGI的关键一步，本项目旨在汇总那些ChatGPT的开源平替们，包括文本大模型、多模态大模型等，为大家提供一些便利
 
@@ -2398,7 +2396,7 @@
 
 *   [yikeke/tao-of-programming](https://github.com/yikeke/tao-of-programming) - 《编程之道》 (Tao of Programming, 1987) 最新中英双语版
 
-*   [demopark/sequelize-docs-Zh-CN](https://github.com/demopark/sequelize-docs-Zh-CN) - Sequelize 文档的中文版本:  v7.1.0 | v6.16.0
+*   [demopark/sequelize-docs-Zh-CN](https://github.com/demopark/sequelize-docs-Zh-CN) - Sequelize 文档的中文版本:  v7.0.0-alpha.18 | v6.32.0
 
 *   [dream2023/awesome-lesscode](https://github.com/dream2023/awesome-lesscode) - less code / no code 前后端实践和工具列表
 
@@ -2811,6 +2809,8 @@
 *   [kphcdr/ppphp](https://github.com/kphcdr/ppphp) - php framework
 
 *   [laravel-china/php-the-right-way](https://github.com/laravel-china/php-the-right-way) - 收集 PHP 最佳实践、编码规范和权威学习指南，方便 PHP 开发者阅读和查找
+
+*   [fgnass/spin.js](https://github.com/fgnass/spin.js) - A spinning activity indicator
 
 ## EJS
 
