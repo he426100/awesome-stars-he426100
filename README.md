@@ -452,7 +452,7 @@
 
 *   [hyperf/hyperf](https://github.com/hyperf/hyperf) - 🚀 A coroutine framework that focuses on hyperspeed and flexibility. Building microservice or middleware with ease.
 
-*   [adhocore/php-jwt](https://github.com/adhocore/php-jwt) - Ultra lightweight, dependency free and standalone JSON web token (JWT) library for PHP5.6 to PHP8.1. This library makes JWT a cheese. It is a minimal JWT integration for PHP.
+*   [adhocore/php-jwt](https://github.com/adhocore/php-jwt) - Ultra lightweight, dependency free and standalone JSON web token (JWT) library for PHP5.6 to PHP8.2. This library makes JWT a cheese. It is a minimal JWT integration for PHP.
 
 *   [pupuk/address-smart-parse](https://github.com/pupuk/address-smart-parse) - 智能解析收货地址，成功率96%以上，支持（身份证号，电话，座机，区号，省市区街道地址）A smart address parser write by PHP. Get name\&receiver phone \&post code \&address from a complicated string. Get province, city ,area, and street address.
 
