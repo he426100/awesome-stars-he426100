@@ -45,7 +45,7 @@
 *   [C#](#c-2)
 *   [Smarty](#smarty)
 *   [R](#r)
-*   [ReScript](#rescript)
+*   [MDX](#mdx)
 *   [Crystal](#crystal)
 *   [ASL](#asl)
 *   [Kotlin](#kotlin)
@@ -1196,7 +1196,7 @@
 
 *   [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI
 
-*   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
+*   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 
 *   [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and FastChat-T5.
 
@@ -3278,7 +3278,7 @@
 
 *   [psychbruce/ChineseNames](https://github.com/psychbruce/ChineseNames) - 🀄 Chinese Name Database (1930-2008)
 
-## ReScript
+## MDX
 
 *   [rescript-association/rescript-lang.org](https://github.com/rescript-association/rescript-lang.org) - Official documentation website for the ReScript programming language
 
