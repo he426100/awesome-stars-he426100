@@ -1526,7 +1526,7 @@
 
 *   [timqian/openprompt.co](https://github.com/timqian/openprompt.co) - Create. Use. Share. ChatGPT prompts
 
-*   [kgepachong/crawler](https://github.com/kgepachong/crawler) - K 哥爬虫代码分享，JS 逆向，爬虫进阶。关注公众号：K哥爬虫
+*   [kgespider/crawler](https://github.com/kgespider/crawler) - K 哥爬虫代码分享，JS 逆向，爬虫进阶。关注公众号：K哥爬虫
 
 *   [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 
@@ -1534,7 +1534,7 @@
 
 *   [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 
-*   [zebra-ui/zebra-uniapp-swiper](https://github.com/zebra-ui/zebra-uniapp-swiper) - 基于uniapp开发的多端适配轮播组件
+*   [zebra-ui/zebra-swiper](https://github.com/zebra-ui/zebra-swiper) - 基于uniapp开发的多端适配轮播组件
 
 *   [getsafle/vault-solana-controller](https://github.com/getsafle/vault-solana-controller) - Solana controller for Safle Vault
 
