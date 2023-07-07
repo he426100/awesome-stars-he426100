@@ -426,7 +426,7 @@
 
 *   [walkor/webman](https://github.com/walkor/webman) - Probably the fastest PHP web framework in the world.
 
-*   [top-think/think-throttle](https://github.com/top-think/think-throttle) - thinkphp 5.1/6.x 限制访问频率的中间件
+*   [top-think/think-throttle](https://github.com/top-think/think-throttle) - thinkphp 限制访问频率的中间件
 
 *   [matriphe/larinfo](https://github.com/matriphe/larinfo) - Display system information (IP address, OS, versions) for Laravel.
 
@@ -1765,6 +1765,8 @@
 *   [naugtur/xhr](https://github.com/naugtur/xhr) - A small xhr wrapper
 
 *   [oevery/Source](https://github.com/oevery/Source) - 阅读书源，海阔阅览器搜索源、插件。
+
+*   [hug-sun/element3](https://github.com/hug-sun/element3) - A Vue.js 3.0 UI Toolkit for Web. Build with Javascript
 
 *   [cheap-glitch/vue-cli-plugin-sitemap](https://github.com/cheap-glitch/vue-cli-plugin-sitemap) - 🗺️ A Vue CLI plugin to generate simple or complex sitemaps effortlessly.
 
@@ -3161,8 +3163,6 @@
 *   [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 
 *   [filecoin-project/specs](https://github.com/filecoin-project/specs) - The Filecoin protocol specification
-
-*   [hug-sun/element3](https://github.com/hug-sun/element3) - A Vue.js 3.0 UI Toolkit for Web. Build with Javascript
 
 *   [mdbootstrap/mdb-vue-ui-kit](https://github.com/mdbootstrap/mdb-vue-ui-kit) - Vue 3 & Bootstrap 5 & Material Design 2.0 UI KIT
 
