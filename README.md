@@ -60,6 +60,8 @@
 
 ## PHP
 
+*   [skoro/php-tkui](https://github.com/skoro/php-tkui) - Build native desktop applications with PHP only
+
 *   [getopt-php/getopt-php](https://github.com/getopt-php/getopt-php) - A PHP library for command-line argument processing
 
 *   [gptlink/gptlink](https://github.com/gptlink/gptlink) - 10分钟搭建自己可免费商用的ChatGPT环境，搭建简单，包含用户，订单，任务，付费等功能
@@ -962,8 +964,6 @@
 
 *   [top-think/think](https://github.com/top-think/think) - ThinkPHP Framework ——十年匠心的高性能PHP框架
 
-*   [w7corp/easywechat](https://github.com/w7corp/easywechat) - 📦 一个 PHP 微信 SDK
-
 ## TypeScript
 
 *   [shivammathur/setup-php](https://github.com/shivammathur/setup-php) - GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools.
@@ -1010,7 +1010,7 @@
 
 *   [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
 
-*   [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+*   [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 
 *   [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 
