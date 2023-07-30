@@ -1160,6 +1160,8 @@
 
 *   [YishaiBerg/vue-dynamic-marquee](https://github.com/YishaiBerg/vue-dynamic-marquee) - Marquee component for Vue - repeatedly translate content across wrapper. Completely responsive to after-render changes with many options to customize.
 
+*   [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
+
 *   [electron/rebuild](https://github.com/electron/rebuild) - Package to rebuild native Node.js modules against the currently installed Electron version
 
 *   [felixrieseberg/windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) - :package: Install C++ Build Tools for Windows using npm
@@ -2935,8 +2937,6 @@
 *   [heyui/heyui](https://github.com/heyui/heyui) - 🎉UI Toolkit for Web, Vue3.0
 
 *   [jolaleye/cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
-
-*   [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
 
 *   [kitwon/vue-loading-skeleton](https://github.com/kitwon/vue-loading-skeleton) - Vue skeleton component, automatically adapt your app.
 
