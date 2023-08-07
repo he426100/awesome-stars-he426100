@@ -56,6 +56,7 @@
 *   [Rich Text Format](#rich-text-format)
 *   [Markdown](#markdown)
 *   [Clojure](#clojure)
+*   [Astro](#astro)
 *   [Thanks](#thanks)
 
 ## miscellaneous
@@ -2574,8 +2575,6 @@
 
 *   [dcloudio/casecode](https://github.com/dcloudio/casecode) - DCloud开源项目集锦
 
-*   [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 4
-
 *   [importre/chromeadb](https://github.com/importre/chromeadb) - :bug: Chrome ADB(Android Debug Bridge) Client
 
 *   [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
@@ -3337,6 +3336,10 @@
 ## Clojure
 
 *   [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
+
+## Astro
+
+*   [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 
 ## Thanks
 
