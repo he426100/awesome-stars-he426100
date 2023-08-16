@@ -839,7 +839,7 @@
 
 *   [inacho/php-credit-card-validator](https://github.com/inacho/php-credit-card-validator) - Validates popular debit and credit cards numbers against regular expressions and Luhn algorithm. Also validates the CVC and the expiration date.
 
-*   [php-casbin/think-authz](https://github.com/php-casbin/think-authz) - An authorization library that supports access control models like ACL, RBAC, ABAC in ThinkPHP 6.x .
+*   [php-casbin/think-authz](https://github.com/php-casbin/think-authz) - An authorization library that supports access control models like ACL, RBAC, ABAC in ThinkPHP.
 
 *   [mjphaynes/php-resque](https://github.com/mjphaynes/php-resque) - php-resque is a Redis-backed PHP library for creating background jobs, placing them on multiple queues, and processing them later.
 
