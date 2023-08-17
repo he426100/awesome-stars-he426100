@@ -165,7 +165,7 @@
 
 *   [cdoco/common-regex](https://github.com/cdoco/common-regex) - :jack\_o\_lantern: 常用正则表达式 - 收集一些在平时项目开发中经常用到的正则表达式。
 
-*   [xx025/carrot](https://github.com/xx025/carrot) - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点，当前100+站点
+*   [xx025/carrot](https://github.com/xx025/carrot) - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点
 
 *   [DeepTecher/awesome-ChatGPT-resource-zh](https://github.com/DeepTecher/awesome-ChatGPT-resource-zh) - 精选 OpenAI 的 [ChatGPT](https://chat.openai.com) 资源清单, 跟随最新资源并添加中文相关Work
 
