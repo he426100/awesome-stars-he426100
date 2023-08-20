@@ -35,13 +35,13 @@
 *   [Rust](#rust)
 *   [Roff](#roff)
 *   [Shell](#shell)
-*   [SCSS](#scss)
 *   [Dockerfile](#dockerfile)
 *   [Haskell](#haskell)
 *   [Handlebars](#handlebars)
 *   [Makefile](#makefile)
 *   [Lua](#lua)
 *   [Solidity](#solidity)
+*   [SCSS](#scss)
 *   [Ruby](#ruby)
 *   [C#](#c-2)
 *   [Smarty](#smarty)
@@ -2349,7 +2349,7 @@
 
 *   [youzan/vant-weapp](https://github.com/youzan/vant-weapp) - 轻量、可靠的小程序 UI 组件库
 
-*   [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - 推荐免费ChatGPT网站：www.lintcode.com/chat-gpt?utm\_source=tf-github-lucifer  LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+*   [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
 
 *   [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 
@@ -2640,6 +2640,8 @@
 ## MDX
 
 *   [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+
+*   [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
 
 *   [rescript-association/rescript-lang.org](https://github.com/rescript-association/rescript-lang.org) - Official documentation website for the ReScript programming language
 
@@ -3155,18 +3157,6 @@
 
 *   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 
-## SCSS
-
-*   [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
-
-*   [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
-
-*   [filecoin-project/specs](https://github.com/filecoin-project/specs) - The Filecoin protocol specification
-
-*   [mdbootstrap/mdb-vue-ui-kit](https://github.com/mdbootstrap/mdb-vue-ui-kit) - Vue 3 & Bootstrap 5 & Material Design 2.0 UI KIT
-
-*   [mdo/code-guide](https://github.com/mdo/code-guide) - Standards for developing consistent, flexible, and sustainable HTML and CSS.
-
 ## Dockerfile
 
 *   [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
@@ -3226,6 +3216,16 @@
 ## Solidity
 
 *   [AmazingAng/WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) - 我最近在重新学solidity，巩固一下细节，也写一个“WTF Solidity极简入门”，供小白们使用，每周更新1-3讲。官网: https://wtf.academy
+
+## SCSS
+
+*   [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
+
+*   [filecoin-project/specs](https://github.com/filecoin-project/specs) - The Filecoin protocol specification
+
+*   [mdbootstrap/mdb-vue-ui-kit](https://github.com/mdbootstrap/mdb-vue-ui-kit) - Vue 3 & Bootstrap 5 & Material Design 2.0 UI KIT
+
+*   [mdo/code-guide](https://github.com/mdo/code-guide) - Standards for developing consistent, flexible, and sustainable HTML and CSS.
 
 ## Ruby
 
