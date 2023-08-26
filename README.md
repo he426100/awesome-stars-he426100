@@ -195,7 +195,7 @@
 
 *   [aldas/modbus-tcp-client](https://github.com/aldas/modbus-tcp-client) - PHP client for Modbus TCP and Modbus RTU over TCP (can be used for serial)
 
-*   [zjkal/time-helper](https://github.com/zjkal/time-helper) - 最方便快捷的PHP日期时间助手类库。 The most convenient PHP time helper class library.
+*   [zjkal/time-helper](https://github.com/zjkal/time-helper) - 一个简单快捷的PHP日期时间助手类库。 a smart PHP datetime helper library.
 
 *   [vinkla/hashids](https://github.com/vinkla/hashids) - A small PHP library to generate YouTube-like ids from numbers. Use it when you don't want to expose your database ids to the user.
 
@@ -233,7 +233,7 @@
 
 *   [hyperf/box](https://github.com/hyperf/box) - Box is committed to helping improve the programming experience of PHP applications, expecially for Hyperf, managing the PHP environment and related dependencies, providing the ability to package PHP applications as binary programs, and also providing reverse proxy services for managing and deploying Swoole/Swow applications.
 
-*   [dixyes/lwmbs](https://github.com/dixyes/lwmbs) - light weight (maybe) phpmicro build scripts
+*   [dixyes/lwmbs](https://github.com/dixyes/lwmbs) - light weight (maybe) phpmicro build scripts - in major workflow refactoring
 
 *   [aoaostar/toolbox](https://github.com/aoaostar/toolbox) - 🚀傲星工具箱，一个在线工具箱
 
@@ -1191,7 +1191,7 @@
 
 *   [lengyue1024/BAT\_interviews](https://github.com/lengyue1024/BAT_interviews) - :blue\_book: 分享最新BAT面试题(包含机器学习,Linux,PHP,大数据,Python,Java,前端...),持续更新ing...
 
-*   [guoshijiang/blockchain-wallet](https://github.com/guoshijiang/blockchain-wallet) - 区块链钱包技术指南
+*   [guoshijiang/blockchain-wallet](https://github.com/guoshijiang/blockchain-wallet) - Blockchain Wallet Technical Guide
 
 *   [cdoco/learn-regex-zh](https://github.com/cdoco/learn-regex-zh) - :cn: 翻译: 学习正则表达式的简单方法
 
