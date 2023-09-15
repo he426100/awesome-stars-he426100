@@ -585,8 +585,6 @@
 
 *   [filecoin-project/slate](https://github.com/filecoin-project/slate) - WIP - We're building the place you go to discover, share, and sell files on the web.
 
-*   [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
-
 *   [MoOx/pjax](https://github.com/MoOx/pjax) - Easily enable fast Ajax navigation on any website (using pushState +  xhr)
 
 *   [naugtur/xhr](https://github.com/naugtur/xhr) - A small xhr wrapper
@@ -982,6 +980,8 @@
 *   [dcloudio/casecode](https://github.com/dcloudio/casecode) - DCloud开源项目集锦
 
 *   [importre/chromeadb](https://github.com/importre/chromeadb) - :bug: Chrome ADB(Android Debug Bridge) Client
+
+*   [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
 
 ## TypeScript
 
@@ -1871,8 +1871,6 @@
 
 *   [bowu678/php\_bugs](https://github.com/bowu678/php_bugs) - PHP代码审计分段讲解
 
-*   [googleapis/google-api-php-client](https://github.com/googleapis/google-api-php-client) - A PHP client library for accessing Google APIs
-
 *   [fucongcong/GroupCo](https://github.com/fucongcong/GroupCo) - PHP的服务化框架。适用于Api、Http Server、Rpc Server；帮助原生PHP项目转向微服务化。出色的性能与支持高并发的协程相结合
 
 *   [thephpleague/uri](https://github.com/thephpleague/uri) - \[READ-ONLY] URI manipulation Library
@@ -2112,6 +2110,8 @@
 *   [guzzle/promises](https://github.com/guzzle/promises) - Promises/A+ library for PHP with synchronous support
 
 *   [endroid/qr-code](https://github.com/endroid/qr-code) - QR Code Generator
+
+*   [top-think/framework](https://github.com/top-think/framework) - ThinkPHP Framework
 
 ## Python
 
