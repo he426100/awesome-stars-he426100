@@ -1221,7 +1221,7 @@
 
 *   [getopt-php/getopt-php](https://github.com/getopt-php/getopt-php) - A PHP library for command-line argument processing
 
-*   [gptlink/gptlink](https://github.com/gptlink/gptlink) - 10分钟搭建自己可免费商用的ChatGPT环境，搭建简单，包含用户，订单，任务，付费等功能
+*   [gptlink/gptlink](https://github.com/gptlink/gptlink) - 10分钟搭建可免费商用的AI对话环境，搭建简单，包含用户，订单，任务，付费等功能
 
 *   [butschster/prometheus-parser](https://github.com/butschster/prometheus-parser) - Prometheus data parser to AST written on PHP8
 
