@@ -61,7 +61,7 @@
 
 ## miscellaneous
 
-*   [submato/xhscrawl](https://github.com/submato/xhscrawl) - 小红书 x-s逆向，小红书爬虫，小红书账号
+*   [submato/xhscrawl](https://github.com/submato/xhscrawl) - 小红书，小红书逆向，小红书 x-s逆向，小红书爬虫，小红书账号
 
 *   [httaotao/glusterfs-book](https://github.com/httaotao/glusterfs-book) - 作为国内第一本glusterfs的书籍，方便大家学习了解
 
