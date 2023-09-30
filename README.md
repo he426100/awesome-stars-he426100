@@ -1283,6 +1283,8 @@
 
 *   [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
 
+*   [layui/layui](https://github.com/layui/layui) - 一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。
+
 ## Go
 
 *   [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts
@@ -1935,8 +1937,6 @@
 
 *   [chrome-php/chrome](https://github.com/chrome-php/chrome) - Instrument headless chrome/chromium instances from PHP
 
-*   [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP
-
 *   [lisachenko/z-engine](https://github.com/lisachenko/z-engine) - :zap: PHP Engine Direct API
 
 *   [Nyholm/psr7](https://github.com/Nyholm/psr7) - A super lightweight PSR-7 implementation
@@ -2277,8 +2277,6 @@
 
 *   [spatie/async](https://github.com/spatie/async) - Easily run code asynchronously
 
-*   [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
-
 *   [bryanjhv/slim-session](https://github.com/bryanjhv/slim-session) - A very simple session middleware for Slim Framework 2/3/4.
 
 *   [matyhtf/webim](https://github.com/matyhtf/webim) - 使用PHP+Swoole实现的网页即时聊天工具
@@ -2532,6 +2530,8 @@
 *   [endroid/qr-code](https://github.com/endroid/qr-code) - QR Code Generator
 
 *   [top-think/framework](https://github.com/top-think/framework) - ThinkPHP Framework
+
+*   [top-think/think](https://github.com/top-think/think) - ThinkPHP Framework ——十年匠心的高性能PHP框架
 
 ## Python
 
