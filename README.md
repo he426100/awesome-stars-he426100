@@ -1285,6 +1285,8 @@
 
 *   [layui/layui](https://github.com/layui/layui) - 一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。
 
+*   [dcloudio/mui](https://github.com/dcloudio/mui) - 最接近原生APP体验的高性能框架
+
 ## Go
 
 *   [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts
@@ -2197,8 +2199,6 @@
 
 *   [khs1994-docker/php-demo](https://github.com/khs1994-docker/php-demo) - CI/CD 自动测试部署 Docker (On Kubernetes)化 PHP 项目最佳实践示例 （从 docker run ... 到 Kubernetes） | $ composer create-project --prefer-dist khs1994/example example
 
-*   [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues
-
 *   [php-fig/simple-cache](https://github.com/php-fig/simple-cache) -
 
 *   [paragonie/random\_compat](https://github.com/paragonie/random_compat) - PHP 5.x support for random\_bytes() and random\_int()
@@ -2532,6 +2532,8 @@
 *   [top-think/framework](https://github.com/top-think/framework) - ThinkPHP Framework
 
 *   [top-think/think](https://github.com/top-think/think) - ThinkPHP Framework ——十年匠心的高性能PHP框架
+
+*   [w7corp/easywechat](https://github.com/w7corp/easywechat) - 📦 一个 PHP 微信 SDK
 
 ## Python
 
@@ -2988,8 +2990,6 @@
 *   [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南。
 
 *   [golang-china/gopl-zh](https://github.com/golang-china/gopl-zh) - :books: Go语言圣经中文版
-
-*   [tradingview/charting\_library](https://github.com/tradingview/charting_library) - Charting Library package (not source code)
 
 *   [klovelovely/rem2rpx](https://github.com/klovelovely/rem2rpx) -
 
