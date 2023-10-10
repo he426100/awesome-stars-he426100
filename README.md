@@ -16,6 +16,7 @@
 
 ## Table of Contents
 
+*   [PHP](#php)
 *   [miscellaneous](#miscellaneous)
 *   [Shell](#shell)
 *   [C++](#c)
@@ -23,7 +24,6 @@
 *   [Go](#go)
 *   [TypeScript](#typescript)
 *   [Lua](#lua)
-*   [PHP](#php)
 *   [Python](#python)
 *   [C](#c-1)
 *   [PowerShell](#powershell)
@@ -58,6 +58,904 @@
 *   [Clojure](#clojure)
 *   [Astro](#astro)
 *   [Thanks](#thanks)
+
+## PHP
+
+*   [sqids/sqids-php](https://github.com/sqids/sqids-php) - Official PHP port of Sqids. Generate short YouTube-looking IDs from numbers.
+
+*   [code-lives/Pays](https://github.com/code-lives/Pays) - 微信小程序、抖音小程序、百度小程序、支付宝小程序、快手小程序集合（支付、手机号解密、获取Token、模版消息、支付异步通知、退款、订单查询）
+
+*   [libvips/php-vips](https://github.com/libvips/php-vips) - php binding for libvips
+
+*   [skoro/php-tkui](https://github.com/skoro/php-tkui) - Build native desktop applications with PHP only
+
+*   [getopt-php/getopt-php](https://github.com/getopt-php/getopt-php) - A PHP library for command-line argument processing
+
+*   [gptlink/gptlink](https://github.com/gptlink/gptlink) - 10分钟搭建可免费商用的AI对话环境，搭建简单，包含用户，订单，任务，付费等功能
+
+*   [butschster/prometheus-parser](https://github.com/butschster/prometheus-parser) - Prometheus data parser to AST written on PHP8
+
+*   [PromPHP/prometheus\_client\_php](https://github.com/PromPHP/prometheus_client_php) - Prometheus instrumentation library for PHP applications
+
+*   [reliforp/reli-prof](https://github.com/reliforp/reli-prof) - A sampling profiler for PHP written in PHP, which reads information about running PHP VM from outside of the process.
+
+*   [zhangyue0503/dev-blog](https://github.com/zhangyue0503/dev-blog) - php博客文章
+
+*   [php-lock/lock](https://github.com/php-lock/lock) - Lock library to provide serialized execution of PHP code.
+
+*   [minicli/minicli](https://github.com/minicli/minicli) - A minimalist framework for command-line applications in PHP
+
+*   [guanguans/notify](https://github.com/guanguans/notify) - 推送通知 sdk(Bark、Chanify、钉钉群机器人、Discord、邮件、飞书群机器人、Gitter、Google Chat、iGot、Logger、Mattermost、Microsoft Teams、Now Push、Ntfy、PushBack、Push、PushDeer、Pushover、PushPlus、QQ 频道机器人、Rocket Chat、Server 酱、Showdoc Push、Slack、Telegram、Webhook、企业微信群机器人、息知、一封传话、Zulip)。
+
+*   [mhor/php-mediainfo](https://github.com/mhor/php-mediainfo) - PHP wrapper around the mediainfo command
+
+*   [bootgly/bootgly](https://github.com/bootgly/bootgly) - Base PHP Framework for Multi Projects
+
+*   [tectalichq/public-openai-client-php](https://github.com/tectalichq/public-openai-client-php) - OpenAI API Client for PHP. Includes all endpoints and models (DTOs) for all requests and responses.
+
+*   [chawuciren/php-bignumber](https://github.com/chawuciren/php-bignumber) - Using a more modern and concise, object-oriented approach, it is more convenient and intuitive to solve the super large number and floating point precision problems in PHP
+
+*   [zxlmaster/safe-math](https://github.com/zxlmaster/safe-math) - PHP 计算库 依赖 bc 库 对 科学计数法进行处理
+
+*   [xywf221/cn-work-day-database](https://github.com/xywf221/cn-work-day-database) - 一个工作日的数据库 数据来自百度
+
+*   [openai-php/client](https://github.com/openai-php/client) - ⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
+
+*   [aldas/modbus-tcp-client](https://github.com/aldas/modbus-tcp-client) - PHP client for Modbus TCP and Modbus RTU over TCP (can be used for serial)
+
+*   [zjkal/time-helper](https://github.com/zjkal/time-helper) - 一个简单快捷的PHP日期时间助手类库。 a smart PHP datetime helper library.
+
+*   [vinkla/hashids](https://github.com/vinkla/hashids) - A small PHP library to generate YouTube-like ids from numbers. Use it when you don't want to expose your database ids to the user.
+
+*   [onekb/ChatGPT](https://github.com/onekb/ChatGPT) - ChatGPT for PHP，和简易终端实现。Using OpenAI GPT3.5 model API.
+
+*   [orhanerday/open-ai](https://github.com/orhanerday/open-ai) - OpenAI PHP SDK : Most downloaded, forked, contributed, huge community supported, and used PHP (Laravel , Symfony, Yii, Cake PHP or any PHP framework) SDK for OpenAI GPT-3 and DALL-E. It also supports chatGPT-like streaming. (ChatGPT AI is supported)
+
+*   [NeverRetrun/easytree](https://github.com/NeverRetrun/easytree) - PHP tree format
+
+*   [taobali32/jtar-hyperf-user-node](https://github.com/taobali32/jtar-hyperf-user-node) - 用户节点关系记录
+
+*   [chopins/php-libui](https://github.com/chopins/php-libui) - php bindings to the libui C library.
+
+*   [friendsofhyperf/components](https://github.com/friendsofhyperf/components) - 🚀 The most popular components for Hyperf.
+
+*   [SerendipitySwow/Serendipity-job](https://github.com/SerendipitySwow/Serendipity-job) - 🚀🐟 Task Platform Developed Based On Swow and Php8 ｜基于swow和php8开发的任务平台
+
+*   [workbunny/process](https://github.com/workbunny/process) - 🐇 A lightweight mulit-process helper base on PHP.
+
+*   [reactphp/reactphp](https://github.com/reactphp/reactphp) - Event-driven, non-blocking I/O with PHP.
+
+*   [amphp/amp](https://github.com/amphp/amp) - A non-blocking concurrency framework for PHP applications. 🐘
+
+*   [php-pm/php-pm](https://github.com/php-pm/php-pm) - PPM is a process manager, supercharger and load balancer for modern PHP applications.
+
+*   [box-project/box](https://github.com/box-project/box) - 📦🚀 Fast, zero config application bundler with PHARs.
+
+*   [lizhichao/one](https://github.com/lizhichao/one) - A minimalist high-performance php framework that supports the \[swoole | php-fpm] environment
+
+*   [Littlesqx/aint-queue](https://github.com/Littlesqx/aint-queue) - :rocket: An async-queue library built on top of swoole, flexable multi-consumer, coroutine supported. 基于 Swoole 的一个异步队列库，可弹性伸缩的工作进程池，工作进程协程支持。
+
+*   [yuntian001/multi-process-queue](https://github.com/yuntian001/multi-process-queue) - 基于 swoole 的多进程队列系统，低延时(最低毫秒级)、低资源占用, 支持一键化协程、超时控制、失败重试。可与 laravel thinkphp 等框架配合使用
+
+*   [crazywhalecc/php-cli-helper](https://github.com/crazywhalecc/php-cli-helper) - A helpful tool for your CLI php project, pack to phar, init new project with quality tools etc.
+
+*   [hyperf/box](https://github.com/hyperf/box) - Box is committed to helping improve the programming experience of PHP applications, expecially for Hyperf, managing the PHP environment and related dependencies, providing the ability to package PHP applications as binary programs, and also providing reverse proxy services for managing and deploying Swoole/Swow applications.
+
+*   [dixyes/lwmbs](https://github.com/dixyes/lwmbs) - light weight (maybe) phpmicro build scripts
+
+*   [aoaostar/toolbox](https://github.com/aoaostar/toolbox) - 🚀傲星工具箱，一个在线工具箱
+
+*   [joanhey/AdapterMan](https://github.com/joanhey/AdapterMan) - AdapterMan for Workerman. Run almost any PHP app asynchronously with Workerman, without touch 1 line of code in your fw or app.
+
+*   [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build single static PHP binary, with PHP project together, with popular extensions included.
+
+*   [ambroisemaupate/intervention-request](https://github.com/ambroisemaupate/intervention-request) - A customizable Intervention Image wrapper to use simple image re-sampling features over urls and a configurable cache.
+
+*   [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee) -  A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
+
+*   [mjau-mjau/x3](https://github.com/mjau-mjau/x3) - www.photo.gallery / X3
+
+*   [phpmetrics/PhpMetrics](https://github.com/phpmetrics/PhpMetrics) - Beautiful and understandable static analysis tool for PHP
+
+*   [Double-Jin/jin-microservices](https://github.com/Double-Jin/jin-microservices) - Jin microservices is a complete microservice demo based on PHP language + hyperf microservices framework
+
+*   [tuupola/base58](https://github.com/tuupola/base58) - Base58 encoder and decoder for arbitrary data
+
+*   [verze-app/solana-php-sdk](https://github.com/verze-app/solana-php-sdk) - Simple PHP SDK for Solana JSON RPC endpoints
+
+*   [hyperf-plus/admin](https://github.com/hyperf-plus/admin) - 【全新架构】使用体检和laravel-admin类似，无需写前端vue代码即可实现漂亮的ElementUI框架页面，Auth组件和 laravel的auth 类似支持多用户认证功能，hyperf-admin 插件式快速开发框架
+
+*   [daodao97/apidog](https://github.com/daodao97/apidog) - Api Watch Dog, Hyperf 框架的 Api参数校验 和 swagger 生成组件
+
+*   [yuminuo/filecoin-tx](https://github.com/yuminuo/filecoin-tx) - Filecoin transaction library in PHP.
+
+*   [yuminuo/php-filecoin-address](https://github.com/yuminuo/php-filecoin-address) - Pure PHP Filecoin Address Generator / Validator
+
+*   [onlyshow/filecoin-address](https://github.com/onlyshow/filecoin-address) -
+
+*   [owenvoke/opensea-php](https://github.com/owenvoke/opensea-php) - An object oriented PHP wrapper for the OpenSea API
+
+*   [windawake/laravel-reset-transaction](https://github.com/windawake/laravel-reset-transaction) - distributed transaction for call remote api service
+
+*   [hyperf-admin/hyperf-admin](https://github.com/hyperf-admin/hyperf-admin) - hyperf-admin 是基于 hyperf + vue 的配置化后台开发工具
+
+*   [hyperf/nano](https://github.com/hyperf/nano) - 🧬 Nano is a zero-config, no skeleton, minimal Hyperf distribution that allows you to quickly build a Hyperf application with just a single PHP file.
+
+*   [hyperf-cms/hyperf-api](https://github.com/hyperf-cms/hyperf-api) - 使用hyperf构建的接口服务系统
+
+*   [deminy/swoole-by-examples](https://github.com/deminy/swoole-by-examples) - Learn Swoole by Examples
+
+*   [hyperf-ext/auth](https://github.com/hyperf-ext/auth) - The Hyperf Auth package.
+
+*   [qbhy/hyperf-auth](https://github.com/qbhy/hyperf-auth) - hyperf 的 auth 组件
+
+*   [wxxiong6/tree](https://github.com/wxxiong6/tree) - 使用递归把有规则数据，处理成树形数据结构。适用场景菜单、权限、分类等功能。
+
+*   [kanyxmo/MineAdmin](https://github.com/kanyxmo/MineAdmin) - 🎉🎉🎉 MineAdmin是基于Hyperf框架 和 Vue3+Vite4 开发的前后端分离权限管理系统，自适应多终端。特色：后端 crud 生成 + 前端低代码 json 化配置
+
+*   [mochat-cloud/mochat](https://github.com/mochat-cloud/mochat) - 基于企业微信的开源SCRM应用开发框架&引擎，也是一套通用的企业私域流量管理系统!
+
+*   [phper666/jwt-auth](https://github.com/phper666/jwt-auth) - 能直接在hyperf框架中使用jwt的组件.  用之前，请详细的看下下面的文档~
+
+*   [869413421/hyperf-mall](https://github.com/869413421/hyperf-mall) - 一套集成短信注册、邮箱注册、角色权限、支付宝网页支付、微信扫码支付、众筹、秒杀、ElasticSearch商品分面搜索等一系列商城基础功能Api。
+
+*   [top-think/think-swoole](https://github.com/top-think/think-swoole) - Swoole extend for thinkphp
+
+*   [cakephp/chronos](https://github.com/cakephp/chronos) - A standalone DateTime library originally based off of Carbon
+
+*   [peinhu/AetherUpload-Laravel](https://github.com/peinhu/AetherUpload-Laravel) - A Laravel package to upload large files  上传大文件的Laravel扩展包
+
+*   [mylxsw/wizard](https://github.com/mylxsw/wizard) - Wizard是一款开源的文档管理工具，支持Markdown/Swagger/Table类型的文档。
+
+*   [HGthecode/thinkphp-apidoc](https://github.com/HGthecode/thinkphp-apidoc) - ThinkPHP 注释自动生成API文档，在线调试，代码生成器，Markdown文档
+
+*   [swoolex/swoolex](https://github.com/swoolex/swoolex) - SwooleX一款专注于高性能、便捷开发的PHP协程框架
+
+*   [sabre-io/event](https://github.com/sabre-io/event) - :bell: The sabre/event library provides utilities for lightweight event-based programming
+
+*   [paragonie/paseto](https://github.com/paragonie/paseto) - Platform-Agnostic Security Tokens
+
+*   [naoyayamamoto/laravel-docker-sample](https://github.com/naoyayamamoto/laravel-docker-sample) - Build laravel development environment with docker-compose and vscode remote-containers.
+
+*   [mk-j/PHP\_XLSXWriter](https://github.com/mk-j/PHP_XLSXWriter) - Lightweight XLSX Excel Spreadsheet Writer in PHP
+
+*   [krowinski/bcmath-extended](https://github.com/krowinski/bcmath-extended) - Extends php BCMath lib for missing functions like floor, ceil, round, abs, min, max, rand for big numbers. Also wraps existing BCMath functions.
+
+*   [andanyoung/think-tests](https://github.com/andanyoung/think-tests) - 针对于thinkphp框架开发的单元测试包--兼容PhpStorm
+
+*   [thinkphp6/thinkphp-migration-generator](https://github.com/thinkphp6/thinkphp-migration-generator) - thinkphp migration generator , ThinkPHP 数据库反向生成工具
+
+*   [bamarni/composer-bin-plugin](https://github.com/bamarni/composer-bin-plugin) - No conflicts for your bin dependencies
+
+*   [php-runtime/runtime](https://github.com/php-runtime/runtime) - A home for runtimes.
+
+*   [pupuk/address](https://github.com/pupuk/address) - 纯PHP版，收货地址智能解析，不需要数据库支持，简单易用。可解析（身份证号，电话，座机，区号，拆分省+市+区+街道地址）
+
+*   [shihaoking/xmcs](https://github.com/shihaoking/xmcs) - 姓名测试和起名网站
+
+*   [revoltphp/event-loop](https://github.com/revoltphp/event-loop) - Revolt is a rock-solid event loop for concurrent PHP applications.
+
+*   [jsor/geokit](https://github.com/jsor/geokit) - Geo-Toolkit for PHP.
+
+*   [mjaschen/phpgeo](https://github.com/mjaschen/phpgeo) - Simple Yet Powerful Geo Library for PHP
+
+*   [brick/geo](https://github.com/brick/geo) - GIS geometry library for PHP
+
+*   [pfinal/city](https://github.com/pfinal/city) - 中华人民共和国行政区划数据：省份、城市、区县。中国省市区镇三级联动地址数据。城市经纬度数据。
+
+*   [zoujingli/WeChatDeveloper](https://github.com/zoujingli/WeChatDeveloper) - 【新】微信服务号+微信小程序+微信支付+支付宝支付
+
+*   [nunomaduro/collision](https://github.com/nunomaduro/collision) - 💥 Collision is a beautiful error reporting tool for command-line applications
+
+*   [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
+
+*   [symfony/console](https://github.com/symfony/console) - Eases the creation of beautiful and testable command line interfaces
+
+*   [xielei/swoole-worker](https://github.com/xielei/swoole-worker) - SwooleWorker是基于swoole开发的一款分布式长连接开发框架。常驻内存，协程，高性能高并发；分布式部署，横向扩容，使得能支持庞大的连接数；无感知安全重启，无缝升级代码；接口丰富，支持单个发送，分组发送，群发广播等接口。可广泛应用于云计算、物联网（IOT）、车联网、智能家居、网络游戏等领域。
+
+*   [zabbix/zabbix](https://github.com/zabbix/zabbix) - Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.
+
+*   [chia-toolkit/chia.keva.app](https://github.com/chia-toolkit/chia.keva.app) -
+
+*   [spatie/crypto](https://github.com/spatie/crypto) - Encrypt and decrypt data using private/public keys
+
+*   [PHPAuth/PHPAuth](https://github.com/PHPAuth/PHPAuth) -   PHPAuth is a secure PHP Authentication class that easily integrates into any site.
+
+*   [archtechx/tenancy](https://github.com/archtechx/tenancy) - Automatic multi-tenancy for Laravel. No code changes needed.
+
+*   [tenancy/multi-tenant](https://github.com/tenancy/multi-tenant) - Run multiple websites using the same Laravel installation while keeping tenant specific data separated for fully independent multi-domain setups, previously github.com/hyn/multi-tenant
+
+*   [tenancy/tenancy](https://github.com/tenancy/tenancy) - Run multiple websites using the same Laravel installation while keeping tenant specific data separated for fully independent multi-domain setups.
+
+*   [jianyan74/rageframe2](https://github.com/jianyan74/rageframe2) - 一个基于 Yii2 高级框架的快速开发应用引擎
+
+*   [teamones-open/casbin](https://github.com/teamones-open/casbin) - 基于 php-casbin 的 casbin 封装
+
+*   [phpMv/ubiquity](https://github.com/phpMv/ubiquity) - Ubiquity framework
+
+*   [walkor/crontab](https://github.com/walkor/crontab) - A crontab written in PHP based on workerman
+
+*   [aliyun/openapi-sdk-php-client](https://github.com/aliyun/openapi-sdk-php-client) - Official repository of the Alibaba Cloud Client for PHP
+
+*   [webman-php/webman-manual](https://github.com/webman-php/webman-manual) - Manual for webman
+
+*   [OMGZui/noteBook](https://github.com/OMGZui/noteBook) - 🍎  笔记本
+
+*   [walkor/redis-queue](https://github.com/walkor/redis-queue) - Message queue system written in PHP based on workerman and backed by Redis.
+
+*   [72wukong/72crm-9.0-PHP](https://github.com/72wukong/72crm-9.0-PHP) - 悟空CRM-基于TP5.0+vue+ElementUI的前后端分离CRM系统
+
+*   [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework?
+
+*   [wind-framework/wind-framework](https://github.com/wind-framework/wind-framework) - Pure PHP Coroutine Framework based on Workerman and Amphp.
+
+*   [Litipk/php-bignumbers](https://github.com/Litipk/php-bignumbers) - A robust library to handle immutable big numbers inside PHP applications
+
+*   [beyondcode/expose](https://github.com/beyondcode/expose) - A beautiful, fully open-source, tunneling service - written in pure PHP
+
+*   [NanQi/ethereum-php](https://github.com/NanQi/ethereum-php) - ethereum eth web3 php keysotre bip44 infura etherscan proxy api
+
+*   [dompdf/dompdf](https://github.com/dompdf/dompdf) - HTML to PDF converter for PHP
+
+*   [top-think/think-installer](https://github.com/top-think/think-installer) -
+
+*   [swoole/phpkafka](https://github.com/swoole/phpkafka) - PHP Kafka client is used in PHP-FPM and Swoole. PHP Kafka client supports 50 APIs, which might be one that supports the most message types ever.
+
+*   [NHZEX/think-phinx](https://github.com/NHZEX/think-phinx) - think framework 6.0 phinx extend
+
+*   [JaguarJack/migration-generator](https://github.com/JaguarJack/migration-generator) - 如果你还未使用或者正想使用数据库迁移功能，但又不并不想自己写迁移文件的话，这个工具可以很好的帮助实现文件迁移， 目前提供了 Laravel5.5+ 和 Thinkphp6+ 的迁移文件的生成。If you haven't used or want to use the database migration function, but don't want to write the migration file， this tool can be very helpful to implement the file migration. Currently, Laravel 5.5+ and Thinkphp6 + are provided to generate the migration file.
+
+*   [swow/swow-examples](https://github.com/swow/swow-examples) - Shows how to use Swow.
+
+*   [hassankhan/config](https://github.com/hassankhan/config) - Config is a lightweight configuration file loader that supports PHP, INI, XML, JSON, and YAML files
+
+*   [nette/utils](https://github.com/nette/utils) - 🛠 Lightweight utilities for string & array manipulation, image handling, safe JSON encoding/decoding, validation, slug or strong password generating etc.
+
+*   [zhongshaofa/easyadmin](https://github.com/zhongshaofa/easyadmin) - 框架主要使用ThinkPHP6.0 + layui，拥有完善的权限的管理模块以及敏捷的开发方式，让你开发起来更加的舒服。
+
+*   [overtrue/socialite](https://github.com/overtrue/socialite) - Socialite is an OAuth2 Authentication tool. It is inspired by laravel/socialite, you can easily use it without Laravel.
+
+*   [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - PrestaShop is the universal open-source software platform to build your e-commerce solution.
+
+*   [ofcold/identity-card](https://github.com/ofcold/identity-card) - A simple proof of identity card of the people's Republic of China.
+
+*   [ionepub/idcard](https://github.com/ionepub/idcard) - 二代身份证号码验证，可用于验证二代身份证号码是否合法、从身份证号码中获取生日/性别/年龄/地区信息 A Chinese identity card number verification class
+
+*   [alicfeng/IdentityCard](https://github.com/alicfeng/IdentityCard) - 中国（大陆）公民身份证工具类🔨用于身份证计算年龄、生日、星座、性别、生肖、政区划代码，同时绘制身份证正反面
+
+*   [chekalsky/php-banks-db](https://github.com/chekalsky/php-banks-db) - PHP library for getting bank info (name, brand color etc) by first digits of card's number
+
+*   [inacho/php-credit-card-validator](https://github.com/inacho/php-credit-card-validator) - Validates popular debit and credit cards numbers against regular expressions and Luhn algorithm. Also validates the CVC and the expiration date.
+
+*   [php-casbin/think-authz](https://github.com/php-casbin/think-authz) - An authorization library that supports access control models like ACL, RBAC, ABAC in ThinkPHP.
+
+*   [mjphaynes/php-resque](https://github.com/mjphaynes/php-resque) - php-resque is a Redis-backed PHP library for creating background jobs, placing them on multiple queues, and processing them later.
+
+*   [php-enqueue/enqueue-bundle](https://github.com/php-enqueue/enqueue-bundle) - \[READ-ONLY] Message queue bundle for Symfony. RabbitMQ, Amazon SQS, Redis, Service bus, Async events, RPC over MQ and a lot more
+
+*   [php-enqueue/enqueue-dev](https://github.com/php-enqueue/enqueue-dev) - Message Queue, Job Queue, Broadcasting, WebSockets packages for PHP, Symfony, Laravel, Magento. DEVELOPMENT REPOSITORY - provided by Forma-Pro
+
+*   [wwwwfw/SM4\_PHP\_Java](https://github.com/wwwwfw/SM4_PHP_Java) - SM4加密算法PHP版本及Java版本
+
+*   [pimcore/number-sequence-generator](https://github.com/pimcore/number-sequence-generator) -
+
+*   [spryker/sequence-number](https://github.com/spryker/sequence-number) - \[READ ONLY] Subtree split of the SequenceNumber module.
+
+*   [yz20032004/suishouhui](https://github.com/yz20032004/suishouhui) - 为线下中小微实体店铺提供轻松简便的会员营销系统，功能包括会员等级和权益设计，会员开卡礼，消费返积分，积分兑换，优惠券的创建/投放/核销和裂变分发，储值，群发优惠券和群发短信等会员营销功能，以及团购、拼团、次卡、商城、付费卡、外卖、点餐等线上交易功能。
+
+*   [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
+
+*   [beberlei/assert](https://github.com/beberlei/assert) - Thin assertion library for use in libraries and business-model
+
+*   [brick/math](https://github.com/brick/math) - Arbitrary-precision arithmetic library for PHP
+
+*   [hbh112233abc/ding-bot](https://github.com/hbh112233abc/ding-bot) - php plugin for dingtalk robot
+
+*   [sabre-io/dav](https://github.com/sabre-io/dav) - sabre/dav is a CalDAV, CardDAV and WebDAV framework for PHP
+
+*   [zdhxiong/mdclub](https://github.com/zdhxiong/mdclub) - MDClub 社区系统后端代码
+
+*   [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
+
+*   [squizlabs/PHP\_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - PHP\_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
+
+*   [chrome-php/chrome](https://github.com/chrome-php/chrome) - Instrument headless chrome/chromium instances from PHP
+
+*   [lisachenko/z-engine](https://github.com/lisachenko/z-engine) - :zap: PHP Engine Direct API
+
+*   [Nyholm/psr7](https://github.com/Nyholm/psr7) - A super lightweight PSR-7 implementation
+
+*   [php-http/httplug](https://github.com/php-http/httplug) - HTTPlug, the HTTP client abstraction for PHP
+
+*   [mockery/mockery](https://github.com/mockery/mockery) - Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).
+
+*   [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) - The Easiest way to add coding standard to your PHP project
+
+*   [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications
+
+*   [rectorphp/rector](https://github.com/rectorphp/rector) - Instant Upgrades and Automated Refactoring of any PHP 5.3+ code
+
+*   [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP
+
+*   [weiboad/kafka-php](https://github.com/weiboad/kafka-php) - kafka php client
+
+*   [chenlinzhong/php-delayqueue](https://github.com/chenlinzhong/php-delayqueue) - 基于redis实现高可用，易拓展，接入方便，生产环境稳定运行的延迟队列
+
+*   [pheanstalk/pheanstalk](https://github.com/pheanstalk/pheanstalk) - PHP client for beanstalkd queue
+
+*   [maiscrm/jos-php-sdk](https://github.com/maiscrm/jos-php-sdk) -
+
+*   [bstdn/ApiAdmin-ThinkPHP](https://github.com/bstdn/ApiAdmin-ThinkPHP) - PHP ThinkPHP Api Admin
+
+*   [suframe/think-admin](https://github.com/suframe/think-admin) - thinkphp6 admin后台核心库
+
+*   [yupoxiong/BearAdmin](https://github.com/yupoxiong/BearAdmin) - 基于ThinkPHP6.0+AdminLTE3.2的后台管理系统
+
+*   [Zhao-github/ApiAdmin](https://github.com/Zhao-github/ApiAdmin) - 基于ThinkPHP V6.\*开发的面向API的后台管理系统！
+
+*   [JaguarJack/catch-admin](https://github.com/JaguarJack/catch-admin) - CatchAdmin is a background management system based on secondary development of Laravel and Element Plus. CatchAdmin still adopts the traditional front-end and back-end separation strategy, and the Laravel framework is only used as an Api output. Coupling between management system modules is minimized
+
+*   [bobthecow/psysh](https://github.com/bobthecow/psysh) - A REPL for PHP
+
+*   [opis/closure](https://github.com/opis/closure) - Serialize closures (anonymous functions)
+
+*   [surest-sky/think-vue-admin-api](https://github.com/surest-sky/think-vue-admin-api) - 一套有thinkphp开发集成性后台接口，内置权限管理，api响应，psysh等多功能工具
+
+*   [friendsofthinkphp/think-permission](https://github.com/friendsofthinkphp/think-permission) - ThinkPHP 6 权限认证
+
+*   [douyasi/china-divisions](https://github.com/douyasi/china-divisions) - 中国大陆县级以上行政区划数据库
+
+*   [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
+
+*   [godruoyi/php-snowflake](https://github.com/godruoyi/php-snowflake) - ❄ An ID Generator for PHP based on Snowflake Algorithm (Twitter announced).
+
+*   [edenleung/think-admin](https://github.com/edenleung/think-admin) - ThinkPHP 6.0 与 Ant Design Pro Vue 基础前后分离权限系统
+
+*   [dvaknheo/duckphp](https://github.com/dvaknheo/duckphp) - PHP框架，PHP Framework. keep PHP simple and fast.  Laravel larva and Smarty is evil
+
+*   [simple-swoole/simps](https://github.com/simple-swoole/simps) - 🚀 A simple, lightweight and high-performance PHP coroutine framework.
+
+*   [SimpleSoftwareIO/simple-qrcode](https://github.com/SimpleSoftwareIO/simple-qrcode) - An easy-to-use PHP QrCode generator with first-party support for Laravel.
+
+*   [18230/Tools](https://github.com/18230/Tools) - Tools
+
+*   [zhouaini528/exchanges-php](https://github.com/zhouaini528/exchanges-php) - This is a virtual currency SDK that brings together multiple exchanges
+
+*   [top-think/think-queue](https://github.com/top-think/think-queue) - ThinkPHP 队列支持
+
+*   [walkor/mqtt](https://github.com/walkor/mqtt) - Asynchronous MQTT client for PHP based on workerman.
+
+*   [walkor/webman](https://github.com/walkor/webman) - Probably the fastest PHP web framework in the world.
+
+*   [top-think/think-throttle](https://github.com/top-think/think-throttle) - thinkphp 限制访问频率的中间件
+
+*   [matriphe/larinfo](https://github.com/matriphe/larinfo) - Display system information (IP address, OS, versions) for Laravel.
+
+*   [DavidePastore/ipinfo](https://github.com/DavidePastore/ipinfo) - A wrapper around the ipinfo.io services
+
+*   [Ocramius/PackageVersions](https://github.com/Ocramius/PackageVersions) -  :package: Composer addon to efficiently get installed packages' version numbers
+
+*   [shmilylbelva/laykefu](https://github.com/shmilylbelva/laykefu) - thinkphp5+workerman+gatewayworker搭建的webim客服系统/即时通讯
+
+*   [iqiqiya/iqiqiya-API](https://github.com/iqiqiya/iqiqiya-API) - API接口大全不断更新中~欢迎Fork和Star(✎ 1.一言(古诗句版)api  ✎ 2.必应每日一图api  ✎ 3.在线ip查询  ✎ 4.m3u8视频在线解析api  ✎ 5.随机生成二次元图片api  ✎ 6.快递查询api-支持国内百家快递  ✎ 7.flv视频在线解析api ✎ 8.抖音视频无水印解析api✎ 9.一句话随机图片api✎ 10.QQ用户信息获取api✎11.哔哩哔哩封面图获取api✎12.千图网58pic无水印解析下载api✎13.喜马拉雅主播FM数据采集api✎14.网易云音乐api✎15.CCTV央视网视频解析api✎16.微信运动刷步数api✎17.皮皮搞笑APP短视频无水印解析api✎18.皮皮虾短视频去水印解析✎19.蓝奏云直链解析✎20.千库网无水印解析✎21.17素材网免VIP解析✎22.快手短视频去水印解析✎23.微视短视频去水印解析)
+
+*   [yuzhenlei/holiday](https://github.com/yuzhenlei/holiday) - 根据国务院公告解析放假日期
+
+*   [top-think/think-annotation](https://github.com/top-think/think-annotation) - ThinkPHP6注解
+
+*   [gouguoyin/easyhttp](https://github.com/gouguoyin/easyhttp) - EasyHttp 是一个轻量级、语义化、对IDE友好的HTTP客户端，支持常见的HTTP请求、异步请求和并发请求，让你可以快速地使用 HTTP 请求与其他 Web 应用进行通信。
+
+*   [friendsofthinkphp/think-jwt](https://github.com/friendsofthinkphp/think-jwt) - ThinkPHP Jwt 扩展包
+
+*   [nikic/FastRoute](https://github.com/nikic/FastRoute) - Fast request router for PHP
+
+*   [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths
+
+*   [blueimp/jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag\&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.
+
+*   [hyperf/hyperf](https://github.com/hyperf/hyperf) - 🚀 A coroutine framework that focuses on hyperspeed and flexibility. Building microservice or middleware with ease.
+
+*   [adhocore/php-jwt](https://github.com/adhocore/php-jwt) - Ultra lightweight, dependency free and standalone JSON web token (JWT) library for PHP5.6 to PHP8.2. This library makes JWT a cheese. It is a minimal JWT integration for PHP.
+
+*   [pupuk/address-smart-parse](https://github.com/pupuk/address-smart-parse) - 智能解析收货地址，成功率96%以上，支持（身份证号，电话，座机，区号，省市区街道地址）A smart address parser write by PHP. Get name\&receiver phone \&post code \&address from a complicated string. Get province, city ,area, and street address.
+
+*   [Double-Jin/jin-chat](https://github.com/Double-Jin/jin-chat) - Complete PC chat system based on EasySwoole and PHP  (IM chat app)
+
+*   [tealang/tea](https://github.com/tealang/tea) - Tea is a humanized programming language.
+
+*   [QThans/jwt-auth](https://github.com/QThans/jwt-auth) - JSON Web Token Authentication for Thinkphp
+
+*   [szvone/vmqphp](https://github.com/szvone/vmqphp) - V免签PHP版 完全开源免费的个人免签约解决方案
+
+*   [guanguans/think-soar](https://github.com/guanguans/think-soar) - SQL optimizer and rewriter extension package for thinkphp5/6 framework.
+
+*   [swiftmailer/swiftmailer](https://github.com/swiftmailer/swiftmailer) - Comprehensive mailing tools for PHP
+
+*   [slince/composer-registry-manager](https://github.com/slince/composer-registry-manager) - :hammer\_and\_wrench: :hammer: Composer registry manager that help to easily switch to the  composer repository you want.
+
+*   [greenlion/PHP-SQL-Parser](https://github.com/greenlion/PHP-SQL-Parser) - A pure PHP SQL (non validating) parser w/ focus on MySQL dialect of SQL
+
+*   [zhouaini528/huobi-php](https://github.com/zhouaini528/huobi-php) - Huobi API Like the official document interface, Support for arbitrary extension.
+
+*   [zencodex/composer-mirror](https://github.com/zencodex/composer-mirror) - Composer 全量镜像发布于2017年3月，曾不间断运行2年多。这个开源有助于理解 Composer 镜像的工作原理
+
+*   [urlhum/UrlHum](https://github.com/urlhum/UrlHum) - The modern, privacy-aware URL Shortener built in PHP.
+
+*   [spatie/period](https://github.com/spatie/period) - Complex period comparisons
+
+*   [leeqvip/tadmin](https://github.com/leeqvip/tadmin) - 一个基于ThinkPHP的非侵入式后台开发框架。
+
+*   [php-casbin/think-casbin](https://github.com/php-casbin/think-casbin) - 专为ThinkPHP定制的Casbin的扩展包，Casbin是一个功能强大，高效的开源访问控制库。
+
+*   [wenjy/design\_patten\_php](https://github.com/wenjy/design_patten_php) - 《大话设计模式》学习整理
+
+*   [hunzhiwange/queryphp](https://github.com/hunzhiwange/queryphp) - ++🔥High Performance PHP Progressive Framework.
+
+*   [php-casbin/php-casbin](https://github.com/php-casbin/php-casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in PHP .
+
+*   [TiBeN/CrontabManager](https://github.com/TiBeN/CrontabManager) - PHP library for GNU/Linux cron jobs management.
+
+*   [namshi/jose](https://github.com/namshi/jose) - JSON Object Signing and Encryption library for PHP.
+
+*   [adbario/php-dot-notation](https://github.com/adbario/php-dot-notation) - Dot notation access to PHP arrays
+
+*   [thecodingmachine/safe](https://github.com/thecodingmachine/safe) - All PHP functions, rewritten to throw exceptions instead of returning false
+
+*   [nahid/jsonq](https://github.com/nahid/jsonq) - A PHP query builder for JSON
+
+*   [inhere/php-console](https://github.com/inhere/php-console) - 🖥 PHP CLI application library, provide console options,arguments parse, console controller/command run, color style, user interactive, format information show and more.  功能全面的PHP命令行应用库。提供控制台选项、参数解析, 命令运行，颜色风格输出, 用户信息交互, 特殊格式信息显示
+
+*   [jxlwqq/id-validator](https://github.com/jxlwqq/id-validator) - 中华人民共和国居民身份证、中华人民共和国港澳居民居住证以及中华人民共和国台湾居民居住证号码验证工具（PHP 版）
+
+*   [PHP-DI/PHP-DI](https://github.com/PHP-DI/PHP-DI) - The dependency injection container for humans
+
+*   [nategood/httpful](https://github.com/nategood/httpful) - A Chainable, REST Friendly, PHP HTTP Client.  A sane alternative to cURL.
+
+*   [czewail/think-api](https://github.com/czewail/think-api) - 帮助 thinkphp 5 开发者快速、轻松的构建Api🎉🎉🎉
+
+*   [phpple/altable](https://github.com/phpple/altable) - Altable用来对通过mysqldump出来的表结构数据进行解析，分析出数据库、数据表、字段、主键、索引等信息。
+
+*   [swlib/saber](https://github.com/swlib/saber) - ⚔️ Saber, PHP异步协程HTTP客户端 | PHP Coroutine HTTP client - Swoole Humanization Library
+
+*   [noximo/PHP-colored-ascii-linechart](https://github.com/noximo/PHP-colored-ascii-linechart) - Nice looking versatile ASCII linegraph written in PHP
+
+*   [xx19941215/light-tips](https://github.com/xx19941215/light-tips) - Some code tips about algorithms, php and more 🔥
+
+*   [lyxlk/CharRoom](https://github.com/lyxlk/CharRoom) - PHP + Swoole 聊天室
+
+*   [spatie/code-outliner](https://github.com/spatie/code-outliner) - Generate outline images of your code
+
+*   [simshaun/recurr](https://github.com/simshaun/recurr) - PHP library for working with recurrence rules (RRULE); meant to help with recurring calendar events.
+
+*   [yidas/phpspreadsheet-helper](https://github.com/yidas/phpspreadsheet-helper) - PHP Excel Helper - Write and read Spreadsheet with easy way based on PhpSpreadsheet
+
+*   [phpseclib/phpseclib](https://github.com/phpseclib/phpseclib) - PHP Secure Communications Library
+
+*   [imiphp/imi](https://github.com/imiphp/imi) - imi 是一款支持长连接微服务分布式的 PHP 开发框架，它可以运行在 PHP-FPM、Swoole、Workerman、RoadRunner 等多种容器环境下。它支持 HttpApi、WebSocket、TCP、UDP、MQTT 服务的开发。特别适合互联网微服务、即时通讯聊天im、物联网等场景！QQ群：17916227
+
+*   [slince/spike](https://github.com/slince/spike) - :mega: A fast reverse proxy written in PHP that helps to expose local services to the internet
+
+*   [storyflow/PHPer](https://github.com/storyflow/PHPer) - 一个PHPer的升级之路
+
+*   [metowolf/Meting](https://github.com/metowolf/Meting) - :cake: Wow, such a powerful music API framework
+
+*   [30-seconds/30-seconds-of-php](https://github.com/30-seconds/30-seconds-of-php) - Short PHP code snippets for all your development needs
+
+*   [igniphp/framework](https://github.com/igniphp/framework) - Swoole, PSR-15, PSR-7, PSR-11 lightweight modular anti-framework for REST micro-services.
+
+*   [medz/id-card-of-china](https://github.com/medz/id-card-of-china) - 🆔一个基于「公民身份号码」规则获取身份证号码中包含的基础信息组件（PHP）
+
+*   [xianyunyh/PHP-Interview](https://github.com/xianyunyh/PHP-Interview) - This is the information I prepared for the PHP interview.The notes include PHP, MySql, Linux, etc.
+
+*   [oraoto/pib](https://github.com/oraoto/pib) - PHP in Browser (powered by WebAssembly)
+
+*   [c0ny1/upload-labs](https://github.com/c0ny1/upload-labs) - 一个想帮你总结所有类型的上传漏洞的靶场
+
+*   [jialeicui/FakerChineseIdNumber](https://github.com/jialeicui/FakerChineseIdNumber) - 身份证填充数据
+
+*   [fzaninotto/Faker](https://github.com/fzaninotto/Faker) - Faker is a PHP library that generates fake data for you
+
+*   [kevinyan815/Learning\_Laravel\_Kernel](https://github.com/kevinyan815/Learning_Laravel_Kernel) - Laravel核心代码学习
+
+*   [web3p/web3.php](https://github.com/web3p/web3.php) - A php interface for interacting with the Ethereum blockchain and ecosystem. Native ABI parsing and smart contract interactions.
+
+*   [swooletw/laravel-swoole](https://github.com/swooletw/laravel-swoole) - High performance HTTP server based on Swoole. Speed up your Laravel or Lumen applications.
+
+*   [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
+
+*   [defuse/php-encryption](https://github.com/defuse/php-encryption) - Simple Encryption in PHP.
+
+*   [Anankke/SSPanel-Uim](https://github.com/Anankke/SSPanel-Uim) - SSPanel V3 魔改再次修改版
+
+*   [rialto-php/puphpeteer](https://github.com/rialto-php/puphpeteer) - A Puppeteer bridge for PHP, supporting the entire API.
+
+*   [passbolt/passbolt\_api](https://github.com/passbolt/passbolt_api) - Passbolt CE Backend, a JSON API written with CakePHP
+
+*   [zhaocong6/lock](https://github.com/zhaocong6/lock) - 高性能分布式并发锁, 行为限流
+
+*   [zyx0814/dzzoffice](https://github.com/zyx0814/dzzoffice) - dzzoffice
+
+*   [qieangel2013/EsParser](https://github.com/qieangel2013/EsParser) -  PHP write SQL to convert DSL to query Elasticsearch
+
+*   [medz/cors](https://github.com/medz/cors) - 🔮Supported(Laravel/Lumen/PSR-15/Swoft/Slim/ThinkPHP) - PHP CORS (Cross-origin resource sharing) middleware.
+
+*   [lodash-php/lodash-php](https://github.com/lodash-php/lodash-php) - Easy to use utility functions for everyday PHP projects. This is a port of the Lodash JS library to PHP
+
+*   [markrogoyski/math-php](https://github.com/markrogoyski/math-php) - Powerful modern math library for PHP: Features descriptive statistics and regressions; Continuous and discrete probability distributions; Linear algebra with matrices and vectors, Numerical analysis; special mathematical functions; Algebra
+
+*   [kriswallsmith/Buzz](https://github.com/kriswallsmith/Buzz) - PHP's lightweight HTTP client
+
+*   [jenssegers/date](https://github.com/jenssegers/date) - 🗓 A library to help you work with dates in multiple languages, based on Carbon.
+
+*   [overtrue/chinese-calendar](https://github.com/overtrue/chinese-calendar) - :date: 中国农历（阴历）与阳历（公历）转换与查询工具
+
+*   [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - A simple PHP API extension for DateTime.
+
+*   [JayBizzle/Crawler-Detect](https://github.com/JayBizzle/Crawler-Detect) - 🕷 CrawlerDetect is a PHP class for detecting bots/crawlers/spiders via the user agent
+
+*   [symfony/dom-crawler](https://github.com/symfony/dom-crawler) - Eases DOM navigation for HTML and XML documents
+
+*   [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony
+
+*   [WyriHaximus/react-guzzle-psr7](https://github.com/WyriHaximus/react-guzzle-psr7) -
+
+*   [lmc-eu/steward](https://github.com/lmc-eu/steward) - PHP libraries that makes Selenium WebDriver + PHPUnit functional testing easy and robust
+
+*   [Vectorface/whip](https://github.com/Vectorface/whip) - A PHP class for retrieving accurate IP address information for the client.
+
+*   [akrabat/ip-address-middleware](https://github.com/akrabat/ip-address-middleware) - PSR-7 Middleware that determines the client IP address and stores it as an ServerRequest attribute
+
+*   [thephpleague/plates](https://github.com/thephpleague/plates) - Native PHP template system
+
+*   [jupitern/slim3-skeleton](https://github.com/jupitern/slim3-skeleton) - Slim3 skeleton (http + cli) with some add-ons out of the box
+
+*   [php-webdriver/php-webdriver](https://github.com/php-webdriver/php-webdriver) - PHP client for Selenium/WebDriver protocol. Previously facebook/php-webdriver
+
+*   [helloxz/IPinfo](https://github.com/helloxz/IPinfo) - 整合多接口的IP查询工具。
+
+*   [deployphp/deployer](https://github.com/deployphp/deployer) - The PHP deployment tool with support for popular frameworks out of the box
+
+*   [sebastianbergmann/phpcpd](https://github.com/sebastianbergmann/phpcpd) - Copy/Paste Detector (CPD) for PHP code.
+
+*   [zhuzhichao/bank-card-info](https://github.com/zhuzhichao/bank-card-info) - 获取银行卡号的归属信息
+
+*   [khs1994-docker/php-demo](https://github.com/khs1994-docker/php-demo) - CI/CD 自动测试部署 Docker (On Kubernetes)化 PHP 项目最佳实践示例 （从 docker run ... 到 Kubernetes） | $ composer create-project --prefer-dist khs1994/example example
+
+*   [php-fig/simple-cache](https://github.com/php-fig/simple-cache) -
+
+*   [paragonie/random\_compat](https://github.com/paragonie/random_compat) - PHP 5.x support for random\_bytes() and random\_int()
+
+*   [phar-io/manifest](https://github.com/phar-io/manifest) - Component for reading phar.io manifest information from a PHP Archive (PHAR)
+
+*   [dragonmantank/cron-expression](https://github.com/dragonmantank/cron-expression) - CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
+
+*   [mtdowling/cron-expression](https://github.com/mtdowling/cron-expression) - CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
+
+*   [php-school/cli-menu](https://github.com/php-school/cli-menu) - 🖥  Build beautiful PHP CLI menus. Simple yet Powerful. Expressive DSL.
+
+*   [symfony/var-dumper](https://github.com/symfony/var-dumper) - Provides mechanisms for walking through any arbitrary PHP variable
+
+*   [hhxsv5/php-sse](https://github.com/hhxsv5/php-sse) - A simple and efficient library implemented HTML5's server-sent events by PHP, is used to real-time push events from server to client, and easier than Websocket, instead of AJAX request.
+
+*   [Bit-Wasp/bitcoin-php](https://github.com/Bit-Wasp/bitcoin-php) - Bitcoin implementation in PHP
+
+*   [easy-swoole/spider](https://github.com/easy-swoole/spider) - a multi process spider base on easyswoole
+
+*   [Yurunsoft/ChineseUtil](https://github.com/Yurunsoft/ChineseUtil) - PHP 中文工具包，支持汉字转拼音、拼音分词、简繁互转、数字、金额大写；QQ群：17916227
+
+*   [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) - A pure PHP library for reading and writing spreadsheet files
+
+*   [hhxsv5/laravel-s](https://github.com/hhxsv5/laravel-s) - LaravelS is an out-of-the-box adapter between Laravel/Lumen and Swoole.
+
+*   [pachico/slim-swoole](https://github.com/pachico/slim-swoole) - Convenient library to run SlimPHP applications with Swoole
+
+*   [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation
+
+*   [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality.
+
+*   [sebastianbergmann/php-timer](https://github.com/sebastianbergmann/php-timer) - Utility class for timing
+
+*   [spatie/server-side-rendering](https://github.com/spatie/server-side-rendering) - Server side rendering JavaScript in a PHP application
+
+*   [wmhello/workManger](https://github.com/wmhello/workManger) - 简单易用的学校信息管理系统（管理教职工基础信息、教学过程、短信消息和模板消息发送 学校微信公众号管理 简单事项审批）
+
+*   [maximebf/php-debugbar](https://github.com/maximebf/php-debugbar) - Debug bar for PHP
+
+*   [bingcool/swoolefy](https://github.com/bingcool/swoolefy) - swoolefy是一个基于swoole实现的协程级、轻量级、高性能、开放性的API应用服务框架
+
+*   [overtrue/laravel-shopping-cart](https://github.com/overtrue/laravel-shopping-cart) - :shopping\_cart: Shopping cart for Laravel Application.
+
+*   [wilon/php-number2chinese](https://github.com/wilon/php-number2chinese) - PHP 数字转为中文汉字描述、人民币大写方法。
+
+*   [spatie/crawler](https://github.com/spatie/crawler) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript.
+
+*   [twigphp/Twig](https://github.com/twigphp/Twig) - Twig, the flexible, fast, and secure template language for PHP
+
+*   [Seldaek/monolog](https://github.com/Seldaek/monolog) - Sends your logs to files, sockets, inboxes, databases and various web services
+
+*   [bool1993/xenon-wms](https://github.com/bool1993/xenon-wms) - 仓库管理系统
+
+*   [picqer/php-barcode-generator](https://github.com/picqer/php-barcode-generator) - Barcode generator in PHP that is easy to use, non-bloated and framework independent.
+
+*   [TIGERB/easy-php](https://github.com/TIGERB/easy-php) - A Faster Lightweight Full-Stack PHP Framework :rocket:
+
+*   [bixuehujin/blink](https://github.com/bixuehujin/blink) - A high performance web framework and application server in PHP.
+
+*   [lizhichao/VicWord](https://github.com/lizhichao/VicWord) -  一个纯php分词
+
+*   [helloxz/imgurl](https://github.com/helloxz/imgurl) - ImgURL是一个简单、纯粹的图床程序，让个人图床多一个选择。
+
+*   [paragonie/easydb](https://github.com/paragonie/easydb) - Easy-to-use PDO wrapper for PHP projects.
+
+*   [liufee/yii2-swoole](https://github.com/liufee/yii2-swoole) - yii2 swoole，让yii2运行在swoole上
+
+*   [kcloze/swoole-jobs](https://github.com/kcloze/swoole-jobs) - 🚀Dynamic multi process worker queue base on swoole, like gearman but high performance.
+
+*   [overtrue/http](https://github.com/overtrue/http) - :cactus: A simple http client wrapper.
+
+*   [Intervention/image](https://github.com/Intervention/image) - PHP Image Manipulation
+
+*   [kosinix/grafika](https://github.com/kosinix/grafika) - An image processing library for PHP
+
+*   [spatie/async](https://github.com/spatie/async) - Easily run code asynchronously
+
+*   [bryanjhv/slim-session](https://github.com/bryanjhv/slim-session) - A very simple session middleware for Slim Framework 2/3/4.
+
+*   [matyhtf/webim](https://github.com/matyhtf/webim) - 使用PHP+Swoole实现的网页即时聊天工具
+
+*   [gothinkster/slim-php-realworld-example-app](https://github.com/gothinkster/slim-php-realworld-example-app) - Exemplary real world application built with Slim
+
+*   [z-song/laravel-admin](https://github.com/z-song/laravel-admin) - Build a full-featured administrative interface in ten minutes
+
+*   [slince/China](https://github.com/slince/China) - :cn: 一个轻巧的中国的地区、民族以及节假日信息的查询PHP库
+
+*   [bowu678/php\_bugs](https://github.com/bowu678/php_bugs) - PHP代码审计分段讲解
+
+*   [fucongcong/GroupCo](https://github.com/fucongcong/GroupCo) - PHP的服务化框架。适用于Api、Http Server、Rpc Server；帮助原生PHP项目转向微服务化。出色的性能与支持高并发的协程相结合
+
+*   [thephpleague/uri](https://github.com/thephpleague/uri) - \[READ-ONLY] URI manipulation Library
+
+*   [phpactor/phpactor](https://github.com/phpactor/phpactor) - Mainly a PHP Language Server with more features than you can shake a stick at
+
+*   [matomo-org/device-detector](https://github.com/matomo-org/device-detector) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.
+
+*   [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) - Documentation Generator for PHP
+
+*   [KnpLabs/snappy](https://github.com/KnpLabs/snappy) - PHP library allowing thumbnail, snapshot or PDF generation from a url or a html page. Wrapper for wkhtmltopdf/wkhtmltoimage
+
+*   [mledoze/countries](https://github.com/mledoze/countries) - World countries in JSON, CSV, XML and Yaml. Any help is welcome!
+
+*   [thephpleague/omnipay](https://github.com/thephpleague/omnipay) - A framework agnostic, multi-gateway payment processing library for PHP 5.6+
+
+*   [Respect/Validation](https://github.com/Respect/Validation) - The most awesome validation engine ever created for PHP
+
+*   [opencart/opencart](https://github.com/opencart/opencart) - A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.
+
+*   [top-think/think-orm](https://github.com/top-think/think-orm) - Think ORM——the PHP Database\&ORM Framework
+
+*   [top-think/think-template](https://github.com/top-think/think-template) - the php template engine
+
+*   [geesondog/rhaphp](https://github.com/geesondog/rhaphp) - RhaPHP是微信第三方管理平台，微信公众号管理系统，支持多公众号管理，CRM会员管理，小程序开发，APP接口开发、几乎集合微信功能，简洁、快速上手、快速开发微信各种各样应用。简洁、好用、快速、项目开发快几倍 。
+
+*   [mirahman/PHP-Data-Structure-and-Algorithms](https://github.com/mirahman/PHP-Data-Structure-and-Algorithms) - A repository with implementations of different data structures and algorithms using PHP
+
+*   [itsgoingd/clockwork](https://github.com/itsgoingd/clockwork) - Clockwork - php dev tools in your browser - server-side component
+
+*   [PHPJunior/laravel-video-chat](https://github.com/PHPJunior/laravel-video-chat) - Laravel Video Chat using Socket.IO and WebRTC
+
+*   [josephernest/Yopp](https://github.com/josephernest/Yopp) - A very fast way to transfer a file from phone to computer and vice versa.
+
+*   [zyfei/workerman\_cor\_ape](https://github.com/zyfei/workerman_cor_ape) - workerman基础上，在不影响任何使用方式，稳定性，性能前提下，增加了异步任务组件。
+
+*   [osgochina/swoole-crontab](https://github.com/osgochina/swoole-crontab) - 基于swoole的定时器程序，支持秒级处理
+
+*   [spatie/browsershot](https://github.com/spatie/browsershot) - Convert HTML to an image, PDF or string
+
+*   [mark-gerarts/automapper-plus](https://github.com/mark-gerarts/automapper-plus) - An AutoMapper for PHP
+
+*   [Piplin/Piplin](https://github.com/Piplin/Piplin) - :outbox\_tray: An open source self-hosted continuous integration and deployment system - QQ群： 656868
+
+*   [webmozart/json](https://github.com/webmozart/json) - A robust JSON decoder/encoder with support for schema validation.
+
+*   [mpdf/mpdf](https://github.com/mpdf/mpdf) - PHP library generating PDF files from UTF-8 encoded HTML
+
+*   [apioo/fusio](https://github.com/apioo/fusio) - Open source API management platform
+
+*   [Callwoola/php-split](https://github.com/Callwoola/php-split) - php中文分词库
+
+*   [lixuancn/MeepoPS](https://github.com/lixuancn/MeepoPS) - MeepoPS是Meepo PHP Socket的缩写，旨在提供稳定的Socket服务。可以轻松构建在线实时聊天、即时游戏、视频流媒体播放等。
+
+*   [Echosong/ES](https://github.com/Echosong/ES) - Minimalism php web framework
+
+*   [mix-php/mix](https://github.com/mix-php/mix) - ☄️  PHP CLI mode development framework, supports Swoole, WorkerMan, FPM, CLI-Server / PHP 命令行模式开发框架，支持 Swoole、Swow、WorkerMan、FPM、CLI-Server
+
+*   [Yurunsoft/PaySDK](https://github.com/Yurunsoft/PaySDK) - PHP 集成支付 SDK ，集成了支付宝、微信支付的支付接口和其它相关接口的操作。支持 php-fpm 和 Swoole，所有框架通用。宇润PHP全家桶技术支持群：17916227
+
+*   [ycrao/mynotes](https://github.com/ycrao/mynotes) - 笔记、Laravel、PHP、面试题、MySQL、HTML、CSS、Java...
+
+*   [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework.
+
+*   [godruoyi/ocr](https://github.com/godruoyi/ocr) - The Best Image OCR SDK For BAT
+
+*   [walkor/phpsocket.io](https://github.com/walkor/phpsocket.io) - A server side alternative implementation of socket.io in PHP based on workerman.
+
+*   [php-mod/curl](https://github.com/php-mod/curl) - This library provides an object-oriented and dependency free wrapper of the PHP cURL extension.
+
+*   [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
+
+*   [sinacms/MultiHttp](https://github.com/sinacms/MultiHttp) - This is a high performance , very useful  multi-curl tool written in php. 一个超级好用的并发CURL工具！！！(httpful，restful, concurrency)
+
+*   [jae-jae/QueryList](https://github.com/jae-jae/QueryList) - :spider: The progressive PHP crawler framework!  优雅的渐进式PHP采集框架。
+
+*   [jxy918/swoole-game](https://github.com/jxy918/swoole-game) - 基于Swoole扩展开发游戏服务器框架，示例实现h5游戏开发
+
+*   [Tencent/Biny](https://github.com/Tencent/Biny) - Biny is a tiny, high-performance PHP framework for web applications
+
+*   [helloqingfeng/Awsome-Front-End-learning-resource](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource) - :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等）
+
+*   [nahid/talk](https://github.com/nahid/talk) - Talk is a real-time users messaging and chatting system for Laravel.
+
+*   [yunwuxin/think-cron](https://github.com/yunwuxin/think-cron) - 计划任务 for thinkphp
+
+*   [bmitch/churn-php](https://github.com/bmitch/churn-php) - Discover files in need of refactoring.
+
+*   [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
+
+*   [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
+
+*   [Leslin/thinkphp5-restfulapi](https://github.com/Leslin/thinkphp5-restfulapi) - restful-api风格接口 APP接口 APP接口权限  oauth2.0 接口版本管理 接口鉴权
+
+*   [TIGERB/easy-tips](https://github.com/TIGERB/easy-tips) - A little Tips in my Code Career with Go\&PHP 🥳🥳🥳
+
+*   [php-cpm/clean-code-php](https://github.com/php-cpm/clean-code-php) - :bathtub:  PHP版的代码整洁之道 中文翻译
+
+*   [jonnnnyw/php-phantomjs](https://github.com/jonnnnyw/php-phantomjs) - Execute PhantomJS commands through PHP
+
+*   [piotrplenik/clean-code-php](https://github.com/piotrplenik/clean-code-php) - :bathtub: Clean Code concepts adapted for PHP
+
+*   [reactphp/promise](https://github.com/reactphp/promise) - Promises/A implementation for PHP.
+
+*   [slimphp/Slim](https://github.com/slimphp/Slim) - Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.
+
+*   [yansongda/pay](https://github.com/yansongda/pay) - 可能是我用过的最优雅的 Alipay/WeChat/Unipay 的支付 SDK 扩展包了
+
+*   [m9rco/algorithm-php](https://github.com/m9rco/algorithm-php) - 🍭🍭uniting the internal work in a way that is in PHP
+
+*   [jobsfan/image\_drag\_auth](https://github.com/jobsfan/image_drag_auth) - php image drag auth plugin, php写的图片拖动验证插件，又名滑动验证
+
+*   [walkor/workerman-chat](https://github.com/walkor/workerman-chat) - Websocket chat room written in PHP based on workerman.
+
+*   [botman/botman](https://github.com/botman/botman) - A framework agnostic PHP library to build chat bots
+
+*   [overtrue/flysystem-qiniu](https://github.com/overtrue/flysystem-qiniu) - :floppy\_disk: Flysystem adapter for the Qiniu storage.
+
+*   [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
+
+*   [tennc/webshell](https://github.com/tennc/webshell) - This is a webshell open source project
+
+*   [Yurunsoft/YurunHttp](https://github.com/Yurunsoft/YurunHttp) - YurunHttp 是开源的 PHP HTTP 客户端，支持链式操作，简单易用。完美支持Curl、Swoole 协程。QQ群：17916227
+
+*   [swoft-cloud/swoft](https://github.com/swoft-cloud/swoft) - 🚀 PHP Microservice Full Coroutine Framework
+
+*   [helei112g/payment](https://github.com/helei112g/payment) - Payment是php版本的支付聚合第三方sdk，集成了微信支付、支付宝支付、招商一网通支付。提供统一的调用接口，方便快速接入各种支付、查询、退款、转账能力。服务端接入支付功能，方便、快捷。
+
+*   [dingo/api](https://github.com/dingo/api) - A RESTful API package for the Laravel and Lumen frameworks.
+
+*   [fastdlabs/fastD](https://github.com/fastdlabs/fastD) - :rocket: A high performance PHP API framework.
+
+*   [caoym/phpboot](https://github.com/caoym/phpboot) - :coffee: 🚀 tiny & fast PHP framework for building Microservices/RESTful APIs, with useful  features: IOC, Hook, ORM, RPC, Swagger, Annotation, Parameters binding, Validation, etc.
+
+*   [douyasi/identity-card](https://github.com/douyasi/identity-card) - Chinese Identity Card package （中国大陆）公民身份证类
+
+*   [yl/id-card](https://github.com/yl/id-card) - 身份证号校验及信息获取
+
+*   [ramsey/uuid](https://github.com/ramsey/uuid) - :snowflake: A PHP library for generating universally unique identifiers (UUIDs).
+
+*   [mikeemoo/ColorJizz-PHP](https://github.com/mikeemoo/ColorJizz-PHP) - ColorJizz is a PHP library for manipulating and converting colors.
+
+*   [jenssegers/agent](https://github.com/jenssegers/agent) - 👮 A PHP desktop/mobile user agent parser with support for Laravel, based on Mobiledetect
+
+*   [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - Mobile\_Detect is a lightweight PHP class for detecting mobile devices (including tablets). It uses the User-Agent string combined with specific HTTP headers to detect the mobile environment.
+
+*   [fukuball/jieba-php](https://github.com/fukuball/jieba-php) - "結巴"中文分詞：做最好的 PHP 中文分詞、中文斷詞組件。 / "Jieba" (Chinese for "to stutter") Chinese text segmentation: built to be the best PHP Chinese word segmentation module.
+
+*   [hoaproject/Ustring](https://github.com/hoaproject/Ustring) - The Hoa\Ustring library.
+
+*   [hprose/hprose-php](https://github.com/hprose/hprose-php) - Hprose is a cross-language RPC. This project is Hprose 3.0 for PHP
+
+*   [CoderKungfu/php-queue](https://github.com/CoderKungfu/php-queue) - A unified front-end for different queuing backends. Includes a REST server, CLI interface and daemon runners.
+
+*   [geocoder-php/Geocoder](https://github.com/geocoder-php/Geocoder) - The most featured Geocoder library written in PHP.
+
+*   [jwage/purl](https://github.com/jwage/purl) - Purl is a simple Object Oriented URL manipulation library for PHP 7.2+
+
+*   [Yurunsoft/YurunPHP](https://github.com/Yurunsoft/YurunPHP) - YurunPHP是宇润软件专为懒人开发者设计的一款开源PHP框架，基于MVC动态分层架构，开发者可以根据需要自行扩充分层。宇润PHP交流群：17916227
+
+*   [lijiebin/LoggerOne](https://github.com/lijiebin/LoggerOne) - One Efficient & Light & Simple high performance PHP log implemention of PSR-3
+
+*   [bartblaze/PHP-backdoors](https://github.com/bartblaze/PHP-backdoors) - A collection of PHP backdoors. For educational or testing purposes only.
+
+*   [verot/class.upload.php](https://github.com/verot/class.upload.php) - This PHP class uploads files and manipulates images very easily. It is in fact as much as an image processing class than it is an upload class. Compatible with PHP 4, 5, 7 and 8. Supports processing of local files, uploaded files, files sent through XMLHttpRequest.
+
+*   [overtrue/easy-sms](https://github.com/overtrue/easy-sms) - 📲 一款满足你的多种发送需求的短信发送组件
+
+*   [klein/klein.php](https://github.com/klein/klein.php) - A fast & flexible router
+
+*   [DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - Sample code for several design patterns in PHP 8.x
+
+*   [easy-swoole/easyswoole](https://github.com/easy-swoole/easyswoole) - swoole,easyswoole,swoole framework
+
+*   [upfor/juggler](https://github.com/upfor/juggler) - PHP lightweight database framework
+
+*   [walkor/workerman](https://github.com/walkor/workerman) - An asynchronous event driven PHP socket framework. Supports HTTP, Websocket, SSL and other custom protocols.
+
+*   [catfan/Medoo](https://github.com/catfan/Medoo) - The lightweight PHP database framework to accelerate the development.
+
+*   [jasonweicn/miniframework](https://github.com/jasonweicn/miniframework) - MiniFramework 是一款遵循 Apache2 开源协议发布的，支持 MVC 和 RESTful 的超轻量级 PHP 开发框架。
+
+*   [predis/predis](https://github.com/predis/predis) - A flexible and feature-complete Redis client for PHP.
+
+*   [mvdbos/php-spider](https://github.com/mvdbos/php-spider) - A configurable and extensible PHP web spider
+
+*   [owner888/phpspider](https://github.com/owner888/phpspider) - 《我用爬虫一天时间“偷了”知乎一百万用户，只为证明PHP是世界上最好的语言 》所使用的程序
+
+*   [zhuzhichao/ip-location-zh](https://github.com/zhuzhichao/ip-location-zh) - 获取 IP 地址的真实地理位置
+
+*   [PHPGangsta/GoogleAuthenticator](https://github.com/PHPGangsta/GoogleAuthenticator) - PHP class to generate and verify Google Authenticator 2-factor authentication
+
+*   [Imangazaliev/DiDOM](https://github.com/Imangazaliev/DiDOM) - Simple and fast HTML and XML parser
+
+*   [php-curl-class/php-curl-class](https://github.com/php-curl-class/php-curl-class) - PHP Curl Class makes it easy to send HTTP requests and integrate with web APIs
+
+*   [chrisboulton/php-resque](https://github.com/chrisboulton/php-resque) - PHP port of resque (Workers and Queueing)
+
+*   [filp/whoops](https://github.com/filp/whoops) - PHP errors for cool kids
+
+*   [PHPSocialNetwork/phpfastcache](https://github.com/PHPSocialNetwork/phpfastcache) - A high-performance backend cache system.  It is intended for use in speeding up dynamic web applications by alleviating database load.  Well implemented, it can drops the database load to almost nothing, yielding faster page load times for users, better resource utilization.  It is simple yet powerful.
+
+*   [FriendsOfPHP/Goutte](https://github.com/FriendsOfPHP/Goutte) - Goutte, a simple PHP Web Scraper
+
+*   [typecho-fans/plugins](https://github.com/typecho-fans/plugins) - Typecho Fans插件作品目录
+
+*   [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
+
+*   [firebase/php-jwt](https://github.com/firebase/php-jwt) - PHP package for JWT
+
+*   [tymondesigns/jwt-auth](https://github.com/tymondesigns/jwt-auth) - 🔐 JSON Web Token Authentication for Laravel & Lumen
+
+*   [lcobucci/jwt](https://github.com/lcobucci/jwt) - A simple library to work with JSON Web Token and JSON Web Signature
+
+*   [scil/LaravelFly](https://github.com/scil/LaravelFly) - To be an absolutely safe solution to speed up Laravel with Swoole. Preloading + Coroutine and Tinker Online.
+
+*   [kaperys/financial](https://github.com/kaperys/financial) - A simple PHP ISO8583 pack and unpack library
+
+*   [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
+
+*   [luofei614/SocketLog](https://github.com/luofei614/SocketLog) - 微信调试、API调试和AJAX的调试的工具，能将日志通过WebSocket输出到Chrome浏览器的console中
+
+*   [overtrue/pinyin](https://github.com/overtrue/pinyin) - 🇨🇳 基于词库的中文转拼音优质解决方案
+
+*   [zoujingli/ThinkAdmin](https://github.com/zoujingli/ThinkAdmin) - 基于 ThinkPHP6 的极简后台管理系统，内置注解权限、异步多任务、应用插件生态等，支持类 PaaS 更新公共模块和应用插件，插件可本地化定制开发。
+
+*   [JBZoo/Utils](https://github.com/JBZoo/Utils) - Collection of useful PHP functions, mini-classes, and snippets for every day.
+
+*   [belgattitude/soluble-japha](https://github.com/belgattitude/soluble-japha) - PHP Java integration
+
+*   [betephp/betephp](https://github.com/betephp/betephp) - BetePHP - A simple PHP Framework that just work.
+
+*   [ThingEngineer/PHP-MySQLi-Database-Class](https://github.com/ThingEngineer/PHP-MySQLi-Database-Class) - Wrapper for a PHP MySQL class, which utilizes MySQLi and prepared statements.
+
+*   [guzzle/guzzle](https://github.com/guzzle/guzzle) - Guzzle, an extensible PHP HTTP client
+
+*   [guzzle/promises](https://github.com/guzzle/promises) - Promises/A+ library for PHP with synchronous support
+
+*   [endroid/qr-code](https://github.com/endroid/qr-code) - QR Code Generator
+
+*   [top-think/framework](https://github.com/top-think/framework) - ThinkPHP Framework
+
+*   [top-think/think](https://github.com/top-think/think) - ThinkPHP Framework ——十年匠心的高性能PHP框架
+
+*   [w7corp/easywechat](https://github.com/w7corp/easywechat) - 📦 一个 PHP 微信 SDK
 
 ## miscellaneous
 
@@ -1636,904 +2534,6 @@
 *   [SivanLaai/rime-pure](https://github.com/SivanLaai/rime-pure) - 【rime 小狼毫\trime 同文】手机/PC一站式配置【简约皮肤\拼音搜狗词库\原创trime同文 四叶草 九宫格 拼音方案\四叶草拼音\四叶草地球拼音\小鹤双拼\极品五笔\QQ五笔\徐码\郑码】
 
 *   [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
-
-## PHP
-
-*   [code-lives/Pays](https://github.com/code-lives/Pays) - 微信小程序、抖音小程序、百度小程序、支付宝小程序、快手小程序集合（支付、手机号解密、获取Token、模版消息、支付异步通知、退款、订单查询）
-
-*   [libvips/php-vips](https://github.com/libvips/php-vips) - php binding for libvips
-
-*   [skoro/php-tkui](https://github.com/skoro/php-tkui) - Build native desktop applications with PHP only
-
-*   [getopt-php/getopt-php](https://github.com/getopt-php/getopt-php) - A PHP library for command-line argument processing
-
-*   [gptlink/gptlink](https://github.com/gptlink/gptlink) - 10分钟搭建可免费商用的AI对话环境，搭建简单，包含用户，订单，任务，付费等功能
-
-*   [butschster/prometheus-parser](https://github.com/butschster/prometheus-parser) - Prometheus data parser to AST written on PHP8
-
-*   [PromPHP/prometheus\_client\_php](https://github.com/PromPHP/prometheus_client_php) - Prometheus instrumentation library for PHP applications
-
-*   [reliforp/reli-prof](https://github.com/reliforp/reli-prof) - A sampling profiler for PHP written in PHP, which reads information about running PHP VM from outside of the process.
-
-*   [zhangyue0503/dev-blog](https://github.com/zhangyue0503/dev-blog) - php博客文章
-
-*   [php-lock/lock](https://github.com/php-lock/lock) - Lock library to provide serialized execution of PHP code.
-
-*   [minicli/minicli](https://github.com/minicli/minicli) - A minimalist framework for command-line applications in PHP
-
-*   [guanguans/notify](https://github.com/guanguans/notify) - 推送通知 sdk(Bark、Chanify、钉钉群机器人、Discord、邮件、飞书群机器人、Gitter、Google Chat、iGot、Logger、Mattermost、Microsoft Teams、Now Push、Ntfy、PushBack、Push、PushDeer、Pushover、PushPlus、QQ 频道机器人、Rocket Chat、Server 酱、Showdoc Push、Slack、Telegram、Webhook、企业微信群机器人、息知、一封传话、Zulip)。
-
-*   [mhor/php-mediainfo](https://github.com/mhor/php-mediainfo) - PHP wrapper around the mediainfo command
-
-*   [bootgly/bootgly](https://github.com/bootgly/bootgly) - Base PHP Framework for Multi Projects
-
-*   [tectalichq/public-openai-client-php](https://github.com/tectalichq/public-openai-client-php) - OpenAI API Client for PHP. Includes all endpoints and models (DTOs) for all requests and responses.
-
-*   [chawuciren/php-bignumber](https://github.com/chawuciren/php-bignumber) - Using a more modern and concise, object-oriented approach, it is more convenient and intuitive to solve the super large number and floating point precision problems in PHP
-
-*   [zxlmaster/safe-math](https://github.com/zxlmaster/safe-math) - PHP 计算库 依赖 bc 库 对 科学计数法进行处理
-
-*   [xywf221/cn-work-day-database](https://github.com/xywf221/cn-work-day-database) - 一个工作日的数据库 数据来自百度
-
-*   [openai-php/client](https://github.com/openai-php/client) - ⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
-
-*   [aldas/modbus-tcp-client](https://github.com/aldas/modbus-tcp-client) - PHP client for Modbus TCP and Modbus RTU over TCP (can be used for serial)
-
-*   [zjkal/time-helper](https://github.com/zjkal/time-helper) - 一个简单快捷的PHP日期时间助手类库。 a smart PHP datetime helper library.
-
-*   [vinkla/hashids](https://github.com/vinkla/hashids) - A small PHP library to generate YouTube-like ids from numbers. Use it when you don't want to expose your database ids to the user.
-
-*   [onekb/ChatGPT](https://github.com/onekb/ChatGPT) - ChatGPT for PHP，和简易终端实现。Using OpenAI GPT3.5 model API.
-
-*   [orhanerday/open-ai](https://github.com/orhanerday/open-ai) - OpenAI PHP SDK : Most downloaded, forked, contributed, huge community supported, and used PHP (Laravel , Symfony, Yii, Cake PHP or any PHP framework) SDK for OpenAI GPT-3 and DALL-E. It also supports chatGPT-like streaming. (ChatGPT AI is supported)
-
-*   [NeverRetrun/easytree](https://github.com/NeverRetrun/easytree) - PHP tree format
-
-*   [taobali32/jtar-hyperf-user-node](https://github.com/taobali32/jtar-hyperf-user-node) - 用户节点关系记录
-
-*   [chopins/php-libui](https://github.com/chopins/php-libui) - php bindings to the libui C library.
-
-*   [friendsofhyperf/components](https://github.com/friendsofhyperf/components) - 🚀 The most popular components for Hyperf.
-
-*   [SerendipitySwow/Serendipity-job](https://github.com/SerendipitySwow/Serendipity-job) - 🚀🐟 Task Platform Developed Based On Swow and Php8 ｜基于swow和php8开发的任务平台
-
-*   [workbunny/process](https://github.com/workbunny/process) - 🐇 A lightweight mulit-process helper base on PHP.
-
-*   [reactphp/reactphp](https://github.com/reactphp/reactphp) - Event-driven, non-blocking I/O with PHP.
-
-*   [amphp/amp](https://github.com/amphp/amp) - A non-blocking concurrency framework for PHP applications. 🐘
-
-*   [php-pm/php-pm](https://github.com/php-pm/php-pm) - PPM is a process manager, supercharger and load balancer for modern PHP applications.
-
-*   [box-project/box](https://github.com/box-project/box) - 📦🚀 Fast, zero config application bundler with PHARs.
-
-*   [lizhichao/one](https://github.com/lizhichao/one) - A minimalist high-performance php framework that supports the \[swoole | php-fpm] environment
-
-*   [Littlesqx/aint-queue](https://github.com/Littlesqx/aint-queue) - :rocket: An async-queue library built on top of swoole, flexable multi-consumer, coroutine supported. 基于 Swoole 的一个异步队列库，可弹性伸缩的工作进程池，工作进程协程支持。
-
-*   [yuntian001/multi-process-queue](https://github.com/yuntian001/multi-process-queue) - 基于 swoole 的多进程队列系统，低延时(最低毫秒级)、低资源占用, 支持一键化协程、超时控制、失败重试。可与 laravel thinkphp 等框架配合使用
-
-*   [crazywhalecc/php-cli-helper](https://github.com/crazywhalecc/php-cli-helper) - A helpful tool for your CLI php project, pack to phar, init new project with quality tools etc.
-
-*   [hyperf/box](https://github.com/hyperf/box) - Box is committed to helping improve the programming experience of PHP applications, expecially for Hyperf, managing the PHP environment and related dependencies, providing the ability to package PHP applications as binary programs, and also providing reverse proxy services for managing and deploying Swoole/Swow applications.
-
-*   [dixyes/lwmbs](https://github.com/dixyes/lwmbs) - light weight (maybe) phpmicro build scripts
-
-*   [aoaostar/toolbox](https://github.com/aoaostar/toolbox) - 🚀傲星工具箱，一个在线工具箱
-
-*   [joanhey/AdapterMan](https://github.com/joanhey/AdapterMan) - AdapterMan for Workerman. Run almost any PHP app asynchronously with Workerman, without touch 1 line of code in your fw or app.
-
-*   [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build single static PHP binary, with PHP project together, with popular extensions included.
-
-*   [ambroisemaupate/intervention-request](https://github.com/ambroisemaupate/intervention-request) - A customizable Intervention Image wrapper to use simple image re-sampling features over urls and a configurable cache.
-
-*   [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee) -  A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
-
-*   [mjau-mjau/x3](https://github.com/mjau-mjau/x3) - www.photo.gallery / X3
-
-*   [phpmetrics/PhpMetrics](https://github.com/phpmetrics/PhpMetrics) - Beautiful and understandable static analysis tool for PHP
-
-*   [Double-Jin/jin-microservices](https://github.com/Double-Jin/jin-microservices) - Jin microservices is a complete microservice demo based on PHP language + hyperf microservices framework
-
-*   [tuupola/base58](https://github.com/tuupola/base58) - Base58 encoder and decoder for arbitrary data
-
-*   [verze-app/solana-php-sdk](https://github.com/verze-app/solana-php-sdk) - Simple PHP SDK for Solana JSON RPC endpoints
-
-*   [hyperf-plus/admin](https://github.com/hyperf-plus/admin) - 【全新架构】使用体检和laravel-admin类似，无需写前端vue代码即可实现漂亮的ElementUI框架页面，Auth组件和 laravel的auth 类似支持多用户认证功能，hyperf-admin 插件式快速开发框架
-
-*   [daodao97/apidog](https://github.com/daodao97/apidog) - Api Watch Dog, Hyperf 框架的 Api参数校验 和 swagger 生成组件
-
-*   [yuminuo/filecoin-tx](https://github.com/yuminuo/filecoin-tx) - Filecoin transaction library in PHP.
-
-*   [yuminuo/php-filecoin-address](https://github.com/yuminuo/php-filecoin-address) - Pure PHP Filecoin Address Generator / Validator
-
-*   [onlyshow/filecoin-address](https://github.com/onlyshow/filecoin-address) -
-
-*   [owenvoke/opensea-php](https://github.com/owenvoke/opensea-php) - An object oriented PHP wrapper for the OpenSea API
-
-*   [windawake/laravel-reset-transaction](https://github.com/windawake/laravel-reset-transaction) - distributed transaction for call remote api service
-
-*   [hyperf-admin/hyperf-admin](https://github.com/hyperf-admin/hyperf-admin) - hyperf-admin 是基于 hyperf + vue 的配置化后台开发工具
-
-*   [hyperf/nano](https://github.com/hyperf/nano) - 🧬 Nano is a zero-config, no skeleton, minimal Hyperf distribution that allows you to quickly build a Hyperf application with just a single PHP file.
-
-*   [hyperf-cms/hyperf-api](https://github.com/hyperf-cms/hyperf-api) - 使用hyperf构建的接口服务系统
-
-*   [deminy/swoole-by-examples](https://github.com/deminy/swoole-by-examples) - Learn Swoole by Examples
-
-*   [hyperf-ext/auth](https://github.com/hyperf-ext/auth) - The Hyperf Auth package.
-
-*   [qbhy/hyperf-auth](https://github.com/qbhy/hyperf-auth) - hyperf 的 auth 组件
-
-*   [wxxiong6/tree](https://github.com/wxxiong6/tree) - 使用递归把有规则数据，处理成树形数据结构。适用场景菜单、权限、分类等功能。
-
-*   [kanyxmo/MineAdmin](https://github.com/kanyxmo/MineAdmin) - 🎉🎉🎉 MineAdmin是基于Hyperf框架 和 Vue3+Vite4 开发的前后端分离权限管理系统，自适应多终端。特色：后端 crud 生成 + 前端低代码 json 化配置
-
-*   [mochat-cloud/mochat](https://github.com/mochat-cloud/mochat) - 基于企业微信的开源SCRM应用开发框架&引擎，也是一套通用的企业私域流量管理系统!
-
-*   [phper666/jwt-auth](https://github.com/phper666/jwt-auth) - 能直接在hyperf框架中使用jwt的组件.  用之前，请详细的看下下面的文档~
-
-*   [869413421/hyperf-mall](https://github.com/869413421/hyperf-mall) - 一套集成短信注册、邮箱注册、角色权限、支付宝网页支付、微信扫码支付、众筹、秒杀、ElasticSearch商品分面搜索等一系列商城基础功能Api。
-
-*   [top-think/think-swoole](https://github.com/top-think/think-swoole) - Swoole extend for thinkphp
-
-*   [cakephp/chronos](https://github.com/cakephp/chronos) - A standalone DateTime library originally based off of Carbon
-
-*   [peinhu/AetherUpload-Laravel](https://github.com/peinhu/AetherUpload-Laravel) - A Laravel package to upload large files  上传大文件的Laravel扩展包
-
-*   [mylxsw/wizard](https://github.com/mylxsw/wizard) - Wizard是一款开源的文档管理工具，支持Markdown/Swagger/Table类型的文档。
-
-*   [HGthecode/thinkphp-apidoc](https://github.com/HGthecode/thinkphp-apidoc) - ThinkPHP 注释自动生成API文档，在线调试，代码生成器，Markdown文档
-
-*   [swoolex/swoolex](https://github.com/swoolex/swoolex) - SwooleX一款专注于高性能、便捷开发的PHP协程框架
-
-*   [sabre-io/event](https://github.com/sabre-io/event) - :bell: The sabre/event library provides utilities for lightweight event-based programming
-
-*   [paragonie/paseto](https://github.com/paragonie/paseto) - Platform-Agnostic Security Tokens
-
-*   [naoyayamamoto/laravel-docker-sample](https://github.com/naoyayamamoto/laravel-docker-sample) - Build laravel development environment with docker-compose and vscode remote-containers.
-
-*   [mk-j/PHP\_XLSXWriter](https://github.com/mk-j/PHP_XLSXWriter) - Lightweight XLSX Excel Spreadsheet Writer in PHP
-
-*   [krowinski/bcmath-extended](https://github.com/krowinski/bcmath-extended) - Extends php BCMath lib for missing functions like floor, ceil, round, abs, min, max, rand for big numbers. Also wraps existing BCMath functions.
-
-*   [andanyoung/think-tests](https://github.com/andanyoung/think-tests) - 针对于thinkphp框架开发的单元测试包--兼容PhpStorm
-
-*   [thinkphp6/thinkphp-migration-generator](https://github.com/thinkphp6/thinkphp-migration-generator) - thinkphp migration generator , ThinkPHP 数据库反向生成工具
-
-*   [bamarni/composer-bin-plugin](https://github.com/bamarni/composer-bin-plugin) - No conflicts for your bin dependencies
-
-*   [php-runtime/runtime](https://github.com/php-runtime/runtime) - A home for runtimes.
-
-*   [pupuk/address](https://github.com/pupuk/address) - 纯PHP版，收货地址智能解析，不需要数据库支持，简单易用。可解析（身份证号，电话，座机，区号，拆分省+市+区+街道地址）
-
-*   [shihaoking/xmcs](https://github.com/shihaoking/xmcs) - 姓名测试和起名网站
-
-*   [revoltphp/event-loop](https://github.com/revoltphp/event-loop) - Revolt is a rock-solid event loop for concurrent PHP applications.
-
-*   [jsor/geokit](https://github.com/jsor/geokit) - Geo-Toolkit for PHP.
-
-*   [mjaschen/phpgeo](https://github.com/mjaschen/phpgeo) - Simple Yet Powerful Geo Library for PHP
-
-*   [brick/geo](https://github.com/brick/geo) - GIS geometry library for PHP
-
-*   [pfinal/city](https://github.com/pfinal/city) - 中华人民共和国行政区划数据：省份、城市、区县。中国省市区镇三级联动地址数据。城市经纬度数据。
-
-*   [zoujingli/WeChatDeveloper](https://github.com/zoujingli/WeChatDeveloper) - 【新】微信服务号+微信小程序+微信支付+支付宝支付
-
-*   [nunomaduro/collision](https://github.com/nunomaduro/collision) - 💥 Collision is a beautiful error reporting tool for command-line applications
-
-*   [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
-
-*   [symfony/console](https://github.com/symfony/console) - Eases the creation of beautiful and testable command line interfaces
-
-*   [xielei/swoole-worker](https://github.com/xielei/swoole-worker) - SwooleWorker是基于swoole开发的一款分布式长连接开发框架。常驻内存，协程，高性能高并发；分布式部署，横向扩容，使得能支持庞大的连接数；无感知安全重启，无缝升级代码；接口丰富，支持单个发送，分组发送，群发广播等接口。可广泛应用于云计算、物联网（IOT）、车联网、智能家居、网络游戏等领域。
-
-*   [zabbix/zabbix](https://github.com/zabbix/zabbix) - Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.
-
-*   [chia-toolkit/chia.keva.app](https://github.com/chia-toolkit/chia.keva.app) -
-
-*   [spatie/crypto](https://github.com/spatie/crypto) - Encrypt and decrypt data using private/public keys
-
-*   [PHPAuth/PHPAuth](https://github.com/PHPAuth/PHPAuth) -   PHPAuth is a secure PHP Authentication class that easily integrates into any site.
-
-*   [archtechx/tenancy](https://github.com/archtechx/tenancy) - Automatic multi-tenancy for Laravel. No code changes needed.
-
-*   [tenancy/multi-tenant](https://github.com/tenancy/multi-tenant) - Run multiple websites using the same Laravel installation while keeping tenant specific data separated for fully independent multi-domain setups, previously github.com/hyn/multi-tenant
-
-*   [tenancy/tenancy](https://github.com/tenancy/tenancy) - Run multiple websites using the same Laravel installation while keeping tenant specific data separated for fully independent multi-domain setups.
-
-*   [jianyan74/rageframe2](https://github.com/jianyan74/rageframe2) - 一个基于 Yii2 高级框架的快速开发应用引擎
-
-*   [teamones-open/casbin](https://github.com/teamones-open/casbin) - 基于 php-casbin 的 casbin 封装
-
-*   [phpMv/ubiquity](https://github.com/phpMv/ubiquity) - Ubiquity framework
-
-*   [walkor/crontab](https://github.com/walkor/crontab) - A crontab written in PHP based on workerman
-
-*   [aliyun/openapi-sdk-php-client](https://github.com/aliyun/openapi-sdk-php-client) - Official repository of the Alibaba Cloud Client for PHP
-
-*   [webman-php/webman-manual](https://github.com/webman-php/webman-manual) - Manual for webman
-
-*   [OMGZui/noteBook](https://github.com/OMGZui/noteBook) - 🍎  笔记本
-
-*   [walkor/redis-queue](https://github.com/walkor/redis-queue) - Message queue system written in PHP based on workerman and backed by Redis.
-
-*   [72wukong/72crm-9.0-PHP](https://github.com/72wukong/72crm-9.0-PHP) - 悟空CRM-基于TP5.0+vue+ElementUI的前后端分离CRM系统
-
-*   [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework?
-
-*   [wind-framework/wind-framework](https://github.com/wind-framework/wind-framework) - Pure PHP Coroutine Framework based on Workerman and Amphp.
-
-*   [Litipk/php-bignumbers](https://github.com/Litipk/php-bignumbers) - A robust library to handle immutable big numbers inside PHP applications
-
-*   [beyondcode/expose](https://github.com/beyondcode/expose) - A beautiful, fully open-source, tunneling service - written in pure PHP
-
-*   [NanQi/ethereum-php](https://github.com/NanQi/ethereum-php) - ethereum eth web3 php keysotre bip44 infura etherscan proxy api
-
-*   [dompdf/dompdf](https://github.com/dompdf/dompdf) - HTML to PDF converter for PHP
-
-*   [top-think/think-installer](https://github.com/top-think/think-installer) -
-
-*   [swoole/phpkafka](https://github.com/swoole/phpkafka) - PHP Kafka client is used in PHP-FPM and Swoole. PHP Kafka client supports 50 APIs, which might be one that supports the most message types ever.
-
-*   [NHZEX/think-phinx](https://github.com/NHZEX/think-phinx) - think framework 6.0 phinx extend
-
-*   [JaguarJack/migration-generator](https://github.com/JaguarJack/migration-generator) - 如果你还未使用或者正想使用数据库迁移功能，但又不并不想自己写迁移文件的话，这个工具可以很好的帮助实现文件迁移， 目前提供了 Laravel5.5+ 和 Thinkphp6+ 的迁移文件的生成。If you haven't used or want to use the database migration function, but don't want to write the migration file， this tool can be very helpful to implement the file migration. Currently, Laravel 5.5+ and Thinkphp6 + are provided to generate the migration file.
-
-*   [swow/swow-examples](https://github.com/swow/swow-examples) - Shows how to use Swow.
-
-*   [hassankhan/config](https://github.com/hassankhan/config) - Config is a lightweight configuration file loader that supports PHP, INI, XML, JSON, and YAML files
-
-*   [nette/utils](https://github.com/nette/utils) - 🛠 Lightweight utilities for string & array manipulation, image handling, safe JSON encoding/decoding, validation, slug or strong password generating etc.
-
-*   [zhongshaofa/easyadmin](https://github.com/zhongshaofa/easyadmin) - 框架主要使用ThinkPHP6.0 + layui，拥有完善的权限的管理模块以及敏捷的开发方式，让你开发起来更加的舒服。
-
-*   [overtrue/socialite](https://github.com/overtrue/socialite) - Socialite is an OAuth2 Authentication tool. It is inspired by laravel/socialite, you can easily use it without Laravel.
-
-*   [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - PrestaShop is the universal open-source software platform to build your e-commerce solution.
-
-*   [ofcold/identity-card](https://github.com/ofcold/identity-card) - A simple proof of identity card of the people's Republic of China.
-
-*   [ionepub/idcard](https://github.com/ionepub/idcard) - 二代身份证号码验证，可用于验证二代身份证号码是否合法、从身份证号码中获取生日/性别/年龄/地区信息 A Chinese identity card number verification class
-
-*   [alicfeng/IdentityCard](https://github.com/alicfeng/IdentityCard) - 中国（大陆）公民身份证工具类🔨用于身份证计算年龄、生日、星座、性别、生肖、政区划代码，同时绘制身份证正反面
-
-*   [chekalsky/php-banks-db](https://github.com/chekalsky/php-banks-db) - PHP library for getting bank info (name, brand color etc) by first digits of card's number
-
-*   [inacho/php-credit-card-validator](https://github.com/inacho/php-credit-card-validator) - Validates popular debit and credit cards numbers against regular expressions and Luhn algorithm. Also validates the CVC and the expiration date.
-
-*   [php-casbin/think-authz](https://github.com/php-casbin/think-authz) - An authorization library that supports access control models like ACL, RBAC, ABAC in ThinkPHP.
-
-*   [mjphaynes/php-resque](https://github.com/mjphaynes/php-resque) - php-resque is a Redis-backed PHP library for creating background jobs, placing them on multiple queues, and processing them later.
-
-*   [php-enqueue/enqueue-bundle](https://github.com/php-enqueue/enqueue-bundle) - \[READ-ONLY] Message queue bundle for Symfony. RabbitMQ, Amazon SQS, Redis, Service bus, Async events, RPC over MQ and a lot more
-
-*   [php-enqueue/enqueue-dev](https://github.com/php-enqueue/enqueue-dev) - Message Queue, Job Queue, Broadcasting, WebSockets packages for PHP, Symfony, Laravel, Magento. DEVELOPMENT REPOSITORY - provided by Forma-Pro
-
-*   [wwwwfw/SM4\_PHP\_Java](https://github.com/wwwwfw/SM4_PHP_Java) - SM4加密算法PHP版本及Java版本
-
-*   [pimcore/number-sequence-generator](https://github.com/pimcore/number-sequence-generator) -
-
-*   [spryker/sequence-number](https://github.com/spryker/sequence-number) - \[READ ONLY] Subtree split of the SequenceNumber module.
-
-*   [yz20032004/suishouhui](https://github.com/yz20032004/suishouhui) - 为线下中小微实体店铺提供轻松简便的会员营销系统，功能包括会员等级和权益设计，会员开卡礼，消费返积分，积分兑换，优惠券的创建/投放/核销和裂变分发，储值，群发优惠券和群发短信等会员营销功能，以及团购、拼团、次卡、商城、付费卡、外卖、点餐等线上交易功能。
-
-*   [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
-
-*   [beberlei/assert](https://github.com/beberlei/assert) - Thin assertion library for use in libraries and business-model
-
-*   [brick/math](https://github.com/brick/math) - Arbitrary-precision arithmetic library for PHP
-
-*   [hbh112233abc/ding-bot](https://github.com/hbh112233abc/ding-bot) - php plugin for dingtalk robot
-
-*   [sabre-io/dav](https://github.com/sabre-io/dav) - sabre/dav is a CalDAV, CardDAV and WebDAV framework for PHP
-
-*   [zdhxiong/mdclub](https://github.com/zdhxiong/mdclub) - MDClub 社区系统后端代码
-
-*   [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
-
-*   [squizlabs/PHP\_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - PHP\_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
-
-*   [chrome-php/chrome](https://github.com/chrome-php/chrome) - Instrument headless chrome/chromium instances from PHP
-
-*   [lisachenko/z-engine](https://github.com/lisachenko/z-engine) - :zap: PHP Engine Direct API
-
-*   [Nyholm/psr7](https://github.com/Nyholm/psr7) - A super lightweight PSR-7 implementation
-
-*   [php-http/httplug](https://github.com/php-http/httplug) - HTTPlug, the HTTP client abstraction for PHP
-
-*   [mockery/mockery](https://github.com/mockery/mockery) - Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).
-
-*   [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) - The Easiest way to add coding standard to your PHP project
-
-*   [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications
-
-*   [rectorphp/rector](https://github.com/rectorphp/rector) - Instant Upgrades and Automated Refactoring of any PHP 5.3+ code
-
-*   [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP
-
-*   [weiboad/kafka-php](https://github.com/weiboad/kafka-php) - kafka php client
-
-*   [chenlinzhong/php-delayqueue](https://github.com/chenlinzhong/php-delayqueue) - 基于redis实现高可用，易拓展，接入方便，生产环境稳定运行的延迟队列
-
-*   [pheanstalk/pheanstalk](https://github.com/pheanstalk/pheanstalk) - PHP client for beanstalkd queue
-
-*   [maiscrm/jos-php-sdk](https://github.com/maiscrm/jos-php-sdk) -
-
-*   [bstdn/ApiAdmin-ThinkPHP](https://github.com/bstdn/ApiAdmin-ThinkPHP) - PHP ThinkPHP Api Admin
-
-*   [suframe/think-admin](https://github.com/suframe/think-admin) - thinkphp6 admin后台核心库
-
-*   [yupoxiong/BearAdmin](https://github.com/yupoxiong/BearAdmin) - 基于ThinkPHP6.0+AdminLTE3.2的后台管理系统
-
-*   [Zhao-github/ApiAdmin](https://github.com/Zhao-github/ApiAdmin) - 基于ThinkPHP V6.\*开发的面向API的后台管理系统！
-
-*   [JaguarJack/catch-admin](https://github.com/JaguarJack/catch-admin) - CatchAdmin is a background management system based on secondary development of Laravel and Element Plus. CatchAdmin still adopts the traditional front-end and back-end separation strategy, and the Laravel framework is only used as an Api output. Coupling between management system modules is minimized
-
-*   [bobthecow/psysh](https://github.com/bobthecow/psysh) - A REPL for PHP
-
-*   [opis/closure](https://github.com/opis/closure) - Serialize closures (anonymous functions)
-
-*   [surest-sky/think-vue-admin-api](https://github.com/surest-sky/think-vue-admin-api) - 一套有thinkphp开发集成性后台接口，内置权限管理，api响应，psysh等多功能工具
-
-*   [friendsofthinkphp/think-permission](https://github.com/friendsofthinkphp/think-permission) - ThinkPHP 6 权限认证
-
-*   [douyasi/china-divisions](https://github.com/douyasi/china-divisions) - 中国大陆县级以上行政区划数据库
-
-*   [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
-
-*   [godruoyi/php-snowflake](https://github.com/godruoyi/php-snowflake) - ❄ An ID Generator for PHP based on Snowflake Algorithm (Twitter announced).
-
-*   [edenleung/think-admin](https://github.com/edenleung/think-admin) - ThinkPHP 6.0 与 Ant Design Pro Vue 基础前后分离权限系统
-
-*   [dvaknheo/duckphp](https://github.com/dvaknheo/duckphp) - PHP框架，PHP Framework. keep PHP simple and fast.  Laravel larva and Smarty is evil
-
-*   [simple-swoole/simps](https://github.com/simple-swoole/simps) - 🚀 A simple, lightweight and high-performance PHP coroutine framework.
-
-*   [SimpleSoftwareIO/simple-qrcode](https://github.com/SimpleSoftwareIO/simple-qrcode) - An easy-to-use PHP QrCode generator with first-party support for Laravel.
-
-*   [18230/Tools](https://github.com/18230/Tools) - Tools
-
-*   [zhouaini528/exchanges-php](https://github.com/zhouaini528/exchanges-php) - This is a virtual currency SDK that brings together multiple exchanges
-
-*   [top-think/think-queue](https://github.com/top-think/think-queue) - ThinkPHP 队列支持
-
-*   [walkor/mqtt](https://github.com/walkor/mqtt) - Asynchronous MQTT client for PHP based on workerman.
-
-*   [walkor/webman](https://github.com/walkor/webman) - Probably the fastest PHP web framework in the world.
-
-*   [top-think/think-throttle](https://github.com/top-think/think-throttle) - thinkphp 限制访问频率的中间件
-
-*   [matriphe/larinfo](https://github.com/matriphe/larinfo) - Display system information (IP address, OS, versions) for Laravel.
-
-*   [DavidePastore/ipinfo](https://github.com/DavidePastore/ipinfo) - A wrapper around the ipinfo.io services
-
-*   [Ocramius/PackageVersions](https://github.com/Ocramius/PackageVersions) -  :package: Composer addon to efficiently get installed packages' version numbers
-
-*   [shmilylbelva/laykefu](https://github.com/shmilylbelva/laykefu) - thinkphp5+workerman+gatewayworker搭建的webim客服系统/即时通讯
-
-*   [iqiqiya/iqiqiya-API](https://github.com/iqiqiya/iqiqiya-API) - API接口大全不断更新中~欢迎Fork和Star(✎ 1.一言(古诗句版)api  ✎ 2.必应每日一图api  ✎ 3.在线ip查询  ✎ 4.m3u8视频在线解析api  ✎ 5.随机生成二次元图片api  ✎ 6.快递查询api-支持国内百家快递  ✎ 7.flv视频在线解析api ✎ 8.抖音视频无水印解析api✎ 9.一句话随机图片api✎ 10.QQ用户信息获取api✎11.哔哩哔哩封面图获取api✎12.千图网58pic无水印解析下载api✎13.喜马拉雅主播FM数据采集api✎14.网易云音乐api✎15.CCTV央视网视频解析api✎16.微信运动刷步数api✎17.皮皮搞笑APP短视频无水印解析api✎18.皮皮虾短视频去水印解析✎19.蓝奏云直链解析✎20.千库网无水印解析✎21.17素材网免VIP解析✎22.快手短视频去水印解析✎23.微视短视频去水印解析)
-
-*   [yuzhenlei/holiday](https://github.com/yuzhenlei/holiday) - 根据国务院公告解析放假日期
-
-*   [top-think/think-annotation](https://github.com/top-think/think-annotation) - ThinkPHP6注解
-
-*   [gouguoyin/easyhttp](https://github.com/gouguoyin/easyhttp) - EasyHttp 是一个轻量级、语义化、对IDE友好的HTTP客户端，支持常见的HTTP请求、异步请求和并发请求，让你可以快速地使用 HTTP 请求与其他 Web 应用进行通信。
-
-*   [friendsofthinkphp/think-jwt](https://github.com/friendsofthinkphp/think-jwt) - ThinkPHP Jwt 扩展包
-
-*   [nikic/FastRoute](https://github.com/nikic/FastRoute) - Fast request router for PHP
-
-*   [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths
-
-*   [blueimp/jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag\&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.
-
-*   [hyperf/hyperf](https://github.com/hyperf/hyperf) - 🚀 A coroutine framework that focuses on hyperspeed and flexibility. Building microservice or middleware with ease.
-
-*   [adhocore/php-jwt](https://github.com/adhocore/php-jwt) - Ultra lightweight, dependency free and standalone JSON web token (JWT) library for PHP5.6 to PHP8.2. This library makes JWT a cheese. It is a minimal JWT integration for PHP.
-
-*   [pupuk/address-smart-parse](https://github.com/pupuk/address-smart-parse) - 智能解析收货地址，成功率96%以上，支持（身份证号，电话，座机，区号，省市区街道地址）A smart address parser write by PHP. Get name\&receiver phone \&post code \&address from a complicated string. Get province, city ,area, and street address.
-
-*   [Double-Jin/jin-chat](https://github.com/Double-Jin/jin-chat) - Complete PC chat system based on EasySwoole and PHP  (IM chat app)
-
-*   [tealang/tea](https://github.com/tealang/tea) - Tea is a humanized programming language.
-
-*   [QThans/jwt-auth](https://github.com/QThans/jwt-auth) - JSON Web Token Authentication for Thinkphp
-
-*   [szvone/vmqphp](https://github.com/szvone/vmqphp) - V免签PHP版 完全开源免费的个人免签约解决方案
-
-*   [guanguans/think-soar](https://github.com/guanguans/think-soar) - SQL optimizer and rewriter extension package for thinkphp5/6 framework.
-
-*   [swiftmailer/swiftmailer](https://github.com/swiftmailer/swiftmailer) - Comprehensive mailing tools for PHP
-
-*   [slince/composer-registry-manager](https://github.com/slince/composer-registry-manager) - :hammer\_and\_wrench: :hammer: Composer registry manager that help to easily switch to the  composer repository you want.
-
-*   [greenlion/PHP-SQL-Parser](https://github.com/greenlion/PHP-SQL-Parser) - A pure PHP SQL (non validating) parser w/ focus on MySQL dialect of SQL
-
-*   [zhouaini528/huobi-php](https://github.com/zhouaini528/huobi-php) - Huobi API Like the official document interface, Support for arbitrary extension.
-
-*   [zencodex/composer-mirror](https://github.com/zencodex/composer-mirror) - Composer 全量镜像发布于2017年3月，曾不间断运行2年多。这个开源有助于理解 Composer 镜像的工作原理
-
-*   [urlhum/UrlHum](https://github.com/urlhum/UrlHum) - The modern, privacy-aware URL Shortener built in PHP.
-
-*   [spatie/period](https://github.com/spatie/period) - Complex period comparisons
-
-*   [leeqvip/tadmin](https://github.com/leeqvip/tadmin) - 一个基于ThinkPHP的非侵入式后台开发框架。
-
-*   [php-casbin/think-casbin](https://github.com/php-casbin/think-casbin) - 专为ThinkPHP定制的Casbin的扩展包，Casbin是一个功能强大，高效的开源访问控制库。
-
-*   [wenjy/design\_patten\_php](https://github.com/wenjy/design_patten_php) - 《大话设计模式》学习整理
-
-*   [hunzhiwange/queryphp](https://github.com/hunzhiwange/queryphp) - ++🔥High Performance PHP Progressive Framework.
-
-*   [php-casbin/php-casbin](https://github.com/php-casbin/php-casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in PHP .
-
-*   [TiBeN/CrontabManager](https://github.com/TiBeN/CrontabManager) - PHP library for GNU/Linux cron jobs management.
-
-*   [namshi/jose](https://github.com/namshi/jose) - JSON Object Signing and Encryption library for PHP.
-
-*   [adbario/php-dot-notation](https://github.com/adbario/php-dot-notation) - Dot notation access to PHP arrays
-
-*   [thecodingmachine/safe](https://github.com/thecodingmachine/safe) - All PHP functions, rewritten to throw exceptions instead of returning false
-
-*   [nahid/jsonq](https://github.com/nahid/jsonq) - A PHP query builder for JSON
-
-*   [inhere/php-console](https://github.com/inhere/php-console) - 🖥 PHP CLI application library, provide console options,arguments parse, console controller/command run, color style, user interactive, format information show and more.  功能全面的PHP命令行应用库。提供控制台选项、参数解析, 命令运行，颜色风格输出, 用户信息交互, 特殊格式信息显示
-
-*   [jxlwqq/id-validator](https://github.com/jxlwqq/id-validator) - 中华人民共和国居民身份证、中华人民共和国港澳居民居住证以及中华人民共和国台湾居民居住证号码验证工具（PHP 版）
-
-*   [PHP-DI/PHP-DI](https://github.com/PHP-DI/PHP-DI) - The dependency injection container for humans
-
-*   [nategood/httpful](https://github.com/nategood/httpful) - A Chainable, REST Friendly, PHP HTTP Client.  A sane alternative to cURL.
-
-*   [czewail/think-api](https://github.com/czewail/think-api) - 帮助 thinkphp 5 开发者快速、轻松的构建Api🎉🎉🎉
-
-*   [phpple/altable](https://github.com/phpple/altable) - Altable用来对通过mysqldump出来的表结构数据进行解析，分析出数据库、数据表、字段、主键、索引等信息。
-
-*   [swlib/saber](https://github.com/swlib/saber) - ⚔️ Saber, PHP异步协程HTTP客户端 | PHP Coroutine HTTP client - Swoole Humanization Library
-
-*   [noximo/PHP-colored-ascii-linechart](https://github.com/noximo/PHP-colored-ascii-linechart) - Nice looking versatile ASCII linegraph written in PHP
-
-*   [xx19941215/light-tips](https://github.com/xx19941215/light-tips) - Some code tips about algorithms, php and more 🔥
-
-*   [lyxlk/CharRoom](https://github.com/lyxlk/CharRoom) - PHP + Swoole 聊天室
-
-*   [spatie/code-outliner](https://github.com/spatie/code-outliner) - Generate outline images of your code
-
-*   [simshaun/recurr](https://github.com/simshaun/recurr) - PHP library for working with recurrence rules (RRULE); meant to help with recurring calendar events.
-
-*   [yidas/phpspreadsheet-helper](https://github.com/yidas/phpspreadsheet-helper) - PHP Excel Helper - Write and read Spreadsheet with easy way based on PhpSpreadsheet
-
-*   [phpseclib/phpseclib](https://github.com/phpseclib/phpseclib) - PHP Secure Communications Library
-
-*   [imiphp/imi](https://github.com/imiphp/imi) - imi 是一款支持长连接微服务分布式的 PHP 开发框架，它可以运行在 PHP-FPM、Swoole、Workerman、RoadRunner 等多种容器环境下。它支持 HttpApi、WebSocket、TCP、UDP、MQTT 服务的开发。特别适合互联网微服务、即时通讯聊天im、物联网等场景！QQ群：17916227
-
-*   [slince/spike](https://github.com/slince/spike) - :mega: A fast reverse proxy written in PHP that helps to expose local services to the internet
-
-*   [storyflow/PHPer](https://github.com/storyflow/PHPer) - 一个PHPer的升级之路
-
-*   [metowolf/Meting](https://github.com/metowolf/Meting) - :cake: Wow, such a powerful music API framework
-
-*   [30-seconds/30-seconds-of-php](https://github.com/30-seconds/30-seconds-of-php) - Short PHP code snippets for all your development needs
-
-*   [igniphp/framework](https://github.com/igniphp/framework) - Swoole, PSR-15, PSR-7, PSR-11 lightweight modular anti-framework for REST micro-services.
-
-*   [medz/id-card-of-china](https://github.com/medz/id-card-of-china) - 🆔一个基于「公民身份号码」规则获取身份证号码中包含的基础信息组件（PHP）
-
-*   [xianyunyh/PHP-Interview](https://github.com/xianyunyh/PHP-Interview) - This is the information I prepared for the PHP interview.The notes include PHP, MySql, Linux, etc.
-
-*   [oraoto/pib](https://github.com/oraoto/pib) - PHP in Browser (powered by WebAssembly)
-
-*   [c0ny1/upload-labs](https://github.com/c0ny1/upload-labs) - 一个想帮你总结所有类型的上传漏洞的靶场
-
-*   [jialeicui/FakerChineseIdNumber](https://github.com/jialeicui/FakerChineseIdNumber) - 身份证填充数据
-
-*   [fzaninotto/Faker](https://github.com/fzaninotto/Faker) - Faker is a PHP library that generates fake data for you
-
-*   [kevinyan815/Learning\_Laravel\_Kernel](https://github.com/kevinyan815/Learning_Laravel_Kernel) - Laravel核心代码学习
-
-*   [web3p/web3.php](https://github.com/web3p/web3.php) - A php interface for interacting with the Ethereum blockchain and ecosystem. Native ABI parsing and smart contract interactions.
-
-*   [swooletw/laravel-swoole](https://github.com/swooletw/laravel-swoole) - High performance HTTP server based on Swoole. Speed up your Laravel or Lumen applications.
-
-*   [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
-
-*   [defuse/php-encryption](https://github.com/defuse/php-encryption) - Simple Encryption in PHP.
-
-*   [Anankke/SSPanel-Uim](https://github.com/Anankke/SSPanel-Uim) - SSPanel V3 魔改再次修改版
-
-*   [rialto-php/puphpeteer](https://github.com/rialto-php/puphpeteer) - A Puppeteer bridge for PHP, supporting the entire API.
-
-*   [passbolt/passbolt\_api](https://github.com/passbolt/passbolt_api) - Passbolt CE Backend, a JSON API written with CakePHP
-
-*   [zhaocong6/lock](https://github.com/zhaocong6/lock) - 高性能分布式并发锁, 行为限流
-
-*   [zyx0814/dzzoffice](https://github.com/zyx0814/dzzoffice) - dzzoffice
-
-*   [qieangel2013/EsParser](https://github.com/qieangel2013/EsParser) -  PHP write SQL to convert DSL to query Elasticsearch
-
-*   [medz/cors](https://github.com/medz/cors) - 🔮Supported(Laravel/Lumen/PSR-15/Swoft/Slim/ThinkPHP) - PHP CORS (Cross-origin resource sharing) middleware.
-
-*   [lodash-php/lodash-php](https://github.com/lodash-php/lodash-php) - Easy to use utility functions for everyday PHP projects. This is a port of the Lodash JS library to PHP
-
-*   [markrogoyski/math-php](https://github.com/markrogoyski/math-php) - Powerful modern math library for PHP: Features descriptive statistics and regressions; Continuous and discrete probability distributions; Linear algebra with matrices and vectors, Numerical analysis; special mathematical functions; Algebra
-
-*   [kriswallsmith/Buzz](https://github.com/kriswallsmith/Buzz) - PHP's lightweight HTTP client
-
-*   [jenssegers/date](https://github.com/jenssegers/date) - 🗓 A library to help you work with dates in multiple languages, based on Carbon.
-
-*   [overtrue/chinese-calendar](https://github.com/overtrue/chinese-calendar) - :date: 中国农历（阴历）与阳历（公历）转换与查询工具
-
-*   [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - A simple PHP API extension for DateTime.
-
-*   [JayBizzle/Crawler-Detect](https://github.com/JayBizzle/Crawler-Detect) - 🕷 CrawlerDetect is a PHP class for detecting bots/crawlers/spiders via the user agent
-
-*   [symfony/dom-crawler](https://github.com/symfony/dom-crawler) - Eases DOM navigation for HTML and XML documents
-
-*   [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony
-
-*   [WyriHaximus/react-guzzle-psr7](https://github.com/WyriHaximus/react-guzzle-psr7) -
-
-*   [lmc-eu/steward](https://github.com/lmc-eu/steward) - PHP libraries that makes Selenium WebDriver + PHPUnit functional testing easy and robust
-
-*   [Vectorface/whip](https://github.com/Vectorface/whip) - A PHP class for retrieving accurate IP address information for the client.
-
-*   [akrabat/ip-address-middleware](https://github.com/akrabat/ip-address-middleware) - PSR-7 Middleware that determines the client IP address and stores it as an ServerRequest attribute
-
-*   [thephpleague/plates](https://github.com/thephpleague/plates) - Native PHP template system
-
-*   [jupitern/slim3-skeleton](https://github.com/jupitern/slim3-skeleton) - Slim3 skeleton (http + cli) with some add-ons out of the box
-
-*   [php-webdriver/php-webdriver](https://github.com/php-webdriver/php-webdriver) - PHP client for Selenium/WebDriver protocol. Previously facebook/php-webdriver
-
-*   [helloxz/IPinfo](https://github.com/helloxz/IPinfo) - 整合多接口的IP查询工具。
-
-*   [deployphp/deployer](https://github.com/deployphp/deployer) - The PHP deployment tool with support for popular frameworks out of the box
-
-*   [sebastianbergmann/phpcpd](https://github.com/sebastianbergmann/phpcpd) - Copy/Paste Detector (CPD) for PHP code.
-
-*   [zhuzhichao/bank-card-info](https://github.com/zhuzhichao/bank-card-info) - 获取银行卡号的归属信息
-
-*   [khs1994-docker/php-demo](https://github.com/khs1994-docker/php-demo) - CI/CD 自动测试部署 Docker (On Kubernetes)化 PHP 项目最佳实践示例 （从 docker run ... 到 Kubernetes） | $ composer create-project --prefer-dist khs1994/example example
-
-*   [php-fig/simple-cache](https://github.com/php-fig/simple-cache) -
-
-*   [paragonie/random\_compat](https://github.com/paragonie/random_compat) - PHP 5.x support for random\_bytes() and random\_int()
-
-*   [phar-io/manifest](https://github.com/phar-io/manifest) - Component for reading phar.io manifest information from a PHP Archive (PHAR)
-
-*   [dragonmantank/cron-expression](https://github.com/dragonmantank/cron-expression) - CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
-
-*   [mtdowling/cron-expression](https://github.com/mtdowling/cron-expression) - CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
-
-*   [php-school/cli-menu](https://github.com/php-school/cli-menu) - 🖥  Build beautiful PHP CLI menus. Simple yet Powerful. Expressive DSL.
-
-*   [symfony/var-dumper](https://github.com/symfony/var-dumper) - Provides mechanisms for walking through any arbitrary PHP variable
-
-*   [hhxsv5/php-sse](https://github.com/hhxsv5/php-sse) - A simple and efficient library implemented HTML5's server-sent events by PHP, is used to real-time push events from server to client, and easier than Websocket, instead of AJAX request.
-
-*   [Bit-Wasp/bitcoin-php](https://github.com/Bit-Wasp/bitcoin-php) - Bitcoin implementation in PHP
-
-*   [easy-swoole/spider](https://github.com/easy-swoole/spider) - a multi process spider base on easyswoole
-
-*   [Yurunsoft/ChineseUtil](https://github.com/Yurunsoft/ChineseUtil) - PHP 中文工具包，支持汉字转拼音、拼音分词、简繁互转、数字、金额大写；QQ群：17916227
-
-*   [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) - A pure PHP library for reading and writing spreadsheet files
-
-*   [hhxsv5/laravel-s](https://github.com/hhxsv5/laravel-s) - LaravelS is an out-of-the-box adapter between Laravel/Lumen and Swoole.
-
-*   [pachico/slim-swoole](https://github.com/pachico/slim-swoole) - Convenient library to run SlimPHP applications with Swoole
-
-*   [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation
-
-*   [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality.
-
-*   [sebastianbergmann/php-timer](https://github.com/sebastianbergmann/php-timer) - Utility class for timing
-
-*   [spatie/server-side-rendering](https://github.com/spatie/server-side-rendering) - Server side rendering JavaScript in a PHP application
-
-*   [wmhello/workManger](https://github.com/wmhello/workManger) - 简单易用的学校信息管理系统（管理教职工基础信息、教学过程、短信消息和模板消息发送 学校微信公众号管理 简单事项审批）
-
-*   [maximebf/php-debugbar](https://github.com/maximebf/php-debugbar) - Debug bar for PHP
-
-*   [bingcool/swoolefy](https://github.com/bingcool/swoolefy) - swoolefy是一个基于swoole实现的协程级、轻量级、高性能、开放性的API应用服务框架
-
-*   [overtrue/laravel-shopping-cart](https://github.com/overtrue/laravel-shopping-cart) - :shopping\_cart: Shopping cart for Laravel Application.
-
-*   [wilon/php-number2chinese](https://github.com/wilon/php-number2chinese) - PHP 数字转为中文汉字描述、人民币大写方法。
-
-*   [spatie/crawler](https://github.com/spatie/crawler) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript.
-
-*   [twigphp/Twig](https://github.com/twigphp/Twig) - Twig, the flexible, fast, and secure template language for PHP
-
-*   [Seldaek/monolog](https://github.com/Seldaek/monolog) - Sends your logs to files, sockets, inboxes, databases and various web services
-
-*   [bool1993/xenon-wms](https://github.com/bool1993/xenon-wms) - 仓库管理系统
-
-*   [picqer/php-barcode-generator](https://github.com/picqer/php-barcode-generator) - Barcode generator in PHP that is easy to use, non-bloated and framework independent.
-
-*   [TIGERB/easy-php](https://github.com/TIGERB/easy-php) - A Faster Lightweight Full-Stack PHP Framework :rocket:
-
-*   [bixuehujin/blink](https://github.com/bixuehujin/blink) - A high performance web framework and application server in PHP.
-
-*   [lizhichao/VicWord](https://github.com/lizhichao/VicWord) -  一个纯php分词
-
-*   [helloxz/imgurl](https://github.com/helloxz/imgurl) - ImgURL是一个简单、纯粹的图床程序，让个人图床多一个选择。
-
-*   [paragonie/easydb](https://github.com/paragonie/easydb) - Easy-to-use PDO wrapper for PHP projects.
-
-*   [liufee/yii2-swoole](https://github.com/liufee/yii2-swoole) - yii2 swoole，让yii2运行在swoole上
-
-*   [kcloze/swoole-jobs](https://github.com/kcloze/swoole-jobs) - 🚀Dynamic multi process worker queue base on swoole, like gearman but high performance.
-
-*   [overtrue/http](https://github.com/overtrue/http) - :cactus: A simple http client wrapper.
-
-*   [Intervention/image](https://github.com/Intervention/image) - PHP Image Manipulation
-
-*   [kosinix/grafika](https://github.com/kosinix/grafika) - An image processing library for PHP
-
-*   [spatie/async](https://github.com/spatie/async) - Easily run code asynchronously
-
-*   [bryanjhv/slim-session](https://github.com/bryanjhv/slim-session) - A very simple session middleware for Slim Framework 2/3/4.
-
-*   [matyhtf/webim](https://github.com/matyhtf/webim) - 使用PHP+Swoole实现的网页即时聊天工具
-
-*   [gothinkster/slim-php-realworld-example-app](https://github.com/gothinkster/slim-php-realworld-example-app) - Exemplary real world application built with Slim
-
-*   [z-song/laravel-admin](https://github.com/z-song/laravel-admin) - Build a full-featured administrative interface in ten minutes
-
-*   [slince/China](https://github.com/slince/China) - :cn: 一个轻巧的中国的地区、民族以及节假日信息的查询PHP库
-
-*   [bowu678/php\_bugs](https://github.com/bowu678/php_bugs) - PHP代码审计分段讲解
-
-*   [fucongcong/GroupCo](https://github.com/fucongcong/GroupCo) - PHP的服务化框架。适用于Api、Http Server、Rpc Server；帮助原生PHP项目转向微服务化。出色的性能与支持高并发的协程相结合
-
-*   [thephpleague/uri](https://github.com/thephpleague/uri) - \[READ-ONLY] URI manipulation Library
-
-*   [phpactor/phpactor](https://github.com/phpactor/phpactor) - Mainly a PHP Language Server with more features than you can shake a stick at
-
-*   [matomo-org/device-detector](https://github.com/matomo-org/device-detector) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.
-
-*   [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) - Documentation Generator for PHP
-
-*   [KnpLabs/snappy](https://github.com/KnpLabs/snappy) - PHP library allowing thumbnail, snapshot or PDF generation from a url or a html page. Wrapper for wkhtmltopdf/wkhtmltoimage
-
-*   [mledoze/countries](https://github.com/mledoze/countries) - World countries in JSON, CSV, XML and Yaml. Any help is welcome!
-
-*   [thephpleague/omnipay](https://github.com/thephpleague/omnipay) - A framework agnostic, multi-gateway payment processing library for PHP 5.6+
-
-*   [Respect/Validation](https://github.com/Respect/Validation) - The most awesome validation engine ever created for PHP
-
-*   [opencart/opencart](https://github.com/opencart/opencart) - A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.
-
-*   [top-think/think-orm](https://github.com/top-think/think-orm) - Think ORM——the PHP Database\&ORM Framework
-
-*   [top-think/think-template](https://github.com/top-think/think-template) - the php template engine
-
-*   [geesondog/rhaphp](https://github.com/geesondog/rhaphp) - RhaPHP是微信第三方管理平台，微信公众号管理系统，支持多公众号管理，CRM会员管理，小程序开发，APP接口开发、几乎集合微信功能，简洁、快速上手、快速开发微信各种各样应用。简洁、好用、快速、项目开发快几倍 。
-
-*   [mirahman/PHP-Data-Structure-and-Algorithms](https://github.com/mirahman/PHP-Data-Structure-and-Algorithms) - A repository with implementations of different data structures and algorithms using PHP
-
-*   [itsgoingd/clockwork](https://github.com/itsgoingd/clockwork) - Clockwork - php dev tools in your browser - server-side component
-
-*   [PHPJunior/laravel-video-chat](https://github.com/PHPJunior/laravel-video-chat) - Laravel Video Chat using Socket.IO and WebRTC
-
-*   [josephernest/Yopp](https://github.com/josephernest/Yopp) - A very fast way to transfer a file from phone to computer and vice versa.
-
-*   [zyfei/workerman\_cor\_ape](https://github.com/zyfei/workerman_cor_ape) - workerman基础上，在不影响任何使用方式，稳定性，性能前提下，增加了异步任务组件。
-
-*   [osgochina/swoole-crontab](https://github.com/osgochina/swoole-crontab) - 基于swoole的定时器程序，支持秒级处理
-
-*   [spatie/browsershot](https://github.com/spatie/browsershot) - Convert HTML to an image, PDF or string
-
-*   [mark-gerarts/automapper-plus](https://github.com/mark-gerarts/automapper-plus) - An AutoMapper for PHP
-
-*   [Piplin/Piplin](https://github.com/Piplin/Piplin) - :outbox\_tray: An open source self-hosted continuous integration and deployment system - QQ群： 656868
-
-*   [webmozart/json](https://github.com/webmozart/json) - A robust JSON decoder/encoder with support for schema validation.
-
-*   [mpdf/mpdf](https://github.com/mpdf/mpdf) - PHP library generating PDF files from UTF-8 encoded HTML
-
-*   [apioo/fusio](https://github.com/apioo/fusio) - Open source API management platform
-
-*   [Callwoola/php-split](https://github.com/Callwoola/php-split) - php中文分词库
-
-*   [lixuancn/MeepoPS](https://github.com/lixuancn/MeepoPS) - MeepoPS是Meepo PHP Socket的缩写，旨在提供稳定的Socket服务。可以轻松构建在线实时聊天、即时游戏、视频流媒体播放等。
-
-*   [Echosong/ES](https://github.com/Echosong/ES) - Minimalism php web framework
-
-*   [mix-php/mix](https://github.com/mix-php/mix) - ☄️  PHP CLI mode development framework, supports Swoole, WorkerMan, FPM, CLI-Server / PHP 命令行模式开发框架，支持 Swoole、Swow、WorkerMan、FPM、CLI-Server
-
-*   [Yurunsoft/PaySDK](https://github.com/Yurunsoft/PaySDK) - PHP 集成支付 SDK ，集成了支付宝、微信支付的支付接口和其它相关接口的操作。支持 php-fpm 和 Swoole，所有框架通用。宇润PHP全家桶技术支持群：17916227
-
-*   [ycrao/mynotes](https://github.com/ycrao/mynotes) - 笔记、Laravel、PHP、面试题、MySQL、HTML、CSS、Java...
-
-*   [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework.
-
-*   [godruoyi/ocr](https://github.com/godruoyi/ocr) - The Best Image OCR SDK For BAT
-
-*   [walkor/phpsocket.io](https://github.com/walkor/phpsocket.io) - A server side alternative implementation of socket.io in PHP based on workerman.
-
-*   [php-mod/curl](https://github.com/php-mod/curl) - This library provides an object-oriented and dependency free wrapper of the PHP cURL extension.
-
-*   [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
-
-*   [sinacms/MultiHttp](https://github.com/sinacms/MultiHttp) - This is a high performance , very useful  multi-curl tool written in php. 一个超级好用的并发CURL工具！！！(httpful，restful, concurrency)
-
-*   [jae-jae/QueryList](https://github.com/jae-jae/QueryList) - :spider: The progressive PHP crawler framework!  优雅的渐进式PHP采集框架。
-
-*   [jxy918/swoole-game](https://github.com/jxy918/swoole-game) - 基于Swoole扩展开发游戏服务器框架，示例实现h5游戏开发
-
-*   [Tencent/Biny](https://github.com/Tencent/Biny) - Biny is a tiny, high-performance PHP framework for web applications
-
-*   [helloqingfeng/Awsome-Front-End-learning-resource](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource) - :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等）
-
-*   [nahid/talk](https://github.com/nahid/talk) - Talk is a real-time users messaging and chatting system for Laravel.
-
-*   [yunwuxin/think-cron](https://github.com/yunwuxin/think-cron) - 计划任务 for thinkphp
-
-*   [bmitch/churn-php](https://github.com/bmitch/churn-php) - Discover files in need of refactoring.
-
-*   [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
-
-*   [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
-
-*   [Leslin/thinkphp5-restfulapi](https://github.com/Leslin/thinkphp5-restfulapi) - restful-api风格接口 APP接口 APP接口权限  oauth2.0 接口版本管理 接口鉴权
-
-*   [TIGERB/easy-tips](https://github.com/TIGERB/easy-tips) - A little Tips in my Code Career with Go\&PHP 🥳🥳🥳
-
-*   [php-cpm/clean-code-php](https://github.com/php-cpm/clean-code-php) - :bathtub:  PHP版的代码整洁之道 中文翻译
-
-*   [jonnnnyw/php-phantomjs](https://github.com/jonnnnyw/php-phantomjs) - Execute PhantomJS commands through PHP
-
-*   [piotrplenik/clean-code-php](https://github.com/piotrplenik/clean-code-php) - :bathtub: Clean Code concepts adapted for PHP
-
-*   [reactphp/promise](https://github.com/reactphp/promise) - Promises/A implementation for PHP.
-
-*   [slimphp/Slim](https://github.com/slimphp/Slim) - Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.
-
-*   [yansongda/pay](https://github.com/yansongda/pay) - 可能是我用过的最优雅的 Alipay/WeChat/Unipay 的支付 SDK 扩展包了
-
-*   [m9rco/algorithm-php](https://github.com/m9rco/algorithm-php) - 🍭🍭uniting the internal work in a way that is in PHP
-
-*   [jobsfan/image\_drag\_auth](https://github.com/jobsfan/image_drag_auth) - php image drag auth plugin, php写的图片拖动验证插件，又名滑动验证
-
-*   [walkor/workerman-chat](https://github.com/walkor/workerman-chat) - Websocket chat room written in PHP based on workerman.
-
-*   [botman/botman](https://github.com/botman/botman) - A framework agnostic PHP library to build chat bots
-
-*   [overtrue/flysystem-qiniu](https://github.com/overtrue/flysystem-qiniu) - :floppy\_disk: Flysystem adapter for the Qiniu storage.
-
-*   [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
-
-*   [tennc/webshell](https://github.com/tennc/webshell) - This is a webshell open source project
-
-*   [Yurunsoft/YurunHttp](https://github.com/Yurunsoft/YurunHttp) - YurunHttp 是开源的 PHP HTTP 客户端，支持链式操作，简单易用。完美支持Curl、Swoole 协程。QQ群：17916227
-
-*   [swoft-cloud/swoft](https://github.com/swoft-cloud/swoft) - 🚀 PHP Microservice Full Coroutine Framework
-
-*   [helei112g/payment](https://github.com/helei112g/payment) - Payment是php版本的支付聚合第三方sdk，集成了微信支付、支付宝支付、招商一网通支付。提供统一的调用接口，方便快速接入各种支付、查询、退款、转账能力。服务端接入支付功能，方便、快捷。
-
-*   [dingo/api](https://github.com/dingo/api) - A RESTful API package for the Laravel and Lumen frameworks.
-
-*   [fastdlabs/fastD](https://github.com/fastdlabs/fastD) - :rocket: A high performance PHP API framework.
-
-*   [caoym/phpboot](https://github.com/caoym/phpboot) - :coffee: 🚀 tiny & fast PHP framework for building Microservices/RESTful APIs, with useful  features: IOC, Hook, ORM, RPC, Swagger, Annotation, Parameters binding, Validation, etc.
-
-*   [douyasi/identity-card](https://github.com/douyasi/identity-card) - Chinese Identity Card package （中国大陆）公民身份证类
-
-*   [yl/id-card](https://github.com/yl/id-card) - 身份证号校验及信息获取
-
-*   [ramsey/uuid](https://github.com/ramsey/uuid) - :snowflake: A PHP library for generating universally unique identifiers (UUIDs).
-
-*   [mikeemoo/ColorJizz-PHP](https://github.com/mikeemoo/ColorJizz-PHP) - ColorJizz is a PHP library for manipulating and converting colors.
-
-*   [jenssegers/agent](https://github.com/jenssegers/agent) - 👮 A PHP desktop/mobile user agent parser with support for Laravel, based on Mobiledetect
-
-*   [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - Mobile\_Detect is a lightweight PHP class for detecting mobile devices (including tablets). It uses the User-Agent string combined with specific HTTP headers to detect the mobile environment.
-
-*   [fukuball/jieba-php](https://github.com/fukuball/jieba-php) - "結巴"中文分詞：做最好的 PHP 中文分詞、中文斷詞組件。 / "Jieba" (Chinese for "to stutter") Chinese text segmentation: built to be the best PHP Chinese word segmentation module.
-
-*   [hoaproject/Ustring](https://github.com/hoaproject/Ustring) - The Hoa\Ustring library.
-
-*   [hprose/hprose-php](https://github.com/hprose/hprose-php) - Hprose is a cross-language RPC. This project is Hprose 3.0 for PHP
-
-*   [CoderKungfu/php-queue](https://github.com/CoderKungfu/php-queue) - A unified front-end for different queuing backends. Includes a REST server, CLI interface and daemon runners.
-
-*   [geocoder-php/Geocoder](https://github.com/geocoder-php/Geocoder) - The most featured Geocoder library written in PHP.
-
-*   [jwage/purl](https://github.com/jwage/purl) - Purl is a simple Object Oriented URL manipulation library for PHP 7.2+
-
-*   [Yurunsoft/YurunPHP](https://github.com/Yurunsoft/YurunPHP) - YurunPHP是宇润软件专为懒人开发者设计的一款开源PHP框架，基于MVC动态分层架构，开发者可以根据需要自行扩充分层。宇润PHP交流群：17916227
-
-*   [lijiebin/LoggerOne](https://github.com/lijiebin/LoggerOne) - One Efficient & Light & Simple high performance PHP log implemention of PSR-3
-
-*   [bartblaze/PHP-backdoors](https://github.com/bartblaze/PHP-backdoors) - A collection of PHP backdoors. For educational or testing purposes only.
-
-*   [verot/class.upload.php](https://github.com/verot/class.upload.php) - This PHP class uploads files and manipulates images very easily. It is in fact as much as an image processing class than it is an upload class. Compatible with PHP 4, 5, 7 and 8. Supports processing of local files, uploaded files, files sent through XMLHttpRequest.
-
-*   [overtrue/easy-sms](https://github.com/overtrue/easy-sms) - 📲 一款满足你的多种发送需求的短信发送组件
-
-*   [klein/klein.php](https://github.com/klein/klein.php) - A fast & flexible router
-
-*   [DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - Sample code for several design patterns in PHP 8.x
-
-*   [easy-swoole/easyswoole](https://github.com/easy-swoole/easyswoole) - swoole,easyswoole,swoole framework
-
-*   [upfor/juggler](https://github.com/upfor/juggler) - PHP lightweight database framework
-
-*   [walkor/workerman](https://github.com/walkor/workerman) - An asynchronous event driven PHP socket framework. Supports HTTP, Websocket, SSL and other custom protocols.
-
-*   [catfan/Medoo](https://github.com/catfan/Medoo) - The lightweight PHP database framework to accelerate the development.
-
-*   [jasonweicn/miniframework](https://github.com/jasonweicn/miniframework) - MiniFramework 是一款遵循 Apache2 开源协议发布的，支持 MVC 和 RESTful 的超轻量级 PHP 开发框架。
-
-*   [predis/predis](https://github.com/predis/predis) - A flexible and feature-complete Redis client for PHP.
-
-*   [mvdbos/php-spider](https://github.com/mvdbos/php-spider) - A configurable and extensible PHP web spider
-
-*   [owner888/phpspider](https://github.com/owner888/phpspider) - 《我用爬虫一天时间“偷了”知乎一百万用户，只为证明PHP是世界上最好的语言 》所使用的程序
-
-*   [zhuzhichao/ip-location-zh](https://github.com/zhuzhichao/ip-location-zh) - 获取 IP 地址的真实地理位置
-
-*   [PHPGangsta/GoogleAuthenticator](https://github.com/PHPGangsta/GoogleAuthenticator) - PHP class to generate and verify Google Authenticator 2-factor authentication
-
-*   [Imangazaliev/DiDOM](https://github.com/Imangazaliev/DiDOM) - Simple and fast HTML and XML parser
-
-*   [php-curl-class/php-curl-class](https://github.com/php-curl-class/php-curl-class) - PHP Curl Class makes it easy to send HTTP requests and integrate with web APIs
-
-*   [chrisboulton/php-resque](https://github.com/chrisboulton/php-resque) - PHP port of resque (Workers and Queueing)
-
-*   [filp/whoops](https://github.com/filp/whoops) - PHP errors for cool kids
-
-*   [PHPSocialNetwork/phpfastcache](https://github.com/PHPSocialNetwork/phpfastcache) - A high-performance backend cache system.  It is intended for use in speeding up dynamic web applications by alleviating database load.  Well implemented, it can drops the database load to almost nothing, yielding faster page load times for users, better resource utilization.  It is simple yet powerful.
-
-*   [FriendsOfPHP/Goutte](https://github.com/FriendsOfPHP/Goutte) - Goutte, a simple PHP Web Scraper
-
-*   [typecho-fans/plugins](https://github.com/typecho-fans/plugins) - Typecho Fans插件作品目录
-
-*   [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
-
-*   [firebase/php-jwt](https://github.com/firebase/php-jwt) - PHP package for JWT
-
-*   [tymondesigns/jwt-auth](https://github.com/tymondesigns/jwt-auth) - 🔐 JSON Web Token Authentication for Laravel & Lumen
-
-*   [lcobucci/jwt](https://github.com/lcobucci/jwt) - A simple library to work with JSON Web Token and JSON Web Signature
-
-*   [scil/LaravelFly](https://github.com/scil/LaravelFly) - To be an absolutely safe solution to speed up Laravel with Swoole. Preloading + Coroutine and Tinker Online.
-
-*   [kaperys/financial](https://github.com/kaperys/financial) - A simple PHP ISO8583 pack and unpack library
-
-*   [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
-
-*   [luofei614/SocketLog](https://github.com/luofei614/SocketLog) - 微信调试、API调试和AJAX的调试的工具，能将日志通过WebSocket输出到Chrome浏览器的console中
-
-*   [overtrue/pinyin](https://github.com/overtrue/pinyin) - 🇨🇳 基于词库的中文转拼音优质解决方案
-
-*   [zoujingli/ThinkAdmin](https://github.com/zoujingli/ThinkAdmin) - 基于 ThinkPHP6 的极简后台管理系统，内置注解权限、异步多任务、应用插件生态等，支持类 PaaS 更新公共模块和应用插件，插件可本地化定制开发。
-
-*   [JBZoo/Utils](https://github.com/JBZoo/Utils) - Collection of useful PHP functions, mini-classes, and snippets for every day.
-
-*   [belgattitude/soluble-japha](https://github.com/belgattitude/soluble-japha) - PHP Java integration
-
-*   [betephp/betephp](https://github.com/betephp/betephp) - BetePHP - A simple PHP Framework that just work.
-
-*   [ThingEngineer/PHP-MySQLi-Database-Class](https://github.com/ThingEngineer/PHP-MySQLi-Database-Class) - Wrapper for a PHP MySQL class, which utilizes MySQLi and prepared statements.
-
-*   [guzzle/guzzle](https://github.com/guzzle/guzzle) - Guzzle, an extensible PHP HTTP client
-
-*   [guzzle/promises](https://github.com/guzzle/promises) - Promises/A+ library for PHP with synchronous support
-
-*   [endroid/qr-code](https://github.com/endroid/qr-code) - QR Code Generator
-
-*   [top-think/framework](https://github.com/top-think/framework) - ThinkPHP Framework
-
-*   [top-think/think](https://github.com/top-think/think) - ThinkPHP Framework ——十年匠心的高性能PHP框架
-
-*   [w7corp/easywechat](https://github.com/w7corp/easywechat) - 📦 一个 PHP 微信 SDK
-
-*   [nick-bai/snake](https://github.com/nick-bai/snake) - 🚀thinkphp5.1 + layui 实现的带rbac的基础管理后台，方便快速开发法使用
 
 ## Python
 
