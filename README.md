@@ -285,7 +285,7 @@
 
 *   [walkor/redis-queue](https://github.com/walkor/redis-queue) - Message queue system written in PHP based on workerman and backed by Redis.
 
-*   [72wukong/72crm-9.0-PHP](https://github.com/72wukong/72crm-9.0-PHP) - 悟空CRM-基于TP5.0+vue+ElementUI的前后端分离CRM系统
+*   [WuKongOpenSource/WukongCRM-9.0-PHP](https://github.com/WuKongOpenSource/WukongCRM-9.0-PHP) - 悟空CRM-基于TP5.0+vue+ElementUI的前后端分离CRM系统
 
 *   [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework?
 
