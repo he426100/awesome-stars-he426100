@@ -149,7 +149,7 @@
 
 *   [joanhey/AdapterMan](https://github.com/joanhey/AdapterMan) - AdapterMan for Workerman. Run almost any PHP app asynchronously with Workerman, without touch 1 line of code in your fw or app.
 
-*   [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build single static PHP binary, with PHP project together, with popular extensions included.
+*   [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone PHP binary on Linux, macOS, FreeBSD, with PHP project together, with popular extensions included.
 
 *   [ambroisemaupate/intervention-request](https://github.com/ambroisemaupate/intervention-request) - A customizable Intervention Image wrapper to use simple image re-sampling features over urls and a configurable cache.
 
@@ -1115,7 +1115,7 @@
 
 *   [listen1/listen1](https://github.com/listen1/listen1) - one for all free music in china (origin edition)
 
-*   [benmatselby/sublime-phpcs](https://github.com/benmatselby/sublime-phpcs) - 🔍 PHP CodeSniffer, PHP Coding Standard Fixer, Linter and Mess Detector Support for Sublime Text
+*   [benmatselby/sublime-phpcs](https://github.com/benmatselby/sublime-phpcs) - 🔍 PHP CodeSniffer, PHP Coding Standard Fixer, Linter, and Mess Detector Support for Sublime Text
 
 *   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
