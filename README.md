@@ -16,6 +16,7 @@
 
 ## Table of Contents
 
+*   [SCSS](#scss)
 *   [PHP](#php)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
@@ -40,7 +41,6 @@
 *   [Haskell](#haskell)
 *   [Handlebars](#handlebars)
 *   [Solidity](#solidity)
-*   [SCSS](#scss)
 *   [Ruby](#ruby)
 *   [C#](#c-2)
 *   [Smarty](#smarty)
@@ -58,6 +58,18 @@
 *   [Clojure](#clojure)
 *   [Astro](#astro)
 *   [Thanks](#thanks)
+
+## SCSS
+
+*   [xinlc/uniapp-vue3-ts-template](https://github.com/xinlc/uniapp-vue3-ts-template) - uniapp Vue3 Vite3 Pinia TypeScript 基础框架
+
+*   [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
+
+*   [filecoin-project/specs](https://github.com/filecoin-project/specs) - The Filecoin protocol specification
+
+*   [mdbootstrap/mdb-vue-ui-kit](https://github.com/mdbootstrap/mdb-vue-ui-kit) - Vue 3 & Bootstrap 5 & Material Design 2.0 UI KIT
+
+*   [mdo/code-guide](https://github.com/mdo/code-guide) - Standards for developing consistent, flexible, and sustainable HTML and CSS.
 
 ## PHP
 
@@ -2531,7 +2543,7 @@
 
 *   [ethereumjs/ethereumjs-wallet](https://github.com/ethereumjs/ethereumjs-wallet) - Utilities for handling Ethereum keys
 
-*   [makeflow/remote-workspace](https://github.com/makeflow/remote-workspace) - A simple solution enabling one-workspace-per-feature development.
+*   [mufancom/remote-workspace](https://github.com/mufancom/remote-workspace) - A simple solution enabling one-workspace-per-feature development.
 
 *   [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 
@@ -2919,8 +2931,6 @@
 
 *   [laravel-china/php-the-right-way](https://github.com/laravel-china/php-the-right-way) - 收集 PHP 最佳实践、编码规范和权威学习指南，方便 PHP 开发者阅读和查找
 
-*   [fgnass/spin.js](https://github.com/fgnass/spin.js) - A spinning activity indicator
-
 ## EJS
 
 *   [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
@@ -3208,16 +3218,6 @@
 ## Solidity
 
 *   [AmazingAng/WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) - 我最近在重新学solidity，巩固一下细节，也写一个“WTF Solidity极简入门”，供小白们使用，每周更新1-3讲。Now supports English! 官网: https://wtf.academy
-
-## SCSS
-
-*   [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
-
-*   [filecoin-project/specs](https://github.com/filecoin-project/specs) - The Filecoin protocol specification
-
-*   [mdbootstrap/mdb-vue-ui-kit](https://github.com/mdbootstrap/mdb-vue-ui-kit) - Vue 3 & Bootstrap 5 & Material Design 2.0 UI KIT
-
-*   [mdo/code-guide](https://github.com/mdo/code-guide) - Standards for developing consistent, flexible, and sustainable HTML and CSS.
 
 ## Ruby
 
