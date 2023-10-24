@@ -553,7 +553,7 @@
 
 *   [metowolf/Meting](https://github.com/metowolf/Meting) - :cake: Wow, such a powerful music API framework
 
-*   [30-seconds/30-seconds-of-php](https://github.com/30-seconds/30-seconds-of-php) - Short PHP code snippets for all your development needs
+*   [Chalarangelo/30-seconds-of-php](https://github.com/Chalarangelo/30-seconds-of-php) - Short PHP code snippets for all your development needs
 
 *   [igniphp/framework](https://github.com/igniphp/framework) - Swoole, PSR-15, PSR-7, PSR-11 lightweight modular anti-framework for REST micro-services.
 
