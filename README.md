@@ -44,13 +44,13 @@
 *   [Ruby](#ruby)
 *   [C#](#c-2)
 *   [Smarty](#smarty)
-*   [Makefile](#makefile)
 *   [R](#r)
 *   [Crystal](#crystal)
 *   [ASL](#asl)
 *   [Kotlin](#kotlin)
 *   [PLpgSQL](#plpgsql)
 *   [Objective-C](#objective-c)
+*   [Makefile](#makefile)
 *   [CoffeeScript](#coffeescript)
 *   [NSIS](#nsis)
 *   [Rich Text Format](#rich-text-format)
@@ -1217,6 +1217,8 @@
 
 *   [NebuTech/NBMiner](https://github.com/NebuTech/NBMiner) - GPU Miner for ETH, RVN, BEAM, CFX, ZIL, AE, ERGO
 
+*   [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
+
 *   [mason0510/lotus-1](https://github.com/mason0510/lotus-1) - 默然大哥版本调度维护,一切默然大哥跑法欢迎测试～！【只对熟悉大哥调度方式的技术人员使用，新手请别用】
 
 *   [trexminer/T-Rex](https://github.com/trexminer/T-Rex) - T-Rex NVIDIA GPU miner with web control monitoring page
@@ -1953,7 +1955,7 @@
 
 *   [yi-ge/Koa2-API-Scaffold](https://github.com/yi-ge/Koa2-API-Scaffold) - 一个基于Koa2的轻量级RESTful API Server脚手架。
 
-*   [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it
+*   [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Community list of awesome projects, apps, tools, and services related to IPFS.
 
 *   [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget) - 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
 
@@ -3267,16 +3269,6 @@
 
 *   [rubyhan1314/Golang-100-Days](https://github.com/rubyhan1314/Golang-100-Days) - Golang - 100天从新手到大师
 
-## Makefile
-
-*   [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
-
-*   [zh-google-styleguide/zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide) - Google 开源项目风格指南 (中文版)
-
-*   [jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。
-
-*   [phpbrew/phpbrew](https://github.com/phpbrew/phpbrew) - Brew & manage PHP versions in pure PHP at HOME
-
 ## R
 
 *   [psychbruce/ChineseNames](https://github.com/psychbruce/ChineseNames) - 🀄 Chinese Name Database (1930-2008).
@@ -3306,6 +3298,14 @@
 ## Objective-C
 
 *   [iodefog/VipVideo](https://github.com/iodefog/VipVideo) - 各大网站vip视频、世界杯直播（CCTV5）免费观看 - Mac版。付费电影，VIP会员剧等，去广告播放。自用视频或者电影URL，音乐破解URL，CCTV等电视播放URL，爱奇艺、腾讯视频、芒果视频、bilibili、美剧、韩剧、日剧、音乐破解
+
+## Makefile
+
+*   [zh-google-styleguide/zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide) - Google 开源项目风格指南 (中文版)
+
+*   [jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。
+
+*   [phpbrew/phpbrew](https://github.com/phpbrew/phpbrew) - Brew & manage PHP versions in pure PHP at HOME
 
 ## CoffeeScript
 
