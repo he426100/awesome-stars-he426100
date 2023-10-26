@@ -16,8 +16,8 @@
 
 ## Table of Contents
 
-*   [SCSS](#scss)
 *   [PHP](#php)
+*   [SCSS](#scss)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [Shell](#shell)
@@ -59,19 +59,9 @@
 *   [Astro](#astro)
 *   [Thanks](#thanks)
 
-## SCSS
-
-*   [xinlc/uniapp-vue3-ts-template](https://github.com/xinlc/uniapp-vue3-ts-template) - uniapp Vue3 Vite3 Pinia TypeScript 基础框架
-
-*   [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
-
-*   [filecoin-project/specs](https://github.com/filecoin-project/specs) - The Filecoin protocol specification
-
-*   [mdbootstrap/mdb-vue-ui-kit](https://github.com/mdbootstrap/mdb-vue-ui-kit) - Vue 3 & Bootstrap 5 & Material Design 2.0 UI KIT
-
-*   [mdo/code-guide](https://github.com/mdo/code-guide) - Standards for developing consistent, flexible, and sustainable HTML and CSS.
-
 ## PHP
+
+*   [minkphp/Mink](https://github.com/minkphp/Mink) - PHP web browser emulator abstraction
 
 *   [pengxuxu/hyperf-easywechat6](https://github.com/pengxuxu/hyperf-easywechat6) - hyperf easywechat6
 
@@ -971,6 +961,18 @@
 
 *   [w7corp/easywechat](https://github.com/w7corp/easywechat) - 📦 一个 PHP 微信 SDK
 
+## SCSS
+
+*   [xinlc/uniapp-vue3-ts-template](https://github.com/xinlc/uniapp-vue3-ts-template) - uniapp Vue3 Vite3 Pinia TypeScript 基础框架
+
+*   [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
+
+*   [filecoin-project/specs](https://github.com/filecoin-project/specs) - The Filecoin protocol specification
+
+*   [mdbootstrap/mdb-vue-ui-kit](https://github.com/mdbootstrap/mdb-vue-ui-kit) - Vue 3 & Bootstrap 5 & Material Design 2.0 UI KIT
+
+*   [mdo/code-guide](https://github.com/mdo/code-guide) - Standards for developing consistent, flexible, and sustainable HTML and CSS.
+
 ## Python
 
 *   [EwingYangs/awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt) - Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
@@ -1143,7 +1145,7 @@
 
 *   [httaotao/glusterfs-book](https://github.com/httaotao/glusterfs-book) - 作为国内第一本glusterfs的书籍，方便大家学习了解
 
-*   [Taotaotao666/SGK\_Sites\_and\_Bots](https://github.com/Taotaotao666/SGK_Sites_and_Bots) - 免费在线社工库查询网站和Telegram电报社工库机器人分享
+*   [Taotaotao666/SGK\_Site\_and\_Bots](https://github.com/Taotaotao666/SGK_Site_and_Bots) - 免费在线社工库网站和Telegram电报社工库机器人查询查档
 
 *   [chenking2020/FindTheChatGPTer](https://github.com/chenking2020/FindTheChatGPTer) - ChatGPT爆火，开启了通往AGI的关键一步，本项目旨在汇总那些ChatGPT的开源平替们，包括文本大模型、多模态大模型等，为大家提供一些便利
 
@@ -2361,8 +2363,6 @@
 
 *   [layui/layui](https://github.com/layui/layui) - 一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。
 
-*   [dcloudio/mui](https://github.com/dcloudio/mui) - 最接近原生APP体验的高性能框架
-
 ## Go
 
 *   [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts
@@ -2903,7 +2903,7 @@
 
 *   [rime/home](https://github.com/rime/home) - Rime::Home is home to Rime users and developers
 
-*   [30-seconds/30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - Short CSS code snippets for all your development needs
+*   [Chalarangelo/30-seconds-of-css](https://github.com/Chalarangelo/30-seconds-of-css) - Short CSS code snippets for all your development needs
 
 *   [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 
