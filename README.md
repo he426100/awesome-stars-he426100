@@ -1407,7 +1407,7 @@
 
 ## SCSS
 
-*   [xinlc/uniapp-vue3-ts-template](https://github.com/xinlc/uniapp-vue3-ts-template) - uniapp Vue3 Vite3 Pinia TypeScript 基础框架
+*   [xinlc/uniapp-vue3-ts-template](https://github.com/xinlc/uniapp-vue3-ts-template) - uni-app Vue3 Vite3 Pinia TypeScript 基础框架
 
 *   [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 
@@ -1678,8 +1678,6 @@
 *   [ossu/computer-science-cn](https://github.com/ossu/computer-science-cn) -  🎓计算机技术与科学自学之旅
 
 *   [luruke/browser-2020](https://github.com/luruke/browser-2020) - Things you can do with a browser in 2020 ☕️
-
-*   [Fndroid/clash\_for\_windows\_pkg](https://github.com/Fndroid/clash_for_windows_pkg) - A Windows/macOS GUI based on Clash
 
 *   [cycz/jdBuyMask](https://github.com/cycz/jdBuyMask) - 祝大家抗疫成功
 
@@ -1994,6 +1992,8 @@
 *   [apache/incubator-weex](https://github.com/apache/incubator-weex) - Apache Weex (Incubating)
 
 *   [phpv8/v8js](https://github.com/phpv8/v8js) - V8 Javascript Engine for PHP — This PHP extension embeds the Google V8 Javascript Engine
+
+*   [swoole/swoole-src](https://github.com/swoole/swoole-src) - 🚀 Coroutine-based concurrency library for PHP
 
 ## JavaScript
 
