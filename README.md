@@ -393,8 +393,6 @@
 
 *   [yqking/uniapp-avatar](https://github.com/yqking/uniapp-avatar) - uni-app 头像裁剪 小程序 ios android h5 全平台支持
 
-*   [MyEtherWallet/MyEtherWallet](https://github.com/MyEtherWallet/MyEtherWallet) - MyEtherWallet (our friends call us MEW) is a free, client-side interface helping you interact with the Ethereum blockchain.
-
 *   [dongj0316/keyboard-license-plate](https://github.com/dongj0316/keyboard-license-plate) - vue车牌号模拟键盘
 
 *   [airyland/vux](https://github.com/airyland/vux) - Mobile UI Components based on Vue & WeUI
@@ -679,7 +677,7 @@
 
 *   [PromPHP/prometheus\_client\_php](https://github.com/PromPHP/prometheus_client_php) - Prometheus instrumentation library for PHP applications
 
-*   [reliforp/reli-prof](https://github.com/reliforp/reli-prof) - A sampling profiler for PHP written in PHP, which reads information about running PHP VM from outside of the process.
+*   [reliforp/reli-prof](https://github.com/reliforp/reli-prof) - A sampling profiler or a memory profiler for PHP written in PHP, which reads information about running PHP VM from outside of the process.
 
 *   [zhangyue0503/dev-blog](https://github.com/zhangyue0503/dev-blog) - php博客文章
 
@@ -1792,6 +1790,8 @@
 *   [filecoin-project/specs](https://github.com/filecoin-project/specs) - The Filecoin protocol specification
 
 *   [mdbootstrap/mdb-vue-ui-kit](https://github.com/mdbootstrap/mdb-vue-ui-kit) - Vue 3 & Bootstrap 5 & Material Design 2.0 UI KIT
+
+*   [MyEtherWallet/MyEtherWallet](https://github.com/MyEtherWallet/MyEtherWallet) - MyEtherWallet (our friends call us MEW) is a free, client-side interface helping you interact with the Ethereum blockchain.
 
 *   [mdo/code-guide](https://github.com/mdo/code-guide) - Standards for developing consistent, flexible, and sustainable HTML and CSS.
 
