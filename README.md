@@ -703,7 +703,7 @@
 
 *   [zhuifengshaonianhanlu/pikachu](https://github.com/zhuifengshaonianhanlu/pikachu) - 一个好玩的Web安全-漏洞测试平台
 
-*   [janreges/siteone-website-crawler](https://github.com/janreges/siteone-website-crawler) - The best and easy-to-use command-line website crawler and analayzer for Linux/Windows/macOS you've ever seen. Try it! You'll love it :-)
+*   [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) - The best and easy-to-use command-line website crawler and analayzer for Linux/Windows/macOS you've ever seen. Try it! You'll love it :-)
 
 *   [simps/mqtt](https://github.com/simps/mqtt) - 🕹 MQTT Protocol Analysis and Coroutine Client for PHP. Support for 3.1, 3.1.1 and 5.0 versions of the MQTT protocol.
 
