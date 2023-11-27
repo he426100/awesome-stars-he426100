@@ -707,6 +707,8 @@
 
 *   [simps/mqtt](https://github.com/simps/mqtt) - 🕹 MQTT Protocol Analysis and Coroutine Client for PHP. Support for 3.1, 3.1.1 and 5.0 versions of the MQTT protocol.
 
+*   [php-tui/php-tui](https://github.com/php-tui/php-tui) - PHP TUI
+
 *   [nacmartin/phpexecjs](https://github.com/nacmartin/phpexecjs) - Run JavaScript code from PHP
 
 *   [minkphp/Mink](https://github.com/minkphp/Mink) - PHP web browser emulator abstraction
@@ -1595,8 +1597,6 @@
 
 *   [odan/learn-php](https://github.com/odan/learn-php) - :elephant: Learn modern PHP
 
-*   [php-tui/php-tui](https://github.com/php-tui/php-tui) - PHP TUI
-
 *   [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
 
 *   [itbdw/ip-database](https://github.com/itbdw/ip-database) - 🇨🇳免费IP地址数据库，已支持IPV4+IPV6 ，结构化输出为国家、省、市、县、运营商)，中文数据库，方便实用。
@@ -2285,7 +2285,7 @@
 
 ## Python
 
-*   [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫
+*   [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫
 
 *   [ReaJason/xhs](https://github.com/ReaJason/xhs) - 基于小红书 Web 端进行的请求封装。https://reajason.github.io/xhs/
 
