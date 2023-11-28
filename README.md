@@ -115,8 +115,6 @@
 
 *   [lei-mu/luch-request](https://github.com/lei-mu/luch-request) - luch-request 是一个基于Promise 开发的uni-app跨平台、项目级别的请求库，它有更小的体积，易用的api，方便简单的自定义能力。
 
-*   [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/telnet/serialport/sftp client(linux, mac, win)
-
 *   [holynova/gushi\_namer](https://github.com/holynova/gushi_namer) - 古诗文起名: 利用诗经 楚辞 唐诗 宋词等给小朋友起名字
 
 *   [xiangyuecn/AreaCity-JsSpider-StatsGov](https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov) - 省市区县乡镇三级或四级城市数据，带拼音标注、坐标、行政区域边界范围；2023年08月13日最新采集，提供csv格式文件，支持在线转成多级联动js代码、通用json格式，提供软件转成shp、geojson、sql、导入数据库；带浏览器里面运行的js采集源码，综合了中华人民共和国民政部、国家统计局、高德地图、腾讯地图行政区划数据
@@ -326,8 +324,6 @@
 *   [f2e-awesome/knowledge](https://github.com/f2e-awesome/knowledge) - 文档着重构建一个完整的「前端技术架构图谱」，方便 F2E(Front End Engineering又称FEE、F2E) 学习与进阶。
 
 *   [lgwebdream/FE-Interview](https://github.com/lgwebdream/FE-Interview) - 🔥🔥🔥 前端面试，独有前端面试题详解，前端面试刷题必备，1000+前端面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器
-
-*   [coreui/coreui](https://github.com/coreui/coreui) - Open Source UI Kit built on top of Bootstrap 5 and plain JavaScript without any additional libraries like jQuery
 
 *   [surmon-china/vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - 🏆 Swiper component for @vuejs
 
@@ -569,8 +565,6 @@
 
 *   [bilibili/flv.js](https://github.com/bilibili/flv.js) - HTML5 FLV Player
 
-*   [antvis/F2](https://github.com/antvis/F2) - 📱📈An elegant, interactive and flexible charting library for mobile.
-
 *   [nuysoft/Mock](https://github.com/nuysoft/Mock) - A simulation data generator
 
 *   [laynefyc/xhgui-branch](https://github.com/laynefyc/xhgui-branch) - uprofiler UI,xhprof UI,tideways UI , PHP Non-intrusive performance monitoring platform.
@@ -731,7 +725,7 @@
 
 *   [PromPHP/prometheus\_client\_php](https://github.com/PromPHP/prometheus_client_php) - Prometheus instrumentation library for PHP applications
 
-*   [reliforp/reli-prof](https://github.com/reliforp/reli-prof) - A sampling profiler or a memory profiler for PHP written in PHP, which reads information about running PHP VM from outside of the process.
+*   [reliforp/reli-prof](https://github.com/reliforp/reli-prof) - A sampling profiler or a memory profiler for PHP written in PHP, which reads information about running PHP VM from outside the process. You can find performance bottlenecks or memory leaks of your scripts without changing the target script or loading extensions.
 
 *   [zhangyue0503/dev-blog](https://github.com/zhangyue0503/dev-blog) - php博客文章
 
@@ -1593,6 +1587,16 @@
 
 *   [betephp/betephp](https://github.com/betephp/betephp) - BetePHP - A simple PHP Framework that just work.
 
+*   [ThingEngineer/PHP-MySQLi-Database-Class](https://github.com/ThingEngineer/PHP-MySQLi-Database-Class) - Wrapper for a PHP MySQL class, which utilizes MySQLi and prepared statements.
+
+*   [guzzle/guzzle](https://github.com/guzzle/guzzle) - Guzzle, an extensible PHP HTTP client
+
+*   [guzzle/promises](https://github.com/guzzle/promises) - Promises/A+ library for PHP with synchronous support
+
+*   [endroid/qr-code](https://github.com/endroid/qr-code) - QR Code Generator
+
+*   [top-think/framework](https://github.com/top-think/framework) - ThinkPHP Framework
+
 ## HTML
 
 *   [odan/learn-php](https://github.com/odan/learn-php) - :elephant: Learn modern PHP
@@ -1801,8 +1805,6 @@
 
 *   [libgeos/geos](https://github.com/libgeos/geos) - Geometry Engine, Open Source
 
-*   [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
-
 *   [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
 
 *   [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
@@ -1846,6 +1848,8 @@
 *   [apache/incubator-weex](https://github.com/apache/incubator-weex) - Apache Weex (Incubating)
 
 *   [phpv8/v8js](https://github.com/phpv8/v8js) - V8 Javascript Engine for PHP — This PHP extension embeds the Google V8 Javascript Engine
+
+*   [swoole/swoole-src](https://github.com/swoole/swoole-src) - 🚀 Coroutine-based concurrency library for PHP
 
 ## Vue
 
@@ -1922,8 +1926,6 @@
 *   [madcodelife/vue-countdown](https://github.com/madcodelife/vue-countdown) - Vue 倒计时插件⏰
 
 *   [huxiaocheng/vue-gn-components](https://github.com/huxiaocheng/vue-gn-components) - 这里有一些标准组件库可能没有的功能组件，已有组件：放大镜、签到、图片标签、滑动验证、倒计时、水印、拖拽、大家来找茬。
-
-*   [jdf2e/nutui](https://github.com/jdf2e/nutui) - 京东风格的移动端 Vue2、Vue3 组件库 、支持多端小程序(A Vue.js UI Toolkit for Mobile Web)
 
 *   [umicro/uView](https://github.com/umicro/uView) - uView UI，是uni-app生态最优秀的UI框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水
 
@@ -2157,8 +2159,6 @@
 
 *   [any86/any-rule](https://github.com/any86/any-rule) - 🦕  常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台
 
-*   [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
-
 *   [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 
 *   [web3/web3.js](https://github.com/web3/web3.js) - Ethereum JavaScript API
@@ -2226,8 +2226,6 @@
 *   [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 
 *   [alibaba/lightproxy](https://github.com/alibaba/lightproxy) - 💎 Cross platform Web debugging proxy
-
-*   [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 
 *   [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
 
@@ -2945,7 +2943,7 @@
 
 *   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
-*   [markyun/My-blog](https://github.com/markyun/My-blog) - 马云云在Github的学习片段 https://www.yuque.com/markyun
+*   [markyun/markyun](https://github.com/markyun/markyun) - 在Github的学习片段
 
 ## Go
 
@@ -3154,6 +3152,8 @@
 *   [msys2/msys2.github.io](https://github.com/msys2/msys2.github.io) - The MSYS2 homepage
 
 *   [kphcdr/ppphp](https://github.com/kphcdr/ppphp) - php framework
+
+*   [laravel-china/php-the-right-way](https://github.com/laravel-china/php-the-right-way) - 收集 PHP 最佳实践、编码规范和权威学习指南，方便 PHP 开发者阅读和查找
 
 ## EJS
 
