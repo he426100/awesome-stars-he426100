@@ -693,6 +693,10 @@
 
 *   [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
 
+*   [layui/layui](https://github.com/layui/layui) - 一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。
+
+*   [dcloudio/mui](https://github.com/dcloudio/mui) - 最接近原生APP体验的高性能框架
+
 ## PHP
 
 *   [zhuifengshaonianhanlu/pikachu](https://github.com/zhuifengshaonianhanlu/pikachu) - 一个好玩的Web安全-漏洞测试平台
@@ -896,8 +900,6 @@
 *   [nunomaduro/collision](https://github.com/nunomaduro/collision) - 💥 Collision is a beautiful error reporting tool for command-line applications
 
 *   [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
-
-*   [symfony/console](https://github.com/symfony/console) - Eases the creation of beautiful and testable command line interfaces
 
 *   [xielei/swoole-worker](https://github.com/xielei/swoole-worker) - SwooleWorker是基于swoole开发的一款分布式长连接开发框架。常驻内存，协程，高性能高并发；分布式部署，横向扩容，使得能支持庞大的连接数；无感知安全重启，无缝升级代码；接口丰富，支持单个发送，分组发送，群发广播等接口。可广泛应用于云计算、物联网（IOT）、车联网、智能家居、网络游戏等领域。
 
@@ -1241,8 +1243,6 @@
 
 *   [JayBizzle/Crawler-Detect](https://github.com/JayBizzle/Crawler-Detect) - 🕷 CrawlerDetect is a PHP class for detecting bots/crawlers/spiders via the user agent
 
-*   [symfony/dom-crawler](https://github.com/symfony/dom-crawler) - Eases DOM navigation for HTML and XML documents
-
 *   [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony
 
 *   [WyriHaximus/react-guzzle-psr7](https://github.com/WyriHaximus/react-guzzle-psr7) -
@@ -1280,8 +1280,6 @@
 *   [mtdowling/cron-expression](https://github.com/mtdowling/cron-expression) - CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due
 
 *   [php-school/cli-menu](https://github.com/php-school/cli-menu) - 🖥  Build beautiful PHP CLI menus. Simple yet Powerful. Expressive DSL.
-
-*   [symfony/var-dumper](https://github.com/symfony/var-dumper) - Provides mechanisms for walking through any arbitrary PHP variable
 
 *   [hhxsv5/php-sse](https://github.com/hhxsv5/php-sse) - A simple and efficient library implemented HTML5's server-sent events by PHP, is used to real-time push events from server to client, and easier than Websocket, instead of AJAX request.
 
@@ -1573,8 +1571,6 @@
 
 *   [kaperys/financial](https://github.com/kaperys/financial) - A simple PHP ISO8583 pack and unpack library
 
-*   [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
-
 *   [luofei614/SocketLog](https://github.com/luofei614/SocketLog) - 微信调试、API调试和AJAX的调试的工具，能将日志通过WebSocket输出到Chrome浏览器的console中
 
 *   [overtrue/pinyin](https://github.com/overtrue/pinyin) - 🇨🇳 基于词库的中文转拼音优质解决方案
@@ -1596,6 +1592,10 @@
 *   [endroid/qr-code](https://github.com/endroid/qr-code) - QR Code Generator
 
 *   [top-think/framework](https://github.com/top-think/framework) - ThinkPHP Framework
+
+*   [top-think/think](https://github.com/top-think/think) - ThinkPHP Framework ——十年匠心的高性能PHP框架
+
+*   [w7corp/easywechat](https://github.com/w7corp/easywechat) - 📦 一个 PHP 微信 SDK
 
 ## HTML
 
@@ -2563,7 +2563,7 @@
 
 *   [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 
-*   [MetaCubeX/Clash.Meta](https://github.com/MetaCubeX/Clash.Meta) - A rule-based tunnel in Go.
+*   [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 
 *   [SeeDAO-OpenSource/DEV-NoviceVillage](https://github.com/SeeDAO-OpenSource/DEV-NoviceVillage) - SeeDao 🎪 自发性开发者新手村
 
@@ -2947,7 +2947,7 @@
 
 ## Go
 
-*   [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
+*   [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 
 *   [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 
@@ -3207,7 +3207,7 @@
 
 *   [cnych/kubernetes-learning](https://github.com/cnych/kubernetes-learning) - 《从Docker到Kubernetes进阶课程》在线文档
 
-*   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white\_check\_mark:  The Node.js best practices list (July 2023)
+*   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white\_check\_mark:  The Node.js best practices list (December 2023)
 
 *   [jaywcjlove/awesome-uikit](https://github.com/jaywcjlove/awesome-uikit) - Collect JS Frameworks, Web components library and Admin Template.
 
