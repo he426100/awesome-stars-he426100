@@ -56,7 +56,6 @@
 *   [Rich Text Format](#rich-text-format)
 *   [Markdown](#markdown)
 *   [Clojure](#clojure)
-*   [Astro](#astro)
 *   [Thanks](#thanks)
 
 ## JavaScript
@@ -465,8 +464,6 @@
 
 *   [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
 
-*   [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
-
 *   [lispc/covid19-citymap-china](https://github.com/lispc/covid19-citymap-china) - 中国新型冠状病毒肺炎地级市疫情图
 
 *   [ecomfe/fonteditor](https://github.com/ecomfe/fonteditor) - 在线字体编辑器
@@ -668,34 +665,6 @@
 *   [Tencent/QMUI\_Web](https://github.com/Tencent/QMUI_Web) - An efficient front-end framework for developers building UI on the web.
 
 *   [insoxin/API](https://github.com/insoxin/API) - API For Docker 一个基于多种编程语言开源免费不限制提供生活常用,出行服务,开发工具,金融服务,通讯服务和公益大数据的平台.
-
-*   [basecss/city](https://github.com/basecss/city) - 国家行政区划分数据
-
-*   [ciaoca/cxSelect](https://github.com/ciaoca/cxSelect) - cxSelect 是基于 jQuery 的多级联动菜单插件，适用于省市、商品分类等联动菜单。
-
-*   [snapappointments/bootstrap-select](https://github.com/snapappointments/bootstrap-select) - :rocket: The jQuery plugin that brings select elements into the 21st century with intuitive multiselection, searching, and much more.
-
-*   [TerryZ/SelectPage](https://github.com/TerryZ/SelectPage) - A simple style and powerful selector, including ajax remote data, autocomplete, pagination, tags, i18n and  keyboard navigation features
-
-*   [hotoo/pinyin](https://github.com/hotoo/pinyin) - :cn: 汉字拼音 ➜ hàn zì pīn yīn
-
-*   [yunalading/yuncms](https://github.com/yunalading/yuncms) - YunCMS是基于ThinkPHP5框架的一套CMS系统，方便用户快速建立企业网站，门户网站，个人博客或其他系统的内容管理系统。
-
-*   [karsonzhang/fastadmin](https://github.com/karsonzhang/fastadmin) - 基于 ThinkPHP5 和 Bootstrap 的极速后台开发框架，一键生成 CRUD，自动生成控制器、模型、视图、JS、语言包、菜单、回收站。
-
-*   [endel/js2php](https://github.com/endel/js2php) - JavaScript (ES6) to PHP source-to-source transpiler.
-
-*   [thinkcmf/thinkcmf](https://github.com/thinkcmf/thinkcmf) - ThinkCMF是一款支持Swoole的开源内容管理框架，基于ThinkPHP开发，同时支持PHP-FPM和Swoole双模式，让WEB开发更快!
-
-*   [dcloudio/casecode](https://github.com/dcloudio/casecode) - DCloud开源项目集锦
-
-*   [importre/chromeadb](https://github.com/importre/chromeadb) - :bug: Chrome ADB(Android Debug Bridge) Client
-
-*   [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
-
-*   [layui/layui](https://github.com/layui/layui) - 一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。
-
-*   [dcloudio/mui](https://github.com/dcloudio/mui) - 最接近原生APP体验的高性能框架
 
 ## PHP
 
@@ -1219,7 +1188,7 @@
 
 *   [rialto-php/puphpeteer](https://github.com/rialto-php/puphpeteer) - A Puppeteer bridge for PHP, supporting the entire API.
 
-*   [passbolt/passbolt\_api](https://github.com/passbolt/passbolt_api) - Passbolt CE Backend, a JSON API written with CakePHP
+*   [passbolt/passbolt\_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
 
 *   [zhaocong6/lock](https://github.com/zhaocong6/lock) - 高性能分布式并发锁, 行为限流
 
@@ -1477,133 +1446,13 @@
 
 *   [tennc/webshell](https://github.com/tennc/webshell) - This is a webshell open source project
 
-*   [Yurunsoft/YurunHttp](https://github.com/Yurunsoft/YurunHttp) - YurunHttp 是开源的 PHP HTTP 客户端，支持链式操作，简单易用。完美支持Curl、Swoole 协程。QQ群：17916227
-
-*   [swoft-cloud/swoft](https://github.com/swoft-cloud/swoft) - 🚀 PHP Microservice Full Coroutine Framework
-
-*   [helei112g/payment](https://github.com/helei112g/payment) - Payment是php版本的支付聚合第三方sdk，集成了微信支付、支付宝支付、招商一网通支付。提供统一的调用接口，方便快速接入各种支付、查询、退款、转账能力。服务端接入支付功能，方便、快捷。
-
-*   [dingo/api](https://github.com/dingo/api) - A RESTful API package for the Laravel and Lumen frameworks.
-
-*   [caoym/phpboot](https://github.com/caoym/phpboot) - :coffee: 🚀 tiny & fast PHP framework for building Microservices/RESTful APIs, with useful  features: IOC, Hook, ORM, RPC, Swagger, Annotation, Parameters binding, Validation, etc.
-
-*   [douyasi/identity-card](https://github.com/douyasi/identity-card) - Chinese Identity Card package （中国大陆）公民身份证类
-
-*   [yl/id-card](https://github.com/yl/id-card) - 身份证号校验及信息获取
-
-*   [ramsey/uuid](https://github.com/ramsey/uuid) - :snowflake: A PHP library for generating universally unique identifiers (UUIDs).
-
-*   [mikeemoo/ColorJizz-PHP](https://github.com/mikeemoo/ColorJizz-PHP) - ColorJizz is a PHP library for manipulating and converting colors.
-
-*   [jenssegers/agent](https://github.com/jenssegers/agent) - 👮 A PHP desktop/mobile user agent parser with support for Laravel, based on Mobiledetect
-
-*   [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - Mobile\_Detect is a lightweight PHP class for detecting mobile devices (including tablets). It uses the User-Agent string combined with specific HTTP headers to detect the mobile environment.
-
-*   [fukuball/jieba-php](https://github.com/fukuball/jieba-php) - "結巴"中文分詞：做最好的 PHP 中文分詞、中文斷詞組件。 / "Jieba" (Chinese for "to stutter") Chinese text segmentation: built to be the best PHP Chinese word segmentation module.
-
-*   [hoaproject/Ustring](https://github.com/hoaproject/Ustring) - The Hoa\Ustring library.
-
-*   [hprose/hprose-php](https://github.com/hprose/hprose-php) - Hprose is a cross-language RPC. This project is Hprose 3.0 for PHP
-
-*   [CoderKungfu/php-queue](https://github.com/CoderKungfu/php-queue) - A unified front-end for different queuing backends. Includes a REST server, CLI interface and daemon runners.
-
-*   [geocoder-php/Geocoder](https://github.com/geocoder-php/Geocoder) - The most featured Geocoder library written in PHP.
-
-*   [jwage/purl](https://github.com/jwage/purl) - Purl is a simple Object Oriented URL manipulation library for PHP 7.2+
-
-*   [Yurunsoft/YurunPHP](https://github.com/Yurunsoft/YurunPHP) - YurunPHP是宇润软件专为懒人开发者设计的一款开源PHP框架，基于MVC动态分层架构，开发者可以根据需要自行扩充分层。宇润PHP交流群：17916227
-
-*   [lijiebin/LoggerOne](https://github.com/lijiebin/LoggerOne) - One Efficient & Light & Simple high performance PHP log implemention of PSR-3
-
-*   [bartblaze/PHP-backdoors](https://github.com/bartblaze/PHP-backdoors) - A collection of PHP backdoors. For educational or testing purposes only.
-
-*   [verot/class.upload.php](https://github.com/verot/class.upload.php) - This PHP class uploads files and manipulates images very easily. It is in fact as much as an image processing class than it is an upload class. Compatible with PHP 4, 5, 7 and 8. Supports processing of local files, uploaded files, files sent through XMLHttpRequest.
-
-*   [overtrue/easy-sms](https://github.com/overtrue/easy-sms) - 📲 一款满足你的多种发送需求的短信发送组件
-
-*   [klein/klein.php](https://github.com/klein/klein.php) - A fast & flexible router
-
-*   [DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - Sample code for several design patterns in PHP 8.x
-
-*   [easy-swoole/easyswoole](https://github.com/easy-swoole/easyswoole) - swoole,easyswoole,swoole framework
-
-*   [upfor/juggler](https://github.com/upfor/juggler) - PHP lightweight database framework
-
-*   [walkor/workerman](https://github.com/walkor/workerman) - An asynchronous event driven PHP socket framework. Supports HTTP, Websocket, SSL and other custom protocols.
-
-*   [catfan/Medoo](https://github.com/catfan/Medoo) - The lightweight PHP database framework to accelerate the development.
-
-*   [jasonweicn/miniframework](https://github.com/jasonweicn/miniframework) - MiniFramework 是一款遵循 Apache2 开源协议发布的，支持 MVC 和 RESTful 的超轻量级 PHP 开发框架。
-
-*   [predis/predis](https://github.com/predis/predis) - A flexible and feature-complete Redis client for PHP.
-
-*   [mvdbos/php-spider](https://github.com/mvdbos/php-spider) - A configurable and extensible PHP web spider
-
-*   [owner888/phpspider](https://github.com/owner888/phpspider) - 《我用爬虫一天时间“偷了”知乎一百万用户，只为证明PHP是世界上最好的语言 》所使用的程序
-
-*   [zhuzhichao/ip-location-zh](https://github.com/zhuzhichao/ip-location-zh) - 获取 IP 地址的真实地理位置
-
-*   [PHPGangsta/GoogleAuthenticator](https://github.com/PHPGangsta/GoogleAuthenticator) - PHP class to generate and verify Google Authenticator 2-factor authentication
-
-*   [Imangazaliev/DiDOM](https://github.com/Imangazaliev/DiDOM) - Simple and fast HTML and XML parser
-
-*   [php-curl-class/php-curl-class](https://github.com/php-curl-class/php-curl-class) - PHP Curl Class makes it easy to send HTTP requests and integrate with web APIs
-
-*   [chrisboulton/php-resque](https://github.com/chrisboulton/php-resque) - PHP port of resque (Workers and Queueing)
-
-*   [filp/whoops](https://github.com/filp/whoops) - PHP errors for cool kids
-
-*   [PHPSocialNetwork/phpfastcache](https://github.com/PHPSocialNetwork/phpfastcache) - A high-performance backend cache system.  It is intended for use in speeding up dynamic web applications by alleviating database load.  Well implemented, it can drops the database load to almost nothing, yielding faster page load times for users, better resource utilization.  It is simple yet powerful.
-
-*   [FriendsOfPHP/Goutte](https://github.com/FriendsOfPHP/Goutte) - Goutte, a simple PHP Web Scraper
-
-*   [typecho-fans/plugins](https://github.com/typecho-fans/plugins) - Typecho Fans插件作品目录
-
-*   [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
-
-*   [firebase/php-jwt](https://github.com/firebase/php-jwt) - PHP package for JWT
-
-*   [tymondesigns/jwt-auth](https://github.com/tymondesigns/jwt-auth) - 🔐 JSON Web Token Authentication for Laravel & Lumen
-
-*   [lcobucci/jwt](https://github.com/lcobucci/jwt) - A simple library to work with JSON Web Token and JSON Web Signature
-
-*   [scil/LaravelFly](https://github.com/scil/LaravelFly) - To be an absolutely safe solution to speed up Laravel with Swoole. Preloading + Coroutine and Tinker Online.
-
-*   [kaperys/financial](https://github.com/kaperys/financial) - A simple PHP ISO8583 pack and unpack library
-
-*   [luofei614/SocketLog](https://github.com/luofei614/SocketLog) - 微信调试、API调试和AJAX的调试的工具，能将日志通过WebSocket输出到Chrome浏览器的console中
-
-*   [overtrue/pinyin](https://github.com/overtrue/pinyin) - 🇨🇳 基于词库的中文转拼音优质解决方案
-
-*   [zoujingli/ThinkAdmin](https://github.com/zoujingli/ThinkAdmin) - 基于 ThinkPHP6 的极简后台管理系统，内置注解权限、异步多任务、应用插件生态等，支持类 PaaS 更新公共模块和应用插件，插件可本地化定制开发。
-
-*   [JBZoo/Utils](https://github.com/JBZoo/Utils) - Collection of useful PHP functions, mini-classes, and snippets for every day.
-
-*   [belgattitude/soluble-japha](https://github.com/belgattitude/soluble-japha) - PHP Java integration
-
-*   [betephp/betephp](https://github.com/betephp/betephp) - BetePHP - A simple PHP Framework that just work.
-
-*   [ThingEngineer/PHP-MySQLi-Database-Class](https://github.com/ThingEngineer/PHP-MySQLi-Database-Class) - Wrapper for a PHP MySQL class, which utilizes MySQLi and prepared statements.
-
-*   [guzzle/guzzle](https://github.com/guzzle/guzzle) - Guzzle, an extensible PHP HTTP client
-
-*   [guzzle/promises](https://github.com/guzzle/promises) - Promises/A+ library for PHP with synchronous support
-
-*   [endroid/qr-code](https://github.com/endroid/qr-code) - QR Code Generator
-
-*   [top-think/framework](https://github.com/top-think/framework) - ThinkPHP Framework
-
-*   [top-think/think](https://github.com/top-think/think) - ThinkPHP Framework ——十年匠心的高性能PHP框架
-
-*   [w7corp/easywechat](https://github.com/w7corp/easywechat) - 📦 一个 PHP 微信 SDK
-
 ## HTML
 
 *   [odan/learn-php](https://github.com/odan/learn-php) - :elephant: Learn modern PHP
 
 *   [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
 
-*   [itbdw/ip-database](https://github.com/itbdw/ip-database) - 🇨🇳免费IP地址数据库，已支持IPV4+IPV6 ，结构化输出为国家、省、市、县、运营商)，中文数据库，方便实用。
+*   [itbdw/ip-database](https://github.com/itbdw/ip-database) - 免费IP离线数据库，支持IPV4+IPV6 ，国家、省、市、县、运营商
 
 *   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 
@@ -1686,8 +1535,6 @@
 *   [anbang/javascript-notes](https://github.com/anbang/javascript-notes) - 朱安邦的 JavaScript 学习笔记；JavaScript学习总结；前端变化太快，只有把JS基础打扎实了，才能游刃有余；为了让我的JavaScript基础异常牢固，思路更加清晰，我会把以前总结过的知识和平时看到的资料放在这里，把以前零零散散的知识点全部串起来！这个项目也许写到最后会是一个非常不错的JavaScript教程，希望可以帮到更多的人；收藏请点star；如果发现我有写错误的，欢迎随时帮我改正，或者增加新的观点，谢谢！
 
 *   [flyingalex/design-patterns-by-php](https://github.com/flyingalex/design-patterns-by-php) - 《大话设计模式》php版本, https://design-patterns-by-php.hulin.ink
-
-*   [coolseven/notes](https://github.com/coolseven/notes) - 笔记与心得
 
 ## C
 
@@ -1783,8 +1630,6 @@
 
 *   [NoiseByNorthwest/php-spx](https://github.com/NoiseByNorthwest/php-spx) - A simple & straight-to-the-point PHP profiling extension with its built-in web UI
 
-*   [phpredis/phpredis](https://github.com/phpredis/phpredis) - A PHP extension for Redis
-
 ## C++
 
 *   [0hr/php-webview](https://github.com/0hr/php-webview) - PHP bindings for Webview
@@ -1844,12 +1689,6 @@
 *   [ariya/phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 
 *   [bcosorg/bcos](https://github.com/bcosorg/bcos) - BCOS平台（Be Credible, Open & Secure）
-
-*   [apache/incubator-weex](https://github.com/apache/incubator-weex) - Apache Weex (Incubating)
-
-*   [phpv8/v8js](https://github.com/phpv8/v8js) - V8 Javascript Engine for PHP — This PHP extension embeds the Google V8 Javascript Engine
-
-*   [swoole/swoole-src](https://github.com/swoole/swoole-src) - 🚀 Coroutine-based concurrency library for PHP
 
 ## Vue
 
@@ -1975,8 +1814,6 @@
 
 *   [iview/iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js 2.0
 
-*   [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
-
 ## Shell
 
 *   [CryptoCraft-Tech/lotus-recovery](https://github.com/CryptoCraft-Tech/lotus-recovery) -
@@ -2066,8 +1903,6 @@
 *   [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see\_no\_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
 
 *   [oneinstack/oneinstack](https://github.com/oneinstack/oneinstack) - OneinStack - A PHP/JAVA Deployment Tool
-
-*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 
 ## TypeScript
 
@@ -2173,11 +2008,7 @@
 
 *   [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
 
-*   [electron/rebuild](https://github.com/electron/rebuild) - Package to rebuild native Node.js modules against the currently installed Electron version
-
 *   [felixrieseberg/windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) - :package: Install C++ Build Tools for Windows using npm
-
-*   [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 
 *   [efoxTeam/emp](https://github.com/efoxTeam/emp) - EMP Micro FE Base on webpack 5 & module federation
 
@@ -2222,8 +2053,6 @@
 *   [mcuking/mobile-web-best-practice](https://github.com/mcuking/mobile-web-best-practice) - :tiger: 移动 web 最佳实践
 
 *   [sunniejs/vue-h5-template](https://github.com/sunniejs/vue-h5-template) - :tada:vue搭建移动端开发,基于vue-cli4.0+webpack 4+vant ui + sass+ rem适配方案+axios封装，构建手机端模板脚手架
-
-*   [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 
 *   [alibaba/lightproxy](https://github.com/alibaba/lightproxy) - 💎 Cross platform Web debugging proxy
 
@@ -2274,12 +2103,6 @@
 *   [notadd/notadd](https://github.com/notadd/notadd) - A microservice development architecture based on nest.js. —— 基于 Nest.js 的微服务开发架构。
 
 *   [logaretm/vee-validate](https://github.com/logaretm/vee-validate) - ✅  Painless Vue forms
-
-*   [auth0/jwt-decode](https://github.com/auth0/jwt-decode) - Decode JWT tokens; useful for browser applications.
-
-*   [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
-
-*   [wangeditor-team/wangEditor](https://github.com/wangeditor-team/wangEditor) - wangEditor —— 开源 Web 富文本编辑器
 
 ## Python
 
@@ -2334,6 +2157,8 @@
 *   [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
 
 *   [NewFuture/DDNS](https://github.com/NewFuture/DDNS) - :triangular\_flag\_on\_post: 自动更新域名解析到本机IP(支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM...)
+
+*   [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 
 *   [VshareCloud-Project/Filecoin-Storage-Tool](https://github.com/VshareCloud-Project/Filecoin-Storage-Tool) - 基于Lotus+Linux环境构建的FileCoin交易发起/数据备份组件，适配了部分场景功能，并且优化了部分参数，使得Lotus的数据存储更为易用，为FileCoin成为Web3.0数字世界基石打下基础。
 
@@ -2449,8 +2274,6 @@
 
 *   [FeeiCN/Cobra](https://github.com/FeeiCN/Cobra) - Source Code Security Audit (源代码安全审计)
 
-*   [SublimeText/CTags](https://github.com/SublimeText/CTags) - CTags support for Sublime Text 2/3
-
 ## Kotlin
 
 *   [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
@@ -2562,8 +2385,6 @@
 *   [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A public list of APIs from round the web.
 
 *   [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
-
-*   [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 
 *   [SeeDAO-OpenSource/DEV-NoviceVillage](https://github.com/SeeDAO-OpenSource/DEV-NoviceVillage) - SeeDao 🎪 自发性开发者新手村
 
@@ -2939,12 +2760,6 @@
 
 *   [CraryPrimitiveMan/create-your-own-php-framework](https://github.com/CraryPrimitiveMan/create-your-own-php-framework) - 构建自己的PHP框架
 
-*   [geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample) - Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板
-
-*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-
-*   [markyun/markyun](https://github.com/markyun/markyun) - 在Github的学习片段
-
 ## Go
 
 *   [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
@@ -2984,8 +2799,6 @@
 *   [gobyexample-cn/gobyexample](https://github.com/gobyexample-cn/gobyexample) - Go by Example 通过例子学 Golang
 
 *   [filecoin-project/lotus](https://github.com/filecoin-project/lotus) - Reference implementation of the Filecoin protocol, written in Go
-
-*   [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
 
 *   [0voice/Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang) - 【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt
 
@@ -3066,8 +2879,6 @@
 *   [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
 
 *   [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
-
-*   [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
 
 ## Lua
 
@@ -3151,10 +2962,6 @@
 
 *   [msys2/msys2.github.io](https://github.com/msys2/msys2.github.io) - The MSYS2 homepage
 
-*   [kphcdr/ppphp](https://github.com/kphcdr/ppphp) - php framework
-
-*   [laravel-china/php-the-right-way](https://github.com/laravel-china/php-the-right-way) - 收集 PHP 最佳实践、编码规范和权威学习指南，方便 PHP 开发者阅读和查找
-
 ## EJS
 
 *   [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
@@ -3186,8 +2993,6 @@
 *   [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 人教版小学到大学数学
 
 *   [man-pages-zh/manpages-zh](https://github.com/man-pages-zh/manpages-zh) - Chinese Manual Pages
-
-*   [GangZhuo/BaiduPCS](https://github.com/GangZhuo/BaiduPCS) - 百度网盘命令行工具。The terminal utility for Baidu Network Disk.
 
 ## Dockerfile
 
@@ -3271,8 +3076,6 @@
 
 *   [shadowsocksrr/shadowsocksr-csharp](https://github.com/shadowsocksrr/shadowsocksr-csharp) -
 
-*   [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
-
 ## Smarty
 
 *   [rubyhan1314/Golang-100-Days](https://github.com/rubyhan1314/Golang-100-Days) - Golang - 100天从新手到大师
@@ -3305,8 +3108,6 @@
 
 *   [jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。
 
-*   [phpbrew/phpbrew](https://github.com/phpbrew/phpbrew) - Brew & manage PHP versions in pure PHP at HOME
-
 ## CoffeeScript
 
 *   [meltingice/psd.js](https://github.com/meltingice/psd.js) - A Photoshop PSD file parser for NodeJS and browsers
@@ -3336,10 +3137,6 @@
 ## Clojure
 
 *   [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
-
-## Astro
-
-*   [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 
 ## Thanks
 
