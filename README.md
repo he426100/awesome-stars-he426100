@@ -60,7 +60,7 @@
 
 ## PHP
 
-*   [swoole/phpy](https://github.com/swoole/phpy) -
+*   [swoole/phpy](https://github.com/swoole/phpy) - Connecting the Python and PHP ecosystems together
 
 *   [sywlwl/study-gather-one](https://github.com/sywlwl/study-gather-one) -
 
