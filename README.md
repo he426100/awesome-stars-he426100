@@ -380,7 +380,7 @@
 
 *   [Iorest/rime-dict](https://github.com/Iorest/rime-dict) - RIME 词库增强
 
-*   [xiaoTaoist/rime-dict](https://github.com/xiaoTaoist/rime-dict) - RIME输入法 增强词库
+*   [zhangheng18/rime-dict](https://github.com/zhangheng18/rime-dict) - RIME输入法 增强词库
 
 *   [rime-aca/dictionaries](https://github.com/rime-aca/dictionaries) - Rime詞庫
 
