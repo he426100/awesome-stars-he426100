@@ -1370,6 +1370,8 @@
 
 *   [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
 
+*   [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
+
 *   [vercel-community/php](https://github.com/vercel-community/php) - 🐘 PHP Runtime for ▲ Vercel Serverless Functions
 
 *   [sparrow-js/sparrow](https://github.com/sparrow-js/sparrow) - 🎉场景化低代码（LowCode）搭建工作台，实时输出源代码
@@ -1566,7 +1568,7 @@
 
 *   [zhuifengshaonianhanlu/pikachu](https://github.com/zhuifengshaonianhanlu/pikachu) - 一个好玩的Web安全-漏洞测试平台
 
-*   [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) - SiteOne Crawler is a very useful and easy-to-use tool you'll ♥ as a Dev/DevOps, website owner or consultant. Works on all popular platforms - Windows, macOS and Linux (x64 and arm64 too).
+*   [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) - SiteOne Crawler is a website analyzer and exporter you'll ♥ as a Dev/DevOps, QA engineer, website owner or consultant. Works on all popular platforms - Windows, macOS and Linux (x64 and arm64 too).
 
 *   [simps/mqtt](https://github.com/simps/mqtt) - 🕹 MQTT Protocol Analysis and Coroutine Client for PHP. Support for 3.1, 3.1.1 and 5.0 versions of the MQTT protocol.
 
@@ -2615,8 +2617,6 @@
 *   [sunzongzheng/music](https://github.com/sunzongzheng/music) - electron跨平台音乐播放器；可搜网易云、QQ音乐、虾米音乐；支持QQ、微博、Github登录，云歌单; 支持一键导入音乐平台歌单
 
 *   [xiaozhu188/electron-vue-cloud-music](https://github.com/xiaozhu188/electron-vue-cloud-music) - 🚀Electron + Vue 仿网易云音乐windows客户端
-
-*   [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
 
 *   [iczer/vue-antd-admin](https://github.com/iczer/vue-antd-admin) - 🐜 Ant Design Pro's implementation with Vue
 
