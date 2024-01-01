@@ -2455,7 +2455,7 @@
 
 *   [isaacs/node-glob](https://github.com/isaacs/node-glob) - glob functionality for node.js
 
-*   [markmap/markmap](https://github.com/markmap/markmap) - Visualize your Markdown as mindmaps with Markmap.
+*   [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
 
 *   [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node\_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 
