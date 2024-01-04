@@ -2475,7 +2475,7 @@
 
 *   [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 
-*   [web3/web3.js](https://github.com/web3/web3.js) - Ethereum JavaScript API
+*   [web3/web3.js](https://github.com/web3/web3.js) - Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and utility functions.
 
 *   [koajs/koa-body](https://github.com/koajs/koa-body) - koa body parser middleware
 
