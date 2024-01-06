@@ -61,6 +61,8 @@
 
 ## PHP
 
+*   [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP
+
 *   [gherkins/regexpbuilderphp](https://github.com/gherkins/regexpbuilderphp) - 🦉 human-readable regular expressions
 
 *   [myclabs/DeepCopy](https://github.com/myclabs/DeepCopy) - Create deep copies (clones) of your objects
@@ -165,7 +167,7 @@
 
 *   [aoaostar/toolbox](https://github.com/aoaostar/toolbox) - 🚀傲星工具箱，一个在线工具箱
 
-*   [joanhey/AdapterMan](https://github.com/joanhey/AdapterMan) - AdapterMan for Workerman. Run almost any PHP app asynchronously with Workerman, without touch 1 line of code in your fw or app. It's just only PHP.
+*   [joanhey/AdapterMan](https://github.com/joanhey/AdapterMan) - AdapterMan for Workerman. Run almost any PHP app asynchronously with Workerman, without touch 1 line of code in your fw or app. It's just plain PHP.
 
 *   [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows(WIP), with PHP project together, with popular extensions included.
 
@@ -954,8 +956,6 @@
 *   [endroid/qr-code](https://github.com/endroid/qr-code) - QR Code Generator
 
 *   [top-think/framework](https://github.com/top-think/framework) - ThinkPHP Framework
-
-*   [top-think/think](https://github.com/top-think/think) - ThinkPHP Framework ——十年匠心的高性能PHP框架
 
 ## miscellaneous
 
