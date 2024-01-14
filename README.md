@@ -1772,7 +1772,7 @@
 
 *   [lengyue1024/BAT\_interviews](https://github.com/lengyue1024/BAT_interviews) - :blue\_book: 分享最新BAT面试题(包含机器学习,Linux,PHP,大数据,Python,Java,前端...),持续更新ing...
 
-*   [guoshijiang/blockchain-wallet](https://github.com/guoshijiang/blockchain-wallet) - Blockchain Wallet Technical Guide
+*   [savour-academy/blockchain-wallet](https://github.com/savour-academy/blockchain-wallet) - Blockchain Wallet Technical Guide
 
 *   [cdoco/learn-regex-zh](https://github.com/cdoco/learn-regex-zh) - :cn: 翻译: 学习正则表达式的简单方法
 
