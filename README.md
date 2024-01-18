@@ -1660,7 +1660,7 @@
 
 *   [wwwwfw/SM4\_PHP\_Java](https://github.com/wwwwfw/SM4_PHP_Java) - SM4加密算法PHP版本及Java版本
 
-*   [pimcore/number-sequence-generator](https://github.com/pimcore/number-sequence-generator) -
+*   [pimcore/number-sequence-generator](https://github.com/pimcore/number-sequence-generator) - Number Sequence Generator community bundle adds some tools for generating number sequences to Pimcore.
 
 *   [spryker/sequence-number](https://github.com/spryker/sequence-number) - \[READ ONLY] Subtree split of the SequenceNumber module.
 
