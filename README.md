@@ -1981,7 +1981,7 @@
 
 ## Vue
 
-*   [codercup/unibest](https://github.com/codercup/unibest) - UniBest 是由 Vue3 & Ts & Vite4 & uni-app & UnoCss & UniUI 驱动的跨端快速启动模板，使用 VS Code 开发，拥有代码提示、自动格式化、统一配置、代码片段等能力，另外整合了大量基础示例，开箱即用，让你编写 UnitAPP 拥有 Best 体验。
+*   [codercup/unibest](https://github.com/codercup/unibest) - unibest - 最好用的 uniapp 开发模板。unibest 是由 uniapp + Vue3 + Ts + Vite4 + UnoCss + UniUI 驱动的跨端快速启动模板，使用 VS Code 开发，具有代码提示、自动格式化、统一配置、代码片段等功能，同时内置了大量平时开发常用的基本组件，开箱即用，让你编写 uniapp 拥有 best 体验。
 
 *   [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 
