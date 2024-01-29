@@ -291,7 +291,7 @@
 
 *   [SerafimArts/ffi-sdl](https://github.com/SerafimArts/ffi-sdl) - SDL2 FFI bindings for the PHP language
 
-*   [Safe3/uuWAF](https://github.com/Safe3/uuWAF) - 一款社区驱动的免费、高性能、高扩展顶级Web应用和API安全防护产品-南墙
+*   [Safe3/uuWAF](https://github.com/Safe3/uuWAF) - 一款社区驱动的免费、高性能、高扩展顶级Web应用和API安全防护产品-南墙,Web应用防火墙,WAF
 
 *   [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
 
