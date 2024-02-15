@@ -995,7 +995,7 @@
 
 *   [Double-Jin/jin-chat](https://github.com/Double-Jin/jin-chat) - Complete PC chat system based on EasySwoole and PHP  (IM chat app)
 
-*   [tealang/tea](https://github.com/tealang/tea) - Tea is a humanized programming language.
+*   [tealang/tea](https://github.com/tealang/tea) - Programming is like drinking tea.
 
 *   [QThans/jwt-auth](https://github.com/QThans/jwt-auth) - JSON Web Token Authentication for Thinkphp
 
