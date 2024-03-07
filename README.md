@@ -677,7 +677,7 @@
 
 *   [minicli/minicli](https://github.com/minicli/minicli) - A minimalist framework for command-line applications in PHP
 
-*   [guanguans/notify](https://github.com/guanguans/notify) - Bark、Chanify、DingTalk、Discord、Gitter、GoogleChat、IGot、Lark、Mattermost、MicrosoftTeams、NowPush、Ntfy、Push、PushDeer、PushPlus、Pushback、Pushover、QQ、RocketChat、ServerChan、ShowdocPush、Slack、Telegram、WeWork、XiZhi、YiFengChuanHua、Zulip
+*   [guanguans/notify](https://github.com/guanguans/notify) - Push notification SDK(Bark、Chanify、DingTalk、Discord、Gitter、GoogleChat、IGot、Lark、Mattermost、MicrosoftTeams、NowPush、Ntfy、Push、PushDeer、PushPlus、Pushback、Pushover、QQ、RocketChat、ServerChan、ShowdocPush、Slack、Telegram、WeWork、XiZhi、YiFengChuanHua、Zulip).
 
 *   [mhor/php-mediainfo](https://github.com/mhor/php-mediainfo) - PHP wrapper around the mediainfo command
 
