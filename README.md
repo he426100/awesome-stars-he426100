@@ -16,6 +16,7 @@
 
 ## Table of Contents
 
+*   [Lua](#lua)
 *   [Dockerfile](#dockerfile)
 *   [Python](#python)
 *   [Shell](#shell)
@@ -43,7 +44,6 @@
 *   [Roff](#roff)
 *   [Haskell](#haskell)
 *   [Handlebars](#handlebars)
-*   [Lua](#lua)
 *   [Solidity](#solidity)
 *   [Ruby](#ruby)
 *   [R](#r)
@@ -58,6 +58,14 @@
 *   [Markdown](#markdown)
 *   [Clojure](#clojure)
 *   [Thanks](#thanks)
+
+## Lua
+
+*   [Mintimate/oh-my-rime](https://github.com/Mintimate/oh-my-rime) - The Simple Config Template Of Rime By Mintimate.  QQ Chat-Group: 703260572
+
+*   [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
+
+*   [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 
 ## Dockerfile
 
@@ -642,8 +650,6 @@
 *   [logaretm/vee-validate](https://github.com/logaretm/vee-validate) - ✅  Painless Vue forms
 
 *   [auth0/jwt-decode](https://github.com/auth0/jwt-decode) - Decode JWT tokens; useful for browser applications.
-
-*   [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 
 ## Smarty
 
@@ -3258,12 +3264,6 @@
 ## Handlebars
 
 *   [gopl-zh/gopl-zh.github.com](https://github.com/gopl-zh/gopl-zh.github.com) - :books: Go语言圣经中文版 🇨🇳
-
-## Lua
-
-*   [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
-
-*   [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 
 ## Solidity
 
