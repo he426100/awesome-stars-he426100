@@ -2951,8 +2951,6 @@
 
 *   [We5ter/Scanners-Box](https://github.com/We5ter/Scanners-Box) - A powerful and open-source toolkit for hackers and security automation - 安全行业从业者自研开源扫描器合辑
 
-*   [ruanyf/articles](https://github.com/ruanyf/articles) - personal articles
-
 *   [porcelainHeart/learning-resource](https://github.com/porcelainHeart/learning-resource) - 列出一些优秀的程序员学习资源
 
 *   [mdn/mdn](https://github.com/mdn/mdn) - Holding repo for MDN Web Docs things
@@ -3308,6 +3306,8 @@
 *   [zh-google-styleguide/zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide) - Google 开源项目风格指南 (中文版)
 
 *   [jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。
+
+*   [ruanyf/articles](https://github.com/ruanyf/articles) - personal articles
 
 *   [phpbrew/phpbrew](https://github.com/phpbrew/phpbrew) - Brew & manage PHP versions in pure PHP at HOME
 
