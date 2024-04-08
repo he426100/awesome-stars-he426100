@@ -2501,7 +2501,7 @@
 
 *   [Go-zh/go](https://github.com/Go-zh/go) - Go 语言文档中文翻译
 
-*   [Go-zh/tour](https://github.com/Go-zh/tour) - Go 语言官方教程中文版
+*   [Go-zh/tour](https://github.com/Go-zh/tour) - 本仓库已弃用，新版移至 website 代码仓库
 
 *   [filepp/filscan-backend](https://github.com/filepp/filscan-backend) -
 
@@ -2815,7 +2815,7 @@
 
 *   [cycz/jdBuyMask](https://github.com/cycz/jdBuyMask) - 祝大家抗疫成功
 
-*   [wolverinn/Waking-Up](https://github.com/wolverinn/Waking-Up) - 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试:rocket:；可用于模拟面试、面试前复习、短期内快速备战面试...
+*   [wolverinn/Waking-Up](https://github.com/wolverinn/Waking-Up) - 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试；可用于模拟面试、面试前复习、短期内快速备战面试...
 
 *   [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
 
