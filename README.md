@@ -127,8 +127,6 @@
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
-*   [guanguans/favorite-link](https://github.com/guanguans/favorite-link) - ❤️ 每天收集喜欢的开源项目 | RSS 订阅 |  快知 app 订阅
-
 *   [THUDM/VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B) - Chinese and English multimodal conversational language model | 多模态中英双语对话语言模型
 
 *   [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
@@ -800,6 +798,8 @@
 *   [butschster/prometheus-parser](https://github.com/butschster/prometheus-parser) - Prometheus data parser to AST written on PHP8
 
 *   [PromPHP/prometheus\_client\_php](https://github.com/PromPHP/prometheus_client_php) - Prometheus instrumentation library for PHP applications
+
+*   [guanguans/favorite-link](https://github.com/guanguans/favorite-link) - ❤️ Collect favorite open source repositories every day. - 每天收集喜欢的开源项目。
 
 *   [reliforp/reli-prof](https://github.com/reliforp/reli-prof) - A sampling profiler or a memory profiler for PHP written in PHP, which reads information about running PHP VM from outside the process. You can find performance bottlenecks or memory leaks of your scripts without changing the target script or loading extensions.
 
