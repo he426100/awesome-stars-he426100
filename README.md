@@ -647,6 +647,8 @@
 
 *   [auth0/jwt-decode](https://github.com/auth0/jwt-decode) - Decode JWT tokens; useful for browser applications.
 
+*   [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
+
 ## Smarty
 
 *   [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 486 个。
@@ -799,7 +801,7 @@
 
 *   [PromPHP/prometheus\_client\_php](https://github.com/PromPHP/prometheus_client_php) - Prometheus instrumentation library for PHP applications
 
-*   [guanguans/favorite-link](https://github.com/guanguans/favorite-link) - ❤️ Collect favorite open source repositories every day. - 每天收集喜欢的开源项目。
+*   [guanguans/favorite-link](https://github.com/guanguans/favorite-link) - ❤️ 每天收集喜欢的开源项目。
 
 *   [reliforp/reli-prof](https://github.com/reliforp/reli-prof) - A sampling profiler or a memory profiler for PHP written in PHP, which reads information about running PHP VM from outside the process. You can find performance bottlenecks or memory leaks of your scripts without changing the target script or loading extensions.
 
@@ -818,8 +820,6 @@
 *   [tectalichq/public-openai-client-php](https://github.com/tectalichq/public-openai-client-php) - OpenAI API Client for PHP. Includes all endpoints and models (DTOs) for all requests and responses.
 
 *   [chawuciren/php-bignumber](https://github.com/chawuciren/php-bignumber) - Using a more modern and concise, object-oriented approach, it is more convenient and intuitive to solve the super large number and floating point precision problems in PHP
-
-*   [zxlmaster/safe-math](https://github.com/zxlmaster/safe-math) - PHP 计算库 依赖 bc 库 对 科学计数法进行处理
 
 *   [xywf221/cn-work-day-database](https://github.com/xywf221/cn-work-day-database) - 一个工作日的数据库 数据来自百度
 
