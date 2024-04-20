@@ -2651,7 +2651,7 @@
 
 *   [nswbmw/node-in-debugging](https://github.com/nswbmw/node-in-debugging) - 《Node.js 调试指南》
 
-*   [ayaka14732/awesome-rime](https://github.com/ayaka14732/awesome-rime) - A curated list of Rime IME schemata | Rime 輸入法方案列表
+*   [ayaka14732/awesome-rime](https://github.com/ayaka14732/awesome-rime) - A curated list of Rime IME schemata and configs | Rime 輸入法方案和配置列表
 
 *   [Enapiuz/awesome-monitoring](https://github.com/Enapiuz/awesome-monitoring) - List of tools for monitoring and analyze everything
 
