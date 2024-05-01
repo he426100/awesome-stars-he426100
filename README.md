@@ -2801,7 +2801,7 @@
 
 *   [AlloyTeam/Mars](https://github.com/AlloyTeam/Mars) - 腾讯移动 Web 前端知识库
 
-*   [guanguans/design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn) - 设计模式超简单的解释。
+*   [guanguans/design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn) - 设计模式超简单的解释 - An ultra-simplified explanation to design patterns
 
 *   [googlefuture/php-question-bank](https://github.com/googlefuture/php-question-bank) - phper必备技能汇总：面试题库、问答、学习资料等等干货(最后更新于2021-03-23)
 
