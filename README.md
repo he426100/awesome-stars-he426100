@@ -713,7 +713,7 @@
 
 *   [mario-deluna/php-glfw](https://github.com/mario-deluna/php-glfw) - 🪐A fully-featured OpenGL and GLFW extension for PHP. 🔋Batteries included (Math Functions, Texture Loaders, etc..)
 
-*   [NumPower/numpower](https://github.com/NumPower/numpower) - PHP library for efficient scientific computing and array manipulation with GPU support
+*   [NumPower/numpower](https://github.com/NumPower/numpower) - PHP extension for efficient scientific computing and array manipulation with GPU support
 
 *   [adsr/phpspy](https://github.com/adsr/phpspy) - low-overhead sampling profiler for PHP 7+
 
