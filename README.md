@@ -61,7 +61,7 @@
 
 ## C
 
-*   [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc  全平台命令行换源工具. Change Source for every software on every platform from the command line.
+*   [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc  全平台通用换源工具. Change Source for every software on every platform from the command line.
 
 *   [ardillo-php/ext](https://github.com/ardillo-php/ext) - PHP extension for building native desktop applications
 
