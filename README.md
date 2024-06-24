@@ -1993,7 +1993,7 @@
 
 *   [prometheus-community/node-exporter-textfile-collector-scripts](https://github.com/prometheus-community/node-exporter-textfile-collector-scripts) - Scripts for node-exporter's textfile collector
 
-*   [TranscryptOrg/Transcrypt](https://github.com/TranscryptOrg/Transcrypt) - Python 3.9 to JavaScript compiler - Lean, fast, open! -
+*   [TranscryptOrg/Transcrypt](https://github.com/TranscryptOrg/Transcrypt) - Python 3.9 to JavaScript compiler - Lean, fast, open!
 
 *   [metapensiero/metapensiero.pj](https://github.com/metapensiero/metapensiero.pj) - Javascript for refined palates: a Python 3 to ES6 Javascript translator
 
