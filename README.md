@@ -16,8 +16,8 @@
 
 ## Table of Contents
 
-*   [Shell](#shell)
 *   [miscellaneous](#miscellaneous)
+*   [Shell](#shell)
 *   [TypeScript](#typescript)
 *   [Rust](#rust)
 *   [C](#c)
@@ -59,101 +59,9 @@
 *   [Clojure](#clojure)
 *   [Thanks](#thanks)
 
-## Shell
-
-*   [al0ne/LinuxCheck](https://github.com/al0ne/LinuxCheck) - Linux应急处置/信息搜集/漏洞检测工具，支持基础配置/网络流量/任务计划/环境变量/用户信息/Services/bash/恶意文件/内核Rootkit/SSH/Webshell/挖矿文件/挖矿进程/供应链/服务器风险等13类70+项检查
-
-*   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-
-*   [PFCCLab/fool-proof-paddle-installation](https://github.com/PFCCLab/fool-proof-paddle-installation) - You can use this foolproof tool to download and install All of PADDLE automatically.
-
-*   [CryptoCraft-Tech/lotus-recovery](https://github.com/CryptoCraft-Tech/lotus-recovery) -
-
-*   [y0ngb1n/dockerized](https://github.com/y0ngb1n/dockerized) - 🐳 Build once, run anywhere
-
-*   [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
-
-*   [mviereck/x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker and podman containers. Focus on security.
-
-*   [ttionya/vaultwarden-backup](https://github.com/ttionya/vaultwarden-backup) - Backup vaultwarden (formerly known as bitwarden\_rs) SQLite3/PostgreSQL/MySQL/MariaDB database by rclone. (Docker)
-
-*   [BaptisteBdn/docker-selfhosted-apps](https://github.com/BaptisteBdn/docker-selfhosted-apps) - Collection of selfhosted apps with docker only ! Traefik, Bitwarden, Wireguard with Pihole, Synapse with Elements, etc.
-
-*   [hq450/fancyss](https://github.com/hq450/fancyss) - fancyss is a project providing tools to across the GFW on asuswrt/merlin based router.
-
-*   [jgmdev/ddos-deflate](https://github.com/jgmdev/ddos-deflate) - Fork of DDoS Deflate with fixes, improvements and new features.
-
-*   [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) - 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
-
-*   [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
-
-*   [docker-library/docs](https://github.com/docker-library/docs) - Documentation for Docker Official Images in docker-library
-
-*   [docker-library/php](https://github.com/docker-library/php) - Docker Official Image packaging for PHP
-
-*   [tianon/gosu](https://github.com/tianon/gosu) - Simple Go-based setuid+setgid+setgroups+exec
-
-*   [laravel/sail](https://github.com/laravel/sail) - Docker files for running a basic Laravel application.
-
-*   [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - NOTE: Most of the contents of this repository have been migrated to the new devcontainers GitHub org (https://github.com/devcontainers). See https://github.com/devcontainers/template-starter and https://github.com/devcontainers/feature-starter for information on creating your own!
-
-*   [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers
-
-*   [yeszao/dnmp](https://github.com/yeszao/dnmp) - Docker LNMP (Nginx, PHP7/PHP5, MySQL, Redis)
-
-*   [liquanzhou/ops\_doc](https://github.com/liquanzhou/ops_doc) - 运维简洁实用手册
-
-*   [aqzt/kjyw](https://github.com/aqzt/kjyw) - 快捷运维，代号kjyw，项目基于shell、python，运维脚本工具库，收集各类运维常用工具脚本，实现快速安装nginx、mysql、php、redis、nagios、运维经常使用的脚本等等...
-
-*   [gluster/gluster-containers](https://github.com/gluster/gluster-containers) - Dockerfiles  (CentOS, Fedora, Red Hat) for GlusterFS
-
-*   [P3TERX/aria2.conf](https://github.com/P3TERX/aria2.conf) - Aria2 配置文件 | OneDrive & Google Drvive 离线下载 | 百度网盘转存
-
-*   [hi-dhl/fast\_guides](https://github.com/hi-dhl/fast_guides) - 10分钟入门Shell脚本编程
-
-*   [jaywcjlove/shell-tutorial](https://github.com/jaywcjlove/shell-tutorial) - Shell入门教程（Shell tutorial book）
-
-*   [dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial) - :penguin: Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本
-
-*   [ethersphere/bee-clef](https://github.com/ethersphere/bee-clef) - bee-clef is official ethereum clef binary wrapped and preconfigured for bee as a service
-
-*   [shannon-6block/lotus-miner](https://github.com/shannon-6block/lotus-miner) - An improved lotus toolchain for Filecoin cluster mining
-
-*   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
-
-*   [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows Subsystem for Linux
-
-*   [heixiaobai/rainbow-fart-voice-pack](https://github.com/heixiaobai/rainbow-fart-voice-pack) - rainbow fart语音包，全新台词与真人配音，支持python与JavaScript版本
-
-*   [15cm/rime-sogou-dictionaries](https://github.com/15cm/rime-sogou-dictionaries) - Rime 朙月拼音方案的扩充搜狗词库
-
-*   [laubonghaudoi/Chinese\_Rime](https://github.com/laubonghaudoi/Chinese_Rime) - 收集非普通話漢語和古漢語的中州韻輸入法拼音方案 Collection of phonetic spelling schemas for Sinitic languages and dialects
-
-*   [wangdoc/es6-tutorial](https://github.com/wangdoc/es6-tutorial) - 一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性。
-
-*   [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-
-*   [mskyaxl/wsl-terminal](https://github.com/mskyaxl/wsl-terminal) - Terminal emulator for Windows Subsystem for Linux (WSL)
-
-*   [lmc999/auto-add-routes](https://github.com/lmc999/auto-add-routes) - China Route for VPN
-
-*   [hoochanlon/fq-book](https://github.com/hoochanlon/fq-book) - 📖《网络代理与VPN应用详解》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明
-
-*   [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
-
-*   [Nick233333/phper-linux-gitbook](https://github.com/Nick233333/phper-linux-gitbook) - 💡PHPer 必知必会的 Linux 命令
-
-*   [teddysun/shadowsocks\_install](https://github.com/teddysun/shadowsocks_install) - Auto Install Shadowsocks Server for CentOS/Debian/Ubuntu
-
-*   [sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab) - Dockerized GitLab
-
-*   [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see\_no\_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
-
-*   [oneinstack/oneinstack](https://github.com/oneinstack/oneinstack) - OneinStack - A PHP/JAVA Deployment Tool
-
-*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-
 ## miscellaneous
+
+*   [KapitanOczywisty/PHP\_embed\_docs](https://github.com/KapitanOczywisty/PHP_embed_docs) -
 
 *   [SFLAQiu/web-develop](https://github.com/SFLAQiu/web-develop) - :seedling:《大话WEB开发》WEB开发相关经验总结分享
 
@@ -576,6 +484,100 @@
 *   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 *   [markyun/markyun](https://github.com/markyun/markyun) - 在Github的学习片段
+
+## Shell
+
+*   [al0ne/LinuxCheck](https://github.com/al0ne/LinuxCheck) - Linux应急处置/信息搜集/漏洞检测工具，支持基础配置/网络流量/任务计划/环境变量/用户信息/Services/bash/恶意文件/内核Rootkit/SSH/Webshell/挖矿文件/挖矿进程/供应链/服务器风险等13类70+项检查
+
+*   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
+
+*   [PFCCLab/fool-proof-paddle-installation](https://github.com/PFCCLab/fool-proof-paddle-installation) - You can use this foolproof tool to download and install All of PADDLE automatically.
+
+*   [CryptoCraft-Tech/lotus-recovery](https://github.com/CryptoCraft-Tech/lotus-recovery) -
+
+*   [y0ngb1n/dockerized](https://github.com/y0ngb1n/dockerized) - 🐳 Build once, run anywhere
+
+*   [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
+
+*   [mviereck/x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker and podman containers. Focus on security.
+
+*   [ttionya/vaultwarden-backup](https://github.com/ttionya/vaultwarden-backup) - Backup vaultwarden (formerly known as bitwarden\_rs) SQLite3/PostgreSQL/MySQL/MariaDB database by rclone. (Docker)
+
+*   [BaptisteBdn/docker-selfhosted-apps](https://github.com/BaptisteBdn/docker-selfhosted-apps) - Collection of selfhosted apps with docker only ! Traefik, Bitwarden, Wireguard with Pihole, Synapse with Elements, etc.
+
+*   [hq450/fancyss](https://github.com/hq450/fancyss) - fancyss is a project providing tools to across the GFW on asuswrt/merlin based router.
+
+*   [jgmdev/ddos-deflate](https://github.com/jgmdev/ddos-deflate) - Fork of DDoS Deflate with fixes, improvements and new features.
+
+*   [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) - 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
+
+*   [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
+
+*   [docker-library/docs](https://github.com/docker-library/docs) - Documentation for Docker Official Images in docker-library
+
+*   [docker-library/php](https://github.com/docker-library/php) - Docker Official Image packaging for PHP
+
+*   [tianon/gosu](https://github.com/tianon/gosu) - Simple Go-based setuid+setgid+setgroups+exec
+
+*   [laravel/sail](https://github.com/laravel/sail) - Docker files for running a basic Laravel application.
+
+*   [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - NOTE: Most of the contents of this repository have been migrated to the new devcontainers GitHub org (https://github.com/devcontainers). See https://github.com/devcontainers/template-starter and https://github.com/devcontainers/feature-starter for information on creating your own!
+
+*   [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers
+
+*   [yeszao/dnmp](https://github.com/yeszao/dnmp) - Docker LNMP (Nginx, PHP7/PHP5, MySQL, Redis)
+
+*   [liquanzhou/ops\_doc](https://github.com/liquanzhou/ops_doc) - 运维简洁实用手册
+
+*   [aqzt/kjyw](https://github.com/aqzt/kjyw) - 快捷运维，代号kjyw，项目基于shell、python，运维脚本工具库，收集各类运维常用工具脚本，实现快速安装nginx、mysql、php、redis、nagios、运维经常使用的脚本等等...
+
+*   [gluster/gluster-containers](https://github.com/gluster/gluster-containers) - Dockerfiles  (CentOS, Fedora, Red Hat) for GlusterFS
+
+*   [P3TERX/aria2.conf](https://github.com/P3TERX/aria2.conf) - Aria2 配置文件 | OneDrive & Google Drvive 离线下载 | 百度网盘转存
+
+*   [hi-dhl/fast\_guides](https://github.com/hi-dhl/fast_guides) - 10分钟入门Shell脚本编程
+
+*   [jaywcjlove/shell-tutorial](https://github.com/jaywcjlove/shell-tutorial) - Shell入门教程（Shell tutorial book）
+
+*   [dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial) - :penguin: Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本
+
+*   [ethersphere/bee-clef](https://github.com/ethersphere/bee-clef) - bee-clef is official ethereum clef binary wrapped and preconfigured for bee as a service
+
+*   [shannon-6block/lotus-miner](https://github.com/shannon-6block/lotus-miner) - An improved lotus toolchain for Filecoin cluster mining
+
+*   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
+
+*   [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows Subsystem for Linux
+
+*   [heixiaobai/rainbow-fart-voice-pack](https://github.com/heixiaobai/rainbow-fart-voice-pack) - rainbow fart语音包，全新台词与真人配音，支持python与JavaScript版本
+
+*   [15cm/rime-sogou-dictionaries](https://github.com/15cm/rime-sogou-dictionaries) - Rime 朙月拼音方案的扩充搜狗词库
+
+*   [laubonghaudoi/Chinese\_Rime](https://github.com/laubonghaudoi/Chinese_Rime) - 收集非普通話漢語和古漢語的中州韻輸入法拼音方案 Collection of phonetic spelling schemas for Sinitic languages and dialects
+
+*   [wangdoc/es6-tutorial](https://github.com/wangdoc/es6-tutorial) - 一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性。
+
+*   [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+
+*   [mskyaxl/wsl-terminal](https://github.com/mskyaxl/wsl-terminal) - Terminal emulator for Windows Subsystem for Linux (WSL)
+
+*   [lmc999/auto-add-routes](https://github.com/lmc999/auto-add-routes) - China Route for VPN
+
+*   [hoochanlon/fq-book](https://github.com/hoochanlon/fq-book) - 📖《网络代理与VPN应用详解》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明
+
+*   [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
+
+*   [Nick233333/phper-linux-gitbook](https://github.com/Nick233333/phper-linux-gitbook) - 💡PHPer 必知必会的 Linux 命令
+
+*   [teddysun/shadowsocks\_install](https://github.com/teddysun/shadowsocks_install) - Auto Install Shadowsocks Server for CentOS/Debian/Ubuntu
+
+*   [sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab) - Dockerized GitLab
+
+*   [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see\_no\_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
+
+*   [oneinstack/oneinstack](https://github.com/oneinstack/oneinstack) - OneinStack - A PHP/JAVA Deployment Tool
+
+*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 
 ## TypeScript
 
@@ -1809,8 +1811,6 @@
 
 *   [lcobucci/jwt](https://github.com/lcobucci/jwt) - A simple library to work with JSON Web Token and JSON Web Signature
 
-*   [scil/LaravelFly](https://github.com/scil/LaravelFly) - To be an absolutely safe solution to speed up Laravel with Swoole. Preloading + Coroutine and Tinker Online.
-
 ## CSS
 
 *   [QiShaoXuan/css\_tricks](https://github.com/QiShaoXuan/css_tricks) - Some CSS tricks - 一些 CSS 常用样式
@@ -1887,7 +1887,7 @@
 
 *   [cnych/kubernetes-learning](https://github.com/cnych/kubernetes-learning) - 《从Docker到Kubernetes进阶课程》在线文档
 
-*   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white\_check\_mark:  The Node.js best practices list (February 2024)
+*   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white\_check\_mark:  The Node.js best practices list (July 2024)
 
 *   [jaywcjlove/awesome-uikit](https://github.com/jaywcjlove/awesome-uikit) - Collect JS Frameworks, Web components library and Admin Template.
 
@@ -2431,7 +2431,7 @@
 
 *   [SugarTurboS/Sugar-Electron](https://github.com/SugarTurboS/Sugar-Electron) - 基于Electorn的轻量级开发框架
 
-*   [megahertz/electron-log](https://github.com/megahertz/electron-log) - Just a simple logging module for your Electron application
+*   [megahertz/electron-log](https://github.com/megahertz/electron-log) - Simple logging module Electron/Node.js/NW.js application. No dependencies. No complicated configuration.
 
 *   [rogierschouten/async-lock](https://github.com/rogierschouten/async-lock) - Lock on asynchronous code for Nodejs
 
