@@ -29,7 +29,6 @@
 *   [Java](#java)
 *   [Smarty](#smarty)
 *   [JavaScript](#javascript)
-*   [QML](#qml)
 *   [C#](#c-1)
 *   [Go](#go)
 *   [C++](#c-2)
@@ -1913,6 +1912,8 @@
 
 *   [muziing/PySide6-Code-Tutorial](https://github.com/muziing/PySide6-Code-Tutorial) - 可能是最好的PySide6中文教程！用代码实例讲解PySide6，附优质Demos、图标库、QSS皮肤、相关文章等分享！
 
+*   [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
+
 *   [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版
 
 *   [swoole/phpy](https://github.com/swoole/phpy) - Connecting the Python and PHP ecosystems together
@@ -2758,10 +2759,6 @@
 *   [endel/js2php](https://github.com/endel/js2php) - JavaScript (ES6) to PHP source-to-source transpiler.
 
 *   [thinkcmf/thinkcmf](https://github.com/thinkcmf/thinkcmf) - ThinkCMF是一款支持Swoole的开源内容管理框架，基于ThinkPHP开发，同时支持PHP-FPM和Swoole双模式，让WEB开发更快!
-
-## QML
-
-*   [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
 
 ## C\#
 
