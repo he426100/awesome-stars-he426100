@@ -514,8 +514,6 @@
 
 *   [docker-library/docs](https://github.com/docker-library/docs) - Documentation for Docker Official Images in docker-library
 
-*   [docker-library/php](https://github.com/docker-library/php) - Docker Official Image packaging for PHP
-
 *   [tianon/gosu](https://github.com/tianon/gosu) - Simple Go-based setuid+setgid+setgroups+exec
 
 *   [laravel/sail](https://github.com/laravel/sail) - Docker files for running a basic Laravel application.
@@ -1875,6 +1873,8 @@
 *   [robinostlund/docker-miner-trex](https://github.com/robinostlund/docker-miner-trex) -
 
 *   [dockminer/T-Rex](https://github.com/dockminer/T-Rex) - Docker foe T-Rex.
+
+*   [docker-library/php](https://github.com/docker-library/php) - Docker Official Image packaging for PHP
 
 *   [swoole/docker-swoole](https://github.com/swoole/docker-swoole) - 🏄 Official Docker Image of Swoole
 
