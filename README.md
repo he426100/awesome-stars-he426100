@@ -834,8 +834,6 @@
 
 *   [mario-deluna/php-glfw](https://github.com/mario-deluna/php-glfw) - 🪐A fully-featured OpenGL and GLFW extension for PHP. 🔋Batteries included (Math Functions, Texture Loaders, etc..)
 
-*   [NumPower/numpower](https://github.com/NumPower/numpower) - PHP extension for efficient scientific computing and array manipulation with GPU support
-
 *   [adsr/phpspy](https://github.com/adsr/phpspy) - low-overhead sampling profiler for PHP 7+
 
 *   [jingjingxyk/swoole-cli](https://github.com/jingjingxyk/swoole-cli) - SWOOLE-CLI is a php binary distribution composed swoole & php-core & cli & php-fpm and mostly of common extensions.
@@ -959,6 +957,8 @@
 *   [code-lives/Pays](https://github.com/code-lives/Pays) - 微信小程序、抖音小程序、百度小程序、支付宝小程序、快手小程序集合（支付、手机号解密、获取Token、模版消息、支付异步通知、退款、订单查询）
 
 *   [libvips/php-vips](https://github.com/libvips/php-vips) - php binding for libvips
+
+*   [NumPower/numpower](https://github.com/NumPower/numpower) - PHP extension for efficient scientific computing and array manipulation with GPU support
 
 *   [skoro/php-tkui](https://github.com/skoro/php-tkui) - Build native desktop applications with PHP only
 
