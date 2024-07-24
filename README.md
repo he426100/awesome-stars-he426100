@@ -2498,7 +2498,7 @@
 
 *   [jawidx/web-launch-app](https://github.com/jawidx/web-launch-app) - 🔥 launch app from web page（调起app、调用端能力、下载app、环境判断、复制）
 
-*   [zandko/lucifer-vue-h5-template](https://github.com/zandko/lucifer-vue-h5-template) -
+*   [zandko/vue-h5-template](https://github.com/zandko/vue-h5-template) -
 
 *   [TaleLin/lin-ui](https://github.com/TaleLin/lin-ui) - 🌈 简洁、易用、灵活的微信小程序组件库
 
@@ -2794,7 +2794,7 @@
 
 *   [joewalnes/websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
 
-*   [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - A web security gateway, serve as a reverse proxy to protect your websites from attacks and exploits.
+*   [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - serve as a reverse proxy to protect your websites from attacks and exploits.
 
 *   [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 
