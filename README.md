@@ -814,6 +814,8 @@
 
 *   [gongfuxiang/shopxo](https://github.com/gongfuxiang/shopxo) - ShopXO企业级免费开源商城系统，可视化DIY拖拽装修、包含PC、H5、多端小程序(微信+支付宝+百度+头条&抖音+QQ+快手)、APP、多仓库、多商户、多门店、IM客服，进销存遵循MIT开源协议发布、基于ThinkPHP8框架研发
 
+*   [Momo707577045/iconfont-preview](https://github.com/Momo707577045/iconfont-preview) - iconFont 在线预览
+
 *   [snowzijun/vue-vant-base](https://github.com/snowzijun/vue-vant-base) - 这个项目是将一些基础配置比如eslint,移动端适配等进行了封装，开发人员只需fork就可直接开箱即用，不用再做额外的配置
 
 *   [hilongjw/vue-lazyload](https://github.com/hilongjw/vue-lazyload) - A Vue.js plugin for lazyload your Image or Component in your application.
@@ -3035,8 +3037,6 @@
 *   [zoomla/bootstrap4-zhcn-documentation](https://github.com/zoomla/bootstrap4-zhcn-documentation) - 基于bootstrapv4.x最新的中文简体手册，这是Bootstrap官方认同的简体翻译版本，也是目前最完整的Bootstrap4中文翻译版，由Zoomla!逐浪CMS团队维护。
 
 *   [demopark/electron-api-demos-Zh\_CN](https://github.com/demopark/electron-api-demos-Zh_CN) - 这是 electron-api-demos 的中文版本, 更新至 v2.0.2
-
-*   [Momo707577045/iconfont-preview](https://github.com/Momo707577045/iconfont-preview) - iconFont 在线预览
 
 *   [HADB/GetWeixinCode](https://github.com/HADB/GetWeixinCode) - 解决微信OAuth2.0网页授权只能设置一个回调域名的问题
 
