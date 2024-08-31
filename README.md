@@ -935,6 +935,8 @@
 
 *   [FriendsOfPHP/Goutte](https://github.com/FriendsOfPHP/Goutte) - Goutte, a simple PHP Web Scraper
 
+*   [typecho-fans/plugins](https://github.com/typecho-fans/plugins) - Typecho Fans插件作品目录
+
 ## Go
 
 *   [Ackites/KillWxapkg](https://github.com/Ackites/KillWxapkg) - 自动化反编译微信小程序，小程序安全评估工具，发现小程序安全问题，自动解密，解包，可还原工程目录，支持Hook，小程序修改
@@ -1046,8 +1048,6 @@
 *   [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 
 *   [golang-china/awesome-go-zh](https://github.com/golang-china/awesome-go-zh) - :books: Go资源精选中文版(含中文图书大全)
-
-*   [gwuhaolin/lightsocks](https://github.com/gwuhaolin/lightsocks) - ⚡️一个轻巧的网络混淆代理🌏
 
 *   [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform programmable network tool
 
@@ -1423,7 +1423,7 @@
 
 *   [jiqizhixin/AI-Terminology-page](https://github.com/jiqizhixin/AI-Terminology-page) - The English-Chinese paired terminologies in Artificial Intelligence Domain
 
-*   [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网
+*   [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载
 
 *   [goodjack/developer-roadmap-chinese](https://github.com/goodjack/developer-roadmap-chinese) - 2021 年成為 Web 開發人員的路線圖 台灣正體中文版
 
@@ -1497,7 +1497,7 @@
 
 *   [pysunday/sdenv](https://github.com/pysunday/sdenv) - sdenv补环境框架，完美过瑞数vmp理论通杀，配合瑞数vmp纯算法逆向项目（rs-reverse）更好学习原理，商标网更新后在线样例失效，可尝试使用其它网站试验(不保证有效)
 
-*   [uappkit/uapp](https://github.com/uappkit/uapp) - uapp是一款方便uni-app开发的cli工具，并通过集成electron, tauri扩展到桌面应用开发。开发者仅需维护一套代码，就能横扫所有平台。支持所有的手机端(android, ios)，支持所有的电脑端(windows, mac osx, linux)，支持所有的小程序，浏览器插件等等。让Web开发者能搞更多事情，会H5就够用了
+*   [uappkit/uapp](https://github.com/uappkit/uapp) - uapp是一款基于uni-app跨平台开发的高效cli。 源自自有产品跨平台的最佳实践，通过集成 uni-app, electron, tauri，让开发者仅需维护一套代码，就能横跨所有平台。uapp助开发者无限制重构一切软件。
 
 *   [luzhisheng/js\_reverse](https://github.com/luzhisheng/js_reverse) - 主要用来收集/学习爬虫相关技术如：js逆向、app逆向、抓包、验证码、加密技术、自动化技术、机器学习。
 
