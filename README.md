@@ -31,6 +31,7 @@
 *   [Java](#java)
 *   [Smarty](#smarty)
 *   [C#](#c-1)
+*   [Markdown](#markdown)
 *   [C++](#c-2)
 *   [Kotlin](#kotlin)
 *   [HTML](#html)
@@ -53,7 +54,6 @@
 *   [CoffeeScript](#coffeescript)
 *   [NSIS](#nsis)
 *   [Rich Text Format](#rich-text-format)
-*   [Markdown](#markdown)
 *   [Clojure](#clojure)
 *   [Thanks](#thanks)
 
@@ -1068,8 +1068,6 @@
 *   [KapitanOczywisty/PHP\_embed\_docs](https://github.com/KapitanOczywisty/PHP_embed_docs) -
 
 *   [SFLAQiu/web-develop](https://github.com/SFLAQiu/web-develop) - :seedling:《大话WEB开发》WEB开发相关经验总结分享
-
-*   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 *   [ClownQq/YDArk](https://github.com/ClownQq/YDArk) - X64内核小工具
 
@@ -2279,7 +2277,7 @@
 
 *   [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
 
-*   [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+*   [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 
 *   [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 
@@ -2917,6 +2915,16 @@
 
 *   [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
 
+## Markdown
+
+*   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+
+*   [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
+
+*   [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
+
+*   [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook) - 放置我的笔记、搜集、摘录、实践，保持好奇心。看文需谨慎，后果很严重。
+
 ## C++
 
 *   [BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk) - The Next Generation of Anti-Rookit(ARK) tool for Windows.
@@ -3322,14 +3330,6 @@
 *   [mcxiaoke/mqtt](https://github.com/mcxiaoke/mqtt) - MQTT协议3.1.1中文翻译版，IoT，物联网
 
 *   [ThinkDevelopers/PHPConChina](https://github.com/ThinkDevelopers/PHPConChina) -
-
-## Markdown
-
-*   [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
-
-*   [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
-
-*   [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook) - 放置我的笔记、搜集、摘录、实践，保持好奇心。看文需谨慎，后果很严重。
 
 ## Clojure
 
