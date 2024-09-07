@@ -59,7 +59,7 @@
 
 ## PHP
 
-*   [kint-php/kint](https://github.com/kint-php/kint) - Kint - a powerful and modern PHP debugging tool.
+*   [kint-php/kint](https://github.com/kint-php/kint) - Kint - Advanced PHP dumper
 
 *   [CodeWithKyrian/transformers-php](https://github.com/CodeWithKyrian/transformers-php) - Transformers PHP is a toolkit for PHP developers to add machine learning magic to their projects easily.
 
