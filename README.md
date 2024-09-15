@@ -2147,7 +2147,7 @@
 
 *   [yunalading/yuncms](https://github.com/yunalading/yuncms) - YunCMS是基于ThinkPHP5框架的一套CMS系统，方便用户快速建立企业网站，门户网站，个人博客或其他系统的内容管理系统。
 
-*   [karsonzhang/fastadmin](https://github.com/karsonzhang/fastadmin) - 基于 ThinkPHP5 和 Bootstrap 的极速后台开发框架，一键生成 CRUD，自动生成控制器、模型、视图、JS、语言包、菜单、回收站。
+*   [karsonzhang/fastadmin](https://github.com/karsonzhang/fastadmin) - 基于 ThinkPHP 和 Bootstrap 的极速后台开发框架，一键生成 CRUD，自动生成控制器、模型、视图、JS、语言包、菜单、回收站。
 
 *   [endel/js2php](https://github.com/endel/js2php) - JavaScript (ES6) to PHP source-to-source transpiler.
 
