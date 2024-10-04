@@ -1675,8 +1675,6 @@
 
 *   [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 
-*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-
 *   [adrai/flowchart.js](https://github.com/adrai/flowchart.js) - Draws simple SVG flow chart diagrams from textual representation of the diagram
 
 *   [logan70/Blog](https://github.com/logan70/Blog) - 写博客的地方，觉得有用的给个Star支持一下~
@@ -2344,6 +2342,8 @@
 *   [isaacs/node-glob](https://github.com/isaacs/node-glob) - glob functionality for node.js
 
 *   [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
+
+*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 
 *   [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node\_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 
