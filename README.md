@@ -2571,7 +2571,7 @@
 
 *   [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
 
-*   [eclipse/mosquitto](https://github.com/eclipse/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
+*   [eclipse-mosquitto/mosquitto](https://github.com/eclipse-mosquitto/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
 
 *   [mgdm/Mosquitto-PHP](https://github.com/mgdm/Mosquitto-PHP) - A wrapper for the Eclipse Mosquitto™ MQTT client library for PHP.
 
