@@ -1545,6 +1545,8 @@
 
 *   [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
 
+*   [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
+
 ## JavaScript
 
 *   [Big1moster/catvm](https://github.com/Big1moster/catvm) - 志远补环境框架视频配套完结版
@@ -1592,8 +1594,6 @@
 *   [ProjectOpenSea/opensea-creatures](https://github.com/ProjectOpenSea/opensea-creatures) - Example non-fungible collectible, to demonstrate OpenSea integration
 
 *   [ProjectOpenSea/nft-tutorial](https://github.com/ProjectOpenSea/nft-tutorial) - A very basic NFT tutorial repository for absolute beginners in the world of Web3 and smart contracts
-
-*   [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 
 *   [nftstorage/nft.storage](https://github.com/nftstorage/nft.storage) - **Notice: Uploads Decommissioned - Existing Data is Safe!**      NFT.Storage Classic (classic.nft.storage) offers free decentralized storage and bandwidth for NFTs on IPFS and Filecoin.  June 2024 Update: No new uploads, but all existing data is safe. Try the new NFT.Storage, which preserves data in long term Filecoin storage. Go to app.nft.storage
 
@@ -2356,8 +2356,6 @@
 *   [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 
 *   [grafana/grafana-zabbix](https://github.com/grafana/grafana-zabbix) - Zabbix plugin for Grafana dashboard
-
-*   [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 
 *   [filecoin-shipyard/filecoin.js](https://github.com/filecoin-shipyard/filecoin.js) - A JavaScript (and TypeScript) library for interacting with the Filecoin's Lotus node, with support for external signers.
 
@@ -3268,6 +3266,8 @@
 ## Solidity
 
 *   [AmazingAng/WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) - WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy
+
+*   [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 
 ## Ruby
 
