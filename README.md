@@ -365,8 +365,6 @@
 
 *   [ecomfe/vue-echarts](https://github.com/ecomfe/vue-echarts) - Vue.js component for Apache ECharts™.
 
-*   [umbrella22/electron-vue-template](https://github.com/umbrella22/electron-vue-template) - An Electron & Vue.js quick start
-
 *   [mubaidr/vue-electron-template](https://github.com/mubaidr/vue-electron-template) - An Electron & Vue.js template with Hot-reloading enabled and common Vue plugins, dev, debug and build scripts configured.
 
 *   [SmallRuralDog/electron-vue-music](https://github.com/SmallRuralDog/electron-vue-music) - 基于 electron-vue 开发的音乐播放器，界面模仿QQ音乐，技术栈electron-vue+vue+vuex+vue-router+element- UI。欢迎star
@@ -2179,6 +2177,8 @@
 
 *   [CryptoCraft-Tech/lotus-recovery](https://github.com/CryptoCraft-Tech/lotus-recovery) -
 
+*   [Safe3/uuWAF](https://github.com/Safe3/uuWAF) - A industry-leading free, high-performance, AI and semantic technology web application and API security protection product - uuWAF. 一款工业级免费、高性能、高扩展，支持AI和语义引擎的Web应用和API安全防护产品-南墙。Web应用防火墙、WAF、WAAP
+
 *   [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
 
 *   [mviereck/x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker and podman containers. Focus on security.
@@ -2385,6 +2385,8 @@
 
 *   [sequelize/sequelize-auto](https://github.com/sequelize/sequelize-auto) - Automatically generate bare sequelize models from your database.
 
+*   [umbrella22/electron-vue-template](https://github.com/umbrella22/electron-vue-template) - An Electron & Vue.js quick start
+
 *   [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
 
 *   [vercel-community/php](https://github.com/vercel-community/php) - 🐘 PHP Runtime for ▲ Vercel Serverless Functions (support 7.4-8.3)
@@ -2504,8 +2506,6 @@
 *   [ardillo-php/ext](https://github.com/ardillo-php/ext) - PHP extension for building native desktop applications
 
 *   [SerafimArts/ffi-sdl](https://github.com/SerafimArts/ffi-sdl) - SDL2 FFI bindings for the PHP language
-
-*   [Safe3/uuWAF](https://github.com/Safe3/uuWAF) - A industry-leading free, high-performance, AI and semantic technology web application and API security protection product - uuWAF. 一款工业级免费、高性能、高扩展，支持AI和语义引擎的Web应用和API安全防护产品-南墙。Web应用防火墙、WAF、WAAP
 
 *   [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
 
