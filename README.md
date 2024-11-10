@@ -799,7 +799,7 @@
 
 *   [hulining/prometheus\_docs](https://github.com/hulining/prometheus_docs) - There are markdown source files for https://hulining.gitbook.io/prometheus/
 
-*   [roaldnefs/awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) - A curated list of awesome Prometheus resources, projects and tools.
+*   [warpnet/awesome-prometheus](https://github.com/warpnet/awesome-prometheus) - A curated list of awesome Prometheus resources, projects and tools.
 
 *   [justjavac/yyds](https://github.com/justjavac/yyds) - 收集一些主流和非主流的缩写语，yyds、u1s1，爷青回
 
