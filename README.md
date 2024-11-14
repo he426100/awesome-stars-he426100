@@ -1299,9 +1299,9 @@
 
 *   [daodao97/apidog](https://github.com/daodao97/apidog) - Api Watch Dog, Hyperf 框架的 Api参数校验 和 swagger 生成组件
 
-*   [yuminuo/filecoin-tx](https://github.com/yuminuo/filecoin-tx) - Filecoin transaction library in PHP.
+*   [DevMinions/filecoin-tx](https://github.com/DevMinions/filecoin-tx) - Filecoin transaction library in PHP.
 
-*   [yuminuo/php-filecoin-address](https://github.com/yuminuo/php-filecoin-address) - Pure PHP Filecoin Address Generator / Validator
+*   [DevMinions/php-filecoin-address](https://github.com/DevMinions/php-filecoin-address) - Pure PHP Filecoin Address Generator / Validator
 
 *   [onlyshow/filecoin-address](https://github.com/onlyshow/filecoin-address) -
 
