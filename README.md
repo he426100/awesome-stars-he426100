@@ -1163,7 +1163,7 @@
 
 *   [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - :crystal\_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP's built-in reflection API.
 
-*   [nette/php-generator](https://github.com/nette/php-generator) - 🐘 Generates neat PHP code for you. Supports new PHP 8.3 features.
+*   [nette/php-generator](https://github.com/nette/php-generator) - 🐘 Generates neat PHP code for you. Supports new PHP 8.4 features.
 
 *   [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP
 
