@@ -2175,7 +2175,7 @@
 
 *   [CryptoCraft-Tech/lotus-recovery](https://github.com/CryptoCraft-Tech/lotus-recovery) -
 
-*   [Safe3/uuWAF](https://github.com/Safe3/uuWAF) - A industry-leading free, high-performance, AI and semantic technology web application and API security protection product - UUSEC WAF. 一款工业级免费、高性能、高扩展，支持AI和语义引擎的Web应用和API安全防护产品-南墙。Web应用防火墙、WAF、WAAP
+*   [Safe3/uuWAF](https://github.com/Safe3/uuWAF) - A industry-leading free, high-performance, AI and semantic technology web application firewall and API security protection product - UUSEC WAF. 一款工业级免费、高性能、高扩展，支持AI和语义引擎的Web应用和API安全防护产品-南墙。Web应用防火墙、WAF、WAAP
 
 *   [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
 
