@@ -1779,7 +1779,7 @@
 
 *   [wmhello/workManger](https://github.com/wmhello/workManger) - 简单易用的学校信息管理系统（管理教职工基础信息、教学过程、短信消息和模板消息发送 学校微信公众号管理 简单事项审批）
 
-*   [maximebf/php-debugbar](https://github.com/maximebf/php-debugbar) - Debug bar for PHP
+*   [php-debugbar/php-debugbar](https://github.com/php-debugbar/php-debugbar) - Debug bar for PHP
 
 *   [bingcool/swoolefy](https://github.com/bingcool/swoolefy) - swoolefy是一个基于swoole实现的协程级、轻量级、高性能、开放性的API应用服务框架
 
