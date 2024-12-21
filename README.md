@@ -141,8 +141,6 @@
 
 *   [mysticatea/eslint-plugin-node](https://github.com/mysticatea/eslint-plugin-node) - Additional ESLint's rules for Node.js
 
-*   [tejasrsuthar/Awesome-NodeJS](https://github.com/tejasrsuthar/Awesome-NodeJS) - A curated collection of best NodeJS Resources ✍️
-
 *   [shisuiyou/query-lines-reader](https://github.com/shisuiyou/query-lines-reader) - Select multiline to read file. Support big file for nodejs
 
 *   [paigen11/file-read-challenge](https://github.com/paigen11/file-read-challenge) - Reading various data out of a very large dataset from a .txt file using NodeJS
@@ -3244,6 +3242,8 @@
 *   [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
 
 *   [rescript-lang/rescript-lang.org](https://github.com/rescript-lang/rescript-lang.org) - Official documentation website for the ReScript programming language
+
+*   [tejasrsuthar/Awesome-NodeJS](https://github.com/tejasrsuthar/Awesome-NodeJS) - A curated collection of best NodeJS Resources ✍️
 
 *   [giscafer/blog](https://github.com/giscafer/blog) - Next.js + Issues 博客解决方案 https://www.giscafer.com
 
