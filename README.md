@@ -1205,7 +1205,7 @@
 
 *   [zhangyue0503/dev-blog](https://github.com/zhangyue0503/dev-blog) - php博客文章
 
-*   [php-lock/lock](https://github.com/php-lock/lock) - Popular library for serialized execution of critical code in concurrent situations
+*   [php-lock/lock](https://github.com/php-lock/lock) - Popular PHP library for serialized execution of critical code in concurrent situations
 
 *   [minicli/minicli](https://github.com/minicli/minicli) - A minimalist framework for command-line applications in PHP
 
