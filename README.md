@@ -2063,7 +2063,7 @@
 
 *   [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
 
-*   [ccfos/nightingale](https://github.com/ccfos/nightingale) - An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.
+*   [ccfos/nightingale](https://github.com/ccfos/nightingale) - Grafana for visualization and Nightingale for alerting
 
 *   [gopl-zh/gopl-zh.github.com](https://github.com/gopl-zh/gopl-zh.github.com) - :books: Go语言圣经中文版 🇨🇳
 
@@ -2313,7 +2313,7 @@
 
 *   [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 
-*   [zebra-ui/zebra-swiper](https://github.com/zebra-ui/zebra-swiper) - 基于uniapp开发的多端适配轮播组件
+*   [zebra-ui/zebra-swiper](https://github.com/zebra-ui/zebra-swiper) - 兼容多端的高性能轮播组件库，支持多种复杂的 3D 轮播效果。
 
 *   [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo) - Monorepo for the Ethereum VM TypeScript Implementation
 
