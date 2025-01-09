@@ -1515,7 +1515,7 @@
 
 *   [bobthecow/psysh](https://github.com/bobthecow/psysh) - A REPL for PHP
 
-*   [opis/closure](https://github.com/opis/closure) - Serialize closures and arbitrary data
+*   [opis/closure](https://github.com/opis/closure) - Serialize closures, anonymous classes, and arbitrary data
 
 *   [surest-sky/think-vue-admin-api](https://github.com/surest-sky/think-vue-admin-api) - 一套有thinkphp开发集成性后台接口，内置权限管理，api响应，psysh等多功能工具
 
