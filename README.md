@@ -1907,7 +1907,7 @@
 
 *   [Vectorface/whip](https://github.com/Vectorface/whip) - A PHP class for retrieving accurate IP address information for the client.
 
-*   [akrabat/ip-address-middleware](https://github.com/akrabat/ip-address-middleware) - PSR-7 Middleware that determines the client IP address and stores it as an ServerRequest attribute
+*   [akrabat/ip-address-middleware](https://github.com/akrabat/ip-address-middleware) - PSR-7 Middleware that determines the client IP address and stores it as a PSR-7 ServerRequest attribute
 
 *   [thephpleague/plates](https://github.com/thephpleague/plates) - Native PHP template system
 
