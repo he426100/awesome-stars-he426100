@@ -317,7 +317,7 @@
 
 *   [holynova/gushi\_namer](https://github.com/holynova/gushi_namer) - 古诗文起名: 利用诗经 楚辞 唐诗 宋词等给小朋友起名字
 
-*   [xiangyuecn/AreaCity-JsSpider-StatsGov](https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov) - 省市区县乡镇三级或四级城市数据，带拼音标注、坐标、行政区域边界范围；2024年06月16日最新采集，提供csv格式文件，支持在线转成多级联动js代码、通用json格式，提供软件转成shp、geojson、sql、导入数据库；带浏览器里面运行的js采集源码，综合了中华人民共和国民政部、国家统计局、高德地图、腾讯地图行政区划数据
+*   [xiangyuecn/AreaCity-JsSpider-StatsGov](https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov) - 省市区县乡镇三级或四级城市数据，带拼音标注、坐标、行政区域边界范围；2025年01月14日最新采集，提供csv格式文件，支持在线转成多级联动js代码、通用json格式，提供软件转成shp、geojson、sql、导入数据库；带浏览器里面运行的js采集源码，综合了中华人民共和国民政部、国家统计局、高德地图、腾讯地图行政区划数据
 
 *   [keyvan-m-sadeghi/pythonic](https://github.com/keyvan-m-sadeghi/pythonic) - Python like utility functions for JavaScript: range, enumerate, zip and items.
 
@@ -2189,7 +2189,7 @@
 
 *   [jasonweicn/miniframework](https://github.com/jasonweicn/miniframework) - MiniFramework 是一款遵循 Apache2 开源协议发布的，支持 MVC 和 RESTful 的超轻量级 PHP 开发框架。
 
-*   [predis/predis](https://github.com/predis/predis) - A flexible and feature-complete Redis client for PHP.
+*   [predis/predis](https://github.com/predis/predis) - A flexible and feature-complete Redis/Valkey client for PHP.
 
 *   [mvdbos/php-spider](https://github.com/mvdbos/php-spider) - A configurable and extensible PHP web spider
 
@@ -2355,7 +2355,7 @@
 
 *   [CryptoCraft-Tech/lotus-recovery](https://github.com/CryptoCraft-Tech/lotus-recovery) -
 
-*   [Safe3/uuWAF](https://github.com/Safe3/uuWAF) - A industry-leading free, high-performance, AI and semantic technology web application firewall and API security protection product - UUSEC WAF. 一款工业级免费、高性能、高扩展，支持AI和语义引擎的Web应用和API安全防护产品-南墙。Web应用防火墙、WAF、WAAP
+*   [Safe3/uuWAF](https://github.com/Safe3/uuWAF) - An industry-leading free, high-performance, AI and semantic technology web application firewall and API security protection product - UUSEC WAF. 一款工业级免费、高性能、高扩展，支持AI和语义引擎的Web应用和API安全防护产品-南墙。Web应用防火墙、WAF、WAAP
 
 *   [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
 
