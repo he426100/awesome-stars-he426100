@@ -147,6 +147,8 @@
 
 *   [isaacs/node-glob](https://github.com/isaacs/node-glob) - glob functionality for node.js
 
+*   [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
+
 *   [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
 
 *   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
@@ -574,8 +576,6 @@
 *   [isaacs/node-graceful-fs](https://github.com/isaacs/node-graceful-fs) - fs with incremental backoff on EMFILE
 
 *   [jprichardson/node-jsonfile](https://github.com/jprichardson/node-jsonfile) - Easily read/write JSON files.
-
-*   [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
 
 *   [webpack/watchpack](https://github.com/webpack/watchpack) - Wrapper library for directory and file watching.
 
@@ -2605,7 +2605,7 @@
 
 *   [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers
 
-*   [yeszao/dnmp](https://github.com/yeszao/dnmp) - Docker LNMP (Nginx, PHP7/PHP5, MySQL, Redis)
+*   [garymengcom/dnmp](https://github.com/garymengcom/dnmp) - Docker LNMP (Nginx, PHP7/PHP5, MySQL, Redis)
 
 *   [liquanzhou/ops\_doc](https://github.com/liquanzhou/ops_doc) - 运维简洁实用手册
 
