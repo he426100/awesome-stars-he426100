@@ -1821,7 +1821,7 @@
 
 *   [Coder-Spirit/php-bignumbers](https://github.com/Coder-Spirit/php-bignumbers) - A robust library to handle immutable big numbers inside PHP applications
 
-*   [beyondcode/expose](https://github.com/beyondcode/expose) - A beautiful, fully open-source, tunneling service - written in pure PHP
+*   [exposedev/expose](https://github.com/exposedev/expose) - A beautiful, fully open-source, tunneling service - written in pure PHP
 
 *   [NanQi/ethereum-php](https://github.com/NanQi/ethereum-php) - ethereum eth web3 php keysotre bip44 infura etherscan proxy api
 
