@@ -2455,7 +2455,7 @@
 
 *   [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 
-*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administration, website management, system backup and restoration, and more.
+*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel offers an intuitive web interface for managing websites, files, containers, databases, and LLMs within a Linux server.
 
 *   [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 
@@ -2575,7 +2575,7 @@
 
 *   [CryptoCraft-Tech/lotus-recovery](https://github.com/CryptoCraft-Tech/lotus-recovery) -
 
-*   [Safe3/uuWAF](https://github.com/Safe3/uuWAF) - An industry-leading free, high-performance, AI and semantic technology Web Application Firewall and API Security Gateway (WAAP)- UUSEC WAF.
+*   [Safe3/uuWAF](https://github.com/Safe3/uuWAF) - An industry-leading free, high-performance, AI and semantic technology Web Application Firewall and API Security Gateway (WAAP) - UUSEC WAF.
 
 *   [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
 
