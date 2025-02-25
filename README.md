@@ -55,6 +55,7 @@
 *   [NSIS](#nsis)
 *   [Rich Text Format](#rich-text-format)
 *   [Clojure](#clojure)
+*   [Blade](#blade)
 *   [Thanks](#thanks)
 
 ## TypeScript
@@ -2321,8 +2322,6 @@
 
 *   [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
 
-*   [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
-
 *   [Leslin/thinkphp5-restfulapi](https://github.com/Leslin/thinkphp5-restfulapi) - restful-api风格接口 APP接口 APP接口权限  oauth2.0 接口版本管理 接口鉴权
 
 *   [TIGERB/easy-tips](https://github.com/TIGERB/easy-tips) - A little Tips in my Code Career with Go\&PHP 🥳🥳🥳
@@ -3334,6 +3333,10 @@
 ## Clojure
 
 *   [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
+
+## Blade
+
+*   [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 
 ## Thanks
 
