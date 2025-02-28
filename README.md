@@ -1550,7 +1550,7 @@
 
 *   [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 
-*   [ThinkDevelop/Free-SS-SSR](https://github.com/ThinkDevelop/Free-SS-SSR) - SS账号、SSR账号、V2Ray账号
+*   [ThinkDevelop/Free-SS-SSR](https://github.com/ThinkDevelop/Free-SS-SSR) - 每日分享免费的ss、vmess、vless、trojan、hysteria2等各类节点
 
 *   [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
 
@@ -2762,7 +2762,7 @@
 
 *   [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 
-*   [viest/php-ext-xlswriter](https://github.com/viest/php-ext-xlswriter) - 🚀 PHP Extension for creating and reader XLSX files.
+*   [viest/php-ext-xlsxwriter](https://github.com/viest/php-ext-xlsxwriter) - 🚀 PHP Extension for creating and reader XLSX files.
 
 *   [julycoding/The-Art-Of-Programming-By-July-2nd](https://github.com/julycoding/The-Art-Of-Programming-By-July-2nd) - 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
 
