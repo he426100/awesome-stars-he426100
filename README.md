@@ -304,8 +304,6 @@
 
 *   [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版
 
-*   [swoole/phpy](https://github.com/swoole/phpy) - Connecting the Python and PHP ecosystems together
-
 *   [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
 
 *   [ReaJason/xhs](https://github.com/ReaJason/xhs) - 基于小红书 Web 端进行的请求封装。https://reajason.github.io/xhs/
@@ -1575,6 +1573,8 @@
 *   [gherkins/regexpbuilderphp](https://github.com/gherkins/regexpbuilderphp) - 🦉 human-readable regular expressions
 
 *   [myclabs/DeepCopy](https://github.com/myclabs/DeepCopy) - Create deep copies (clones) of your objects
+
+*   [swoole/phpy](https://github.com/swoole/phpy) - Connecting the Python and PHP ecosystems together
 
 *   [sywlwl/study-gather-one](https://github.com/sywlwl/study-gather-one) -
 
