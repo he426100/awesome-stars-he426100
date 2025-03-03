@@ -1624,8 +1624,6 @@
 
 *   [mhor/php-mediainfo](https://github.com/mhor/php-mediainfo) - PHP wrapper around the mediainfo command
 
-*   [jingjingxyk/swoole-cli](https://github.com/jingjingxyk/swoole-cli) - SWOOLE-CLI is a php binary distribution composed swoole & php-core & cli & php-fpm and mostly of common extensions.
-
 *   [bootgly/bootgly](https://github.com/bootgly/bootgly) - Base PHP Framework for Multi Projects
 
 *   [tectalichq/public-openai-client-php](https://github.com/tectalichq/public-openai-client-php) - OpenAI API Client for PHP. Includes all endpoints and models (DTOs) for all requests and responses.
@@ -2693,6 +2691,8 @@
 *   [mario-deluna/php-glfw](https://github.com/mario-deluna/php-glfw) - 🪐A fully-featured OpenGL and GLFW extension for PHP. 🔋Batteries included (Math Functions, Texture Loaders, etc..)
 
 *   [adsr/phpspy](https://github.com/adsr/phpspy) - low-overhead sampling profiler for PHP 7+
+
+*   [jingjingxyk/swoole-cli](https://github.com/jingjingxyk/swoole-cli) - SWOOLE-CLI is a php binary distribution composed swoole & php-core & cli & php-fpm and mostly of common extensions.
 
 *   [swoole/swoole-cli](https://github.com/swoole/swoole-cli) - SWOOLE-CLI is a php binary distribution composed swoole & php-core & cli & fpm and mostly of common extensions.
 
