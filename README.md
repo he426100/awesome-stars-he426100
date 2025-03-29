@@ -2002,7 +2002,7 @@
 
 *   [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) - The Easiest way to add coding standard to your PHP project
 
-*   [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications
+*   [vimeo/psalm](https://github.com/vimeo/psalm) - A PHP static analysis tool for finding errors and security vulnerabilities in PHP applications
 
 *   [rectorphp/rector](https://github.com/rectorphp/rector) - Instant Upgrades and Automated Refactoring of any PHP 5.3+ code
 
@@ -2762,7 +2762,7 @@
 
 *   [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 
-*   [viest/php-ext-xlsxwriter](https://github.com/viest/php-ext-xlsxwriter) - 🚀 PHP Extension for creating and reader XLSX files.
+*   [viest/php-ext-xlswriter](https://github.com/viest/php-ext-xlswriter) - 🚀 PHP Extension for creating and reader XLSX files.
 
 *   [julycoding/The-Art-Of-Programming-By-July-2nd](https://github.com/julycoding/The-Art-Of-Programming-By-July-2nd) - 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
 
