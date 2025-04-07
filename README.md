@@ -1472,7 +1472,7 @@
 
 *   [stephentian/33-js-concepts](https://github.com/stephentian/33-js-concepts) - :scroll: 每个 JavaScript 工程师都应懂的33个概念 @leonardomso
 
-*   [MonkSoul/Layx](https://github.com/MonkSoul/Layx) - Layx 新一代Web弹窗组件。
+*   [monksoul/Layx](https://github.com/monksoul/Layx) - Layx 新一代Web弹窗组件。
 
 *   [lin-123/javascript](https://github.com/lin-123/javascript) - eslint-config-airbnb 中文版
 
