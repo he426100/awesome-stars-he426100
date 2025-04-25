@@ -2070,6 +2070,8 @@
 
 *   [friendsofthinkphp/think-jwt](https://github.com/friendsofthinkphp/think-jwt) - ThinkPHP Jwt 扩展包
 
+*   [friendsofthinkphp/think-jwt](https://github.com/friendsofthinkphp/think-jwt) - ThinkPHP Jwt 扩展包
+
 *   [nikic/FastRoute](https://github.com/nikic/FastRoute) - Fast request router for PHP
 
 *   [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths
@@ -2529,8 +2531,6 @@
 *   [firebase/php-jwt](https://github.com/firebase/php-jwt) - PHP package for JWT
 
 *   [tymondesigns/jwt-auth](https://github.com/tymondesigns/jwt-auth) - 🔐 JSON Web Token Authentication for Laravel & Lumen
-
-*   [lcobucci/jwt](https://github.com/lcobucci/jwt) - A simple library to work with JSON Web Token and JSON Web Signature
 
 ## Go
 
