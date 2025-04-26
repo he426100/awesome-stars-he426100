@@ -60,6 +60,8 @@
 
 ## miscellaneous
 
+*   [freddiewalchwmf25/JieMa](https://github.com/freddiewalchwmf25/JieMa) - 2025年最新国外短信接码平台推荐（免费+付费）
+
 *   [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub) - 2025年4月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器
 
 *   [likuai2010/auto-installer](https://github.com/likuai2010/auto-installer) - HarmonyOS Next Hap installer
@@ -516,7 +518,7 @@
 
 *   [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers
 
-*   [garymengcom/dnmp](https://github.com/garymengcom/dnmp) - Docker LNMP (Nginx, PHP7/PHP5, MySQL, Redis)
+*   [garylab/dnmp](https://github.com/garylab/dnmp) - Docker LNMP (Nginx, PHP7/PHP5, MySQL, Redis)
 
 *   [liquanzhou/ops\_doc](https://github.com/liquanzhou/ops_doc) - 运维简洁实用手册
 
@@ -2070,8 +2072,6 @@
 
 *   [friendsofthinkphp/think-jwt](https://github.com/friendsofthinkphp/think-jwt) - ThinkPHP Jwt 扩展包
 
-*   [friendsofthinkphp/think-jwt](https://github.com/friendsofthinkphp/think-jwt) - ThinkPHP Jwt 扩展包
-
 *   [nikic/FastRoute](https://github.com/nikic/FastRoute) - Fast request router for PHP
 
 *   [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - Provides functionality that helps writing PHP code that has runtime-specific execution paths
@@ -2544,7 +2544,7 @@
 
 *   [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
 
-*   [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
+*   [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
 
 *   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
 
