@@ -590,7 +590,7 @@
 
 *   [porcelainHeart/learning-resource](https://github.com/porcelainHeart/learning-resource) - 列出一些优秀的程序员学习资源
 
-*   [mdn/mdn](https://github.com/mdn/mdn) - Holding repo for MDN Web Docs things
+*   [mdn/mdn](https://github.com/mdn/mdn) - Planning and proposals for MDN Web Docs content
 
 *   [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 
@@ -2868,7 +2868,7 @@
 
 ## Smarty
 
-*   [opsre/awesome-ops](https://github.com/opsre/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 638 个。
+*   [opsre/awesome-ops](https://github.com/opsre/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 643 个。
 
 *   [rubyhan1314/Golang-100-Days](https://github.com/rubyhan1314/Golang-100-Days) - Golang - 100天从新手到大师
 
