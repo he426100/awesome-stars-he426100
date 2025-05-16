@@ -60,6 +60,8 @@
 
 ## PHP
 
+*   [dtyq/magic](https://github.com/dtyq/magic) - The first open-source all-in-one AI productivity platform
+
 *   [imliam/cpx](https://github.com/imliam/cpx) - Run any command from any composer package, even if it's not installed in your project.
 
 *   [kint-php/kint](https://github.com/kint-php/kint) - Kint - Advanced PHP dumper
@@ -933,8 +935,6 @@
 *   [PHPSocialNetwork/phpfastcache](https://github.com/PHPSocialNetwork/phpfastcache) - A high-performance backend cache system.  It is intended for use in speeding up dynamic web applications by alleviating database load.  Well implemented, it can drops the database load to almost nothing, yielding faster page load times for users, better resource utilization.  It is simple yet powerful.
 
 *   [FriendsOfPHP/Goutte](https://github.com/FriendsOfPHP/Goutte) - Goutte, a simple PHP Web Scraper
-
-*   [typecho-fans/plugins](https://github.com/typecho-fans/plugins) - Typecho Fans插件作品目录
 
 ## TypeScript
 
