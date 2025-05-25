@@ -68,7 +68,7 @@
 
 *   [CodeWithKyrian/transformers-php](https://github.com/CodeWithKyrian/transformers-php) - Transformers PHP is a toolkit for PHP developers to add machine learning magic to their projects easily.
 
-*   [BosonPHP/runtime](https://github.com/BosonPHP/runtime) - ⚡ Boson Runtime Library
+*   [boson-php/boson](https://github.com/boson-php/boson) - ⚡ Boson Kernel
 
 *   [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - :crystal\_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP's built-in reflection API.
 
