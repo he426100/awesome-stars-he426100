@@ -16,6 +16,7 @@
 
 ## Table of Contents
 
+*   [Java](#java)
 *   [PHP](#php)
 *   [TypeScript](#typescript)
 *   [Go](#go)
@@ -28,7 +29,6 @@
 *   [Rust](#rust)
 *   [C](#c)
 *   [CSS](#css)
-*   [Java](#java)
 *   [Smarty](#smarty)
 *   [C#](#c-1)
 *   [Markdown](#markdown)
@@ -57,6 +57,56 @@
 *   [Clojure](#clojure)
 *   [Blade](#blade)
 *   [Thanks](#thanks)
+
+## Java
+
+*   [NaTieJun/orise-charge-cloud](https://github.com/NaTieJun/orise-charge-cloud) - ⚡️充电桩开源云平台⚡️完整源代码，包含模拟桩模块，可通过docker编排快速部署测试。技术栈：SpringCloud、MySQL、Redis、RabbitMQ，前后端管理系统（管理后台、小程序），支持互联互通协议、市政协议、一对多方平台支持。支持高并发业务、业务动态伸缩、桩通信负载均衡（NLB）。
+
+*   [roinli/HUIZHI-ChargeOS-cloud](https://github.com/roinli/HUIZHI-ChargeOS-cloud) - ⚡️慧知开源充电平台全套源码⚡️;⚡️完整业务流程⚡️； ①SpringCloud、MySQL、Netty、uniapp、云快充协议1.5  云快充协议1.6、互联互通协议、多租户、分时计费。 ②小程序、管理后台、多商户、模拟桩。 ③充电平台技术解决方案。
+
+*   [SuperMonster003/AutoJs6](https://github.com/SuperMonster003/AutoJs6) - 安卓平台 JavaScript 自动化工具 (Auto.js 二次开发项目)
+
+*   [981011512/--](https://github.com/981011512/--) - 停车场系统源码，新能源充电桩系统，停车场小程序，智能停车，Parking system，【功能介绍】：①兼容市面上主流的多家相机，理论上兼容所有硬件，可灵活扩展，②相机识别后数据自动上传到云端并记录，校验相机唯一id和硬件序列号，防止非法数据录入，③用户手机查询停车记录详情可自主缴费(支持微信，支付宝，银行接口支付，支持每个停车场指定不同的商户进行收款)，支付后出场在免费时间内会自动抬杆。④支持app上查询附近停车场(导航，可用车位数，停车场费用，优惠券，评分，评论等)，可预约车位。⑤断电断网支持岗亭人员使用app可接管硬件进行停车记录的录入。 【技术架构】：后端开发语言java，框架oauth2+springboot2+dubble，数据库mysql/mongodb/redis，即时通讯底层框架netty4，安卓和ios均为原生开发，后台管理模板vue专业定制
+
+*   [apache/hertzbeat](https://github.com/apache/hertzbeat) - Apache HertzBeat(incubating) is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
+
+*   [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
+
+*   [tianshiyeben/wgcloud](https://github.com/tianshiyeben/wgcloud) - Host management and monitoring tools
+
+*   [zfile-dev/zfile](https://github.com/zfile-dev/zfile) - 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载
+
+*   [frank-lam/fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial) - 🚀 fullstack tutorial 2022，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试
+
+*   [angryip/ipscan](https://github.com/angryip/ipscan) - Angry IP Scanner - fast and friendly network scanner
+
+*   [filecoin-shipyard/java-filecoin-api-client](https://github.com/filecoin-shipyard/java-filecoin-api-client) - An API client for Filecoin implemented in Java
+
+*   [ndroi/easy163](https://github.com/ndroi/easy163) - 安卓端一键解锁网易云音乐，无须 ROOT
+
+*   [apache/kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
+
+*   [IndexOutOfBounds998/quant4j](https://github.com/IndexOutOfBounds998/quant4j) - 火币量化交易  指标组合策略  简单的数值策略  这个项目只是提供一个思路。
+
+*   [huanghaibin-dev/CalendarView](https://github.com/huanghaibin-dev/CalendarView) - RecyclerView? ListView or ViewGroup? No, it's Canvas! Ultra performance and free customization interface! Vertical and horizontal, Fast rendering and extremely low memory.  Android上一个优雅、万能自定义UI、仿iOS、自定义动画，支持垂直、水平方向切换、支持周视图、自定义周起始、性能高效的日历控件，热插拔实现UI定制！Canvas绘制，渲染速度快、占用内存低，你真的想不到日历居然还可以如此优雅。
+
+*   [meefik/linuxdeploy](https://github.com/meefik/linuxdeploy) - Install and run GNU/Linux on Android
+
+*   [proxyee-down-org/proxyee-down](https://github.com/proxyee-down-org/proxyee-down) - http下载工具，基于http代理，支持多连接分块下载
+
+*   [edu2act/course-foundation-software-tesing](https://github.com/edu2act/course-foundation-software-tesing) - 基础课程，《软件测试基础》课程仓库
+
+*   [chinashiyu/gfw.press](https://github.com/chinashiyu/gfw.press) - GFW.Press新一代军用级高强度加密抗干扰网络数据高速传输软件
+
+*   [jphp-group/jphp](https://github.com/jphp-group/jphp) - JPHP - an implementation of PHP on Java VM
+
+*   [googlesamples/easypermissions](https://github.com/googlesamples/easypermissions) - Simplify Android M system permissions
+
+*   [xnx3/templatespider](https://github.com/xnx3/templatespider) - 扒网站工具，看好哪个网站，指定好URL，自动扒下来做成模版。所见网站，皆可为我所用！
+
+*   [zwwill/yanxuan-weex-demo](https://github.com/zwwill/yanxuan-weex-demo) - :art: High quality  pure Weex demo / 网易严选 App 感受 Weex 开发
+
+*   [airbnb/lottie-android](https://github.com/airbnb/lottie-android) - Render After Effects animations natively on Android and iOS, Web, and React Native
 
 ## PHP
 
@@ -934,10 +984,6 @@
 
 *   [FriendsOfPHP/Goutte](https://github.com/FriendsOfPHP/Goutte) - Goutte, a simple PHP Web Scraper
 
-*   [typecho-fans/plugins](https://github.com/typecho-fans/plugins) - Typecho Fans插件作品目录
-
-*   [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
-
 ## TypeScript
 
 *   [easy-temps/vue3-vant-mobile](https://github.com/easy-temps/vue3-vant-mobile) - An mobile web apps template based on the Vue 3 ecosystem。一个基于 Vue 3 生态系统的移动 web 应用模板，帮助你快速完成业务开发。
@@ -1718,7 +1764,7 @@
 
 ## Shell
 
-*   [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  You've reached your trial request limit.  /  Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+*   [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine.
 
 *   [al0ne/LinuxCheck](https://github.com/al0ne/LinuxCheck) - Linux应急处置/信息搜集/漏洞检测工具，支持基础配置/网络流量/任务计划/环境变量/用户信息/Services/bash/恶意文件/内核Rootkit/SSH/Webshell/挖矿文件/挖矿进程/供应链/服务器风险等13类70+项检查
 
@@ -2823,52 +2869,6 @@
 *   [msys2/msys2.github.io](https://github.com/msys2/msys2.github.io) - The MSYS2 homepage
 
 *   [kphcdr/ppphp](https://github.com/kphcdr/ppphp) - php framework
-
-## Java
-
-*   [SuperMonster003/AutoJs6](https://github.com/SuperMonster003/AutoJs6) - 安卓平台 JavaScript 自动化工具 (Auto.js 二次开发项目)
-
-*   [981011512/--](https://github.com/981011512/--) - 停车场系统源码，新能源充电桩系统，停车场小程序，智能停车，Parking system，【功能介绍】：①兼容市面上主流的多家相机，理论上兼容所有硬件，可灵活扩展，②相机识别后数据自动上传到云端并记录，校验相机唯一id和硬件序列号，防止非法数据录入，③用户手机查询停车记录详情可自主缴费(支持微信，支付宝，银行接口支付，支持每个停车场指定不同的商户进行收款)，支付后出场在免费时间内会自动抬杆。④支持app上查询附近停车场(导航，可用车位数，停车场费用，优惠券，评分，评论等)，可预约车位。⑤断电断网支持岗亭人员使用app可接管硬件进行停车记录的录入。 【技术架构】：后端开发语言java，框架oauth2+springboot2+dubble，数据库mysql/mongodb/redis，即时通讯底层框架netty4，安卓和ios均为原生开发，后台管理模板vue专业定制
-
-*   [apache/hertzbeat](https://github.com/apache/hertzbeat) - Apache HertzBeat(incubating) is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
-
-*   [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
-
-*   [tianshiyeben/wgcloud](https://github.com/tianshiyeben/wgcloud) - Host management and monitoring tools
-
-*   [zfile-dev/zfile](https://github.com/zfile-dev/zfile) - 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载
-
-*   [frank-lam/fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial) - 🚀 fullstack tutorial 2022，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试
-
-*   [angryip/ipscan](https://github.com/angryip/ipscan) - Angry IP Scanner - fast and friendly network scanner
-
-*   [filecoin-shipyard/java-filecoin-api-client](https://github.com/filecoin-shipyard/java-filecoin-api-client) - An API client for Filecoin implemented in Java
-
-*   [ndroi/easy163](https://github.com/ndroi/easy163) - 安卓端一键解锁网易云音乐，无须 ROOT
-
-*   [apache/kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
-
-*   [IndexOutOfBounds998/quant4j](https://github.com/IndexOutOfBounds998/quant4j) - 火币量化交易  指标组合策略  简单的数值策略  这个项目只是提供一个思路。
-
-*   [huanghaibin-dev/CalendarView](https://github.com/huanghaibin-dev/CalendarView) - RecyclerView? ListView or ViewGroup? No, it's Canvas! Ultra performance and free customization interface! Vertical and horizontal, Fast rendering and extremely low memory.  Android上一个优雅、万能自定义UI、仿iOS、自定义动画，支持垂直、水平方向切换、支持周视图、自定义周起始、性能高效的日历控件，热插拔实现UI定制！Canvas绘制，渲染速度快、占用内存低，你真的想不到日历居然还可以如此优雅。
-
-*   [meefik/linuxdeploy](https://github.com/meefik/linuxdeploy) - Install and run GNU/Linux on Android
-
-*   [proxyee-down-org/proxyee-down](https://github.com/proxyee-down-org/proxyee-down) - http下载工具，基于http代理，支持多连接分块下载
-
-*   [edu2act/course-foundation-software-tesing](https://github.com/edu2act/course-foundation-software-tesing) - 基础课程，《软件测试基础》课程仓库
-
-*   [chinashiyu/gfw.press](https://github.com/chinashiyu/gfw.press) - GFW.Press新一代军用级高强度加密抗干扰网络数据高速传输软件
-
-*   [jphp-group/jphp](https://github.com/jphp-group/jphp) - JPHP - an implementation of PHP on Java VM
-
-*   [googlesamples/easypermissions](https://github.com/googlesamples/easypermissions) - Simplify Android M system permissions
-
-*   [xnx3/templatespider](https://github.com/xnx3/templatespider) - 扒网站工具，看好哪个网站，指定好URL，自动扒下来做成模版。所见网站，皆可为我所用！
-
-*   [zwwill/yanxuan-weex-demo](https://github.com/zwwill/yanxuan-weex-demo) - :art: High quality  pure Weex demo / 网易严选 App 感受 Weex 开发
-
-*   [airbnb/lottie-android](https://github.com/airbnb/lottie-android) - Render After Effects animations natively on Android and iOS, Web, and React Native
 
 ## Smarty
 
