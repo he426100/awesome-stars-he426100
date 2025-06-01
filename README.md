@@ -140,7 +140,7 @@
 
 *   [simps/mqtt](https://github.com/simps/mqtt) - 🕹 MQTT Protocol Analysis and Coroutine Client for PHP. Support for 3.1, 3.1.1 and 5.0 versions of the MQTT protocol.
 
-*   [php-tui/php-tui](https://github.com/php-tui/php-tui) - PHP TUI
+*   [php-tui/php-tui](https://github.com/php-tui/php-tui) - Make awesome console applications in PHP (port of Rust's Ratatui)
 
 *   [nacmartin/phpexecjs](https://github.com/nacmartin/phpexecjs) - Run JavaScript code from PHP
 
