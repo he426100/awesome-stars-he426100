@@ -412,8 +412,6 @@
 
 *   [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
 
-*   [yibn2008/find-process](https://github.com/yibn2008/find-process) - find process by port/pid/name etc.
-
 *   [nodejscn/node-api-cn](https://github.com/nodejscn/node-api-cn) - Node.js API 中文文档
 
 *   [rxaviers/async-pool](https://github.com/rxaviers/async-pool) - Run multiple promise-returning & async functions with limited concurrency using native ES6/ES7
@@ -974,6 +972,8 @@
 
 *   [szwacz/fs-jetpack](https://github.com/szwacz/fs-jetpack) - Better file system API for Node.js
 
+*   [yibn2008/find-process](https://github.com/yibn2008/find-process) - find process by port/pid/name etc.
+
 *   [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 
 *   [grafana/grafana-zabbix](https://github.com/grafana/grafana-zabbix) - Zabbix plugin for Grafana dashboard
@@ -1236,7 +1236,7 @@
 
 ## C++
 
-*   [jiegec/Termony](https://github.com/jiegec/Termony) - Termux for HarmonyOS Computer. Working in Progress.
+*   [TermonyHQ/Termony](https://github.com/TermonyHQ/Termony) - Termux for HarmonyOS Computer. Working in Progress.
 
 *   [BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk) - The Next Generation of Anti-Rookit(ARK) tool for Windows.
 
@@ -2812,7 +2812,7 @@
 
 *   [Mintimate/oh-my-rime](https://github.com/Mintimate/oh-my-rime) - The Simple Config Template Of Rime By Mintimate.  QQ Chat-Group: 703260572
 
-*   [Safe3/uuWAF](https://github.com/Safe3/uuWAF) - An industry-leading free, high-performance, AI and semantic technology Web Application Firewall and API Security Gateway (WAAP) - UUSEC WAF.
+*   [Safe3/uusec-waf](https://github.com/Safe3/uusec-waf) - An industry-leading free, high-performance, AI and semantic technology Web Application Firewall and API Security Gateway (WAAP) - UUSEC WAF.
 
 *   [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 
