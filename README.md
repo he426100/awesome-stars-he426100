@@ -1358,8 +1358,6 @@
 
 *   [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
 
-*   [freddiewalchwmf25/JieMa](https://github.com/freddiewalchwmf25/JieMa) - 2025年最新国外短信接码平台推荐（免费+付费）
-
 *   [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub) - 2025年7月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器
 
 *   [likuai2010/auto-installer](https://github.com/likuai2010/auto-installer) - HarmonyOS Next Hap installer
@@ -2715,6 +2713,8 @@
 *   [walkor/workerman](https://github.com/walkor/workerman) - An asynchronous event driven PHP socket framework. Supports HTTP, Websocket, SSL and other custom protocols.
 
 *   [catfan/Medoo](https://github.com/catfan/Medoo) - The lightweight PHP database framework to accelerate the development.
+
+*   [jasonweicn/miniframework](https://github.com/jasonweicn/miniframework) - MiniFramework 是一款遵循 Apache2 开源协议发布的，支持 MVC 和 RESTful 的超轻量级 PHP 开发框架。
 
 ## Shell
 
