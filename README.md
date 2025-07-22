@@ -342,6 +342,8 @@
 
 *   [mysticatea/eslint-plugin-node](https://github.com/mysticatea/eslint-plugin-node) - Additional ESLint's rules for Node.js
 
+*   [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
+
 *   [shisuiyou/query-lines-reader](https://github.com/shisuiyou/query-lines-reader) - Select multiline to read file. Support big file for nodejs
 
 *   [paigen11/file-read-challenge](https://github.com/paigen11/file-read-challenge) - Reading various data out of a very large dataset from a .txt file using NodeJS
@@ -1255,8 +1257,6 @@
 *   [VKCOM/kphp](https://github.com/VKCOM/kphp) - KPHP — a PHP compiler
 
 *   [libgeos/geos](https://github.com/libgeos/geos) - Geometry Engine, Open Source
-
-*   [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
 
 *   [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 
