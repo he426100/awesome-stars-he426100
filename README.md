@@ -582,6 +582,8 @@
 
 *   [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
 
+*   [kentcdodds/cross-env](https://github.com/kentcdodds/cross-env) - 🔀 Cross platform setting of environment scripts
+
 *   [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
 
 *   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
@@ -1089,8 +1091,6 @@
 *   [webpack/watchpack](https://github.com/webpack/watchpack) - Wrapper library for directory and file watching.
 
 *   [node-config/node-config](https://github.com/node-config/node-config) - Node.js Application Configuration
-
-*   [kentcdodds/cross-env](https://github.com/kentcdodds/cross-env) - 🔀 Cross platform setting of environment scripts
 
 *   [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 
