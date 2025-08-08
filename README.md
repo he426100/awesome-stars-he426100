@@ -36,7 +36,6 @@
 *   [C#](#c-2)
 *   [Markdown](#markdown)
 *   [Kotlin](#kotlin)
-*   [SCSS](#scss)
 *   [PowerShell](#powershell)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [MDX](#mdx)
@@ -44,6 +43,7 @@
 *   [Roff](#roff)
 *   [Haskell](#haskell)
 *   [Solidity](#solidity)
+*   [SCSS](#scss)
 *   [Ruby](#ruby)
 *   [R](#r)
 *   [Crystal](#crystal)
@@ -299,6 +299,8 @@
 *   [FeeiCN/Cobra](https://github.com/FeeiCN/Cobra) - Source Code Security Audit (源代码安全审计)
 
 *   [SublimeText/CTags](https://github.com/SublimeText/CTags) - CTags support for Sublime Text
+
+*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 ## TypeScript
 
@@ -795,8 +797,6 @@
 *   [ElemeFE/mint-ui](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js
 
 *   [TIGERB/easy-vue](https://github.com/TIGERB/easy-vue) - Learn vueJS Easily :ghost:
-
-*   [iview/iview-admin](https://github.com/iview/iview-admin) - Vue 2.0 admin management system template based on iView
 
 *   [bailichen/vue-weixin](https://github.com/bailichen/vue-weixin) - Vue2 全家桶仿 微信App 项目，支持多人在线聊天和机器人聊天
 
@@ -1436,8 +1436,6 @@
 
 *   [spatie/server-side-rendering](https://github.com/spatie/server-side-rendering) - Server side rendering JavaScript in a PHP application
 
-*   [wmhello/workManger](https://github.com/wmhello/workManger) - 简单易用的学校信息管理系统（管理教职工基础信息、教学过程、短信消息和模板消息发送 学校微信公众号管理 简单事项审批）
-
 *   [php-debugbar/php-debugbar](https://github.com/php-debugbar/php-debugbar) - Debug bar for PHP
 
 *   [bingcool/swoolefy](https://github.com/bingcool/swoolefy) - swoolefy是一个基于swoole实现的协程级、轻量级、高性能、开放性的API应用服务框架
@@ -1447,8 +1445,6 @@
 *   [wilon/php-number2chinese](https://github.com/wilon/php-number2chinese) - PHP 数字转为中文汉字描述、人民币大写方法。
 
 *   [spatie/crawler](https://github.com/spatie/crawler) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript.
-
-*   [twigphp/Twig](https://github.com/twigphp/Twig) - Twig, the flexible, fast, and secure template language for PHP
 
 *   [Seldaek/monolog](https://github.com/Seldaek/monolog) - Sends your logs to files, sockets, inboxes, databases and various web services
 
@@ -1646,9 +1642,15 @@
 
 *   [verot/class.upload.php](https://github.com/verot/class.upload.php) - This PHP class uploads files and manipulates images very easily. It is in fact as much as an image processing class than it is an upload class. Compatible with PHP 4, 5, 7 and 8. Supports processing of local files, uploaded files, files sent through XMLHttpRequest.
 
+*   [overtrue/easy-sms](https://github.com/overtrue/easy-sms) - 📲 一款满足你的多种发送需求的短信发送轮子
+
+*   [klein/klein.php](https://github.com/klein/klein.php) - A fast & flexible router
+
+*   [DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - Sample code for several design patterns in PHP 8.x
+
 ## miscellaneous
 
-*   [cexll/myclaude](https://github.com/cexll/myclaude) - Cladue Code Auto Workflow
+*   [cexll/myclaude](https://github.com/cexll/myclaude) - Cladue Code AI Team Workflow Sub Agents
 
 *   [AobingJava/JavaFamily](https://github.com/AobingJava/JavaFamily) - 【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 
@@ -2068,6 +2070,8 @@
 
 *   [CraryPrimitiveMan/create-your-own-php-framework](https://github.com/CraryPrimitiveMan/create-your-own-php-framework) - 构建自己的PHP框架
 
+*   [geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample) - Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板
+
 ## Java
 
 *   [dunwu/java-tutorial](https://github.com/dunwu/java-tutorial) - :coffee: 老司机在 Java 技术领域的十年积累。
@@ -2434,8 +2438,6 @@
 
 *   [skyselang/yylAdmin](https://github.com/skyselang/yylAdmin) - 基于ThinkPHP8和Vue3的极简后台管理系统，只有登录退出、权限管理、日志管理等前后台基础功能，简单轻量，开箱即用，前后分离，免费开源。
 
-*   [yalin28/vue-antdesign-admin-template](https://github.com/yalin28/vue-antdesign-admin-template) - Ant Design Pro Vue Template
-
 *   [WeBankFinTech/fes.js](https://github.com/WeBankFinTech/fes.js) - Fes.js 是一个基于 Vue 3 好用的前端应用解决方案。以约定、配置化、组件化的设计思想，让用户仅仅关心用组件搭建页面内容。技术曲线平缓，上手也简单。在经过多个项目中打磨后趋于稳定。丰富的 Vue 3 生态 和 Fes.js 插件，让业务开发更加简单快捷~
 
 *   [gongfuxiang/shopxo](https://github.com/gongfuxiang/shopxo) - ShopXO企业级免费开源商城系统，可视化DIY拖拽装修、包含PC、H5、多端小程序(微信+支付宝+百度+头条&抖音+QQ+快手)、APP、多仓库、多商户、多门店、IM客服，进销存遵循MIT开源协议发布、基于ThinkPHP8框架研发
@@ -2728,6 +2730,8 @@
 
 *   [hotoo/pinyin](https://github.com/hotoo/pinyin) - :cn: 汉字拼音 ➜ hàn zì pīn yīn
 
+*   [yunalading/yuncms](https://github.com/yunalading/yuncms) - YunCMS是基于ThinkPHP5框架的一套CMS系统，方便用户快速建立企业网站，门户网站，个人博客或其他系统的内容管理系统。
+
 ## C++
 
 *   [TermonyHQ/Termony](https://github.com/TermonyHQ/Termony) - Termux for HarmonyOS Computer. Working in Progress.
@@ -2915,8 +2919,6 @@
 *   [tianon/gosu](https://github.com/tianon/gosu) - Simple Go-based setuid+setgid+setgroups+exec
 
 *   [laravel/sail](https://github.com/laravel/sail) - Docker files for running a basic Laravel application.
-
-*   [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - NOTE: Most of the contents of this repository have been migrated to the new devcontainers GitHub org (https://github.com/devcontainers). See https://github.com/devcontainers/template-starter and https://github.com/devcontainers/feature-starter for information on creating your own!
 
 *   [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers
 
@@ -3202,18 +3204,6 @@
 
 *   [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
 
-## SCSS
-
-*   [xinlc/uniapp-vue3-ts-template](https://github.com/xinlc/uniapp-vue3-ts-template) - uni-app + Vue3 + Vite3 + Pinia + TypeScript + UnoCSS 基础框架
-
-*   [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
-
-*   [filecoin-project/specs](https://github.com/filecoin-project/specs) - The Filecoin protocol specification
-
-*   [mdbootstrap/mdb-vue-ui-kit](https://github.com/mdbootstrap/mdb-vue-ui-kit) - Vue 3 & Bootstrap 5 & Material Design 2.0 UI KIT
-
-*   [mdo/code-guide](https://github.com/mdo/code-guide) - Standards for developing consistent, flexible, and sustainable HTML and CSS.
-
 ## PowerShell
 
 *   [apnpc/git-learnnig](https://github.com/apnpc/git-learnnig) - 快速掌握 Git 的基本概念和使用方法
@@ -3269,6 +3259,16 @@
 *   [AmazingAng/WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) - WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy
 
 *   [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
+
+## SCSS
+
+*   [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
+
+*   [filecoin-project/specs](https://github.com/filecoin-project/specs) - The Filecoin protocol specification
+
+*   [mdbootstrap/mdb-vue-ui-kit](https://github.com/mdbootstrap/mdb-vue-ui-kit) - Vue 3 & Bootstrap 5 & Material Design 2.0 UI KIT
+
+*   [mdo/code-guide](https://github.com/mdo/code-guide) - Standards for developing consistent, flexible, and sustainable HTML and CSS.
 
 ## Ruby
 
