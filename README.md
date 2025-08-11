@@ -454,6 +454,8 @@
 
 *   [sequelize/sequelize-auto](https://github.com/sequelize/sequelize-auto) - Automatically generate bare sequelize models from your database.
 
+*   [ecomfe/vue-echarts](https://github.com/ecomfe/vue-echarts) - Vue.js component for Apache ECharts™.
+
 *   [umbrella22/electron-vue-template](https://github.com/umbrella22/electron-vue-template) - An Electron & Vue.js quick start
 
 *   [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
@@ -2425,8 +2427,6 @@
 *   [nklayman/vue-cli-plugin-electron-builder](https://github.com/nklayman/vue-cli-plugin-electron-builder) - Easily Build Your Vue.js App For Desktop With Electron
 
 *   [exceljs/exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
-
-*   [ecomfe/vue-echarts](https://github.com/ecomfe/vue-echarts) - Vue.js component for Apache ECharts™.
 
 *   [mubaidr/vue-electron-template](https://github.com/mubaidr/vue-electron-template) - An Electron & Vue.js template with Hot-reloading enabled and common Vue plugins, dev, debug and build scripts configured.
 
