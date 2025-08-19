@@ -16,10 +16,10 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [Dart](#dart)
 *   [Shell](#shell)
 *   [Python](#python)
-*   [TypeScript](#typescript)
 *   [Go](#go)
 *   [Vue](#vue)
 *   [PHP](#php)
@@ -58,6 +58,256 @@
 *   [Clojure](#clojure)
 *   [Blade](#blade)
 *   [Thanks](#thanks)
+
+## TypeScript
+
+*   [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome) - Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.
+
+*   [Buywatermelon/claude-relay-monorepo](https://github.com/Buywatermelon/claude-relay-monorepo) - 一个现代化的 Claude API 代理服务，基于 Cloudflare Workers 构建
+
+*   [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+
+*   [Haleclipse/Claudiatron](https://github.com/Haleclipse/Claudiatron) -
+
+*   [jae-jae/g-search-mcp](https://github.com/jae-jae/g-search-mcp) - A powerful MCP server for Google search that enables parallel searching with multiple keywords simultaneously.
+
+*   [jae-jae/fetcher-mcp](https://github.com/jae-jae/fetcher-mcp) - MCP server for fetch web page content using Playwright headless browser.
+
+*   [vue-zone/vue3-vant-mobile](https://github.com/vue-zone/vue3-vant-mobile) - An mobile web apps template based on the Vue 3 ecosystem。一个基于 Vue 3 生态系统的移动 web 应用模板，帮助你快速完成业务开发。
+
+*   [AmoyLab/Unla](https://github.com/AmoyLab/Unla) - 🧩 MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes. Features Docker deployment and management UI, requiring no infrastructure modifications.
+
+*   [oslook/cursor-ai-downloads](https://github.com/oslook/cursor-ai-downloads) - All Cursor AI's official download links for both the latest and older versions, making it easy for you to update, downgrade, and choose any version. 🚀
+
+*   [unibest-tech/unibest](https://github.com/unibest-tech/unibest) - unibest - 最好用的 uniapp 开发框架。unibest 是由 uniapp + Vue3 + Ts + Vite5 + UnoCss + WotUI 驱动的跨端快速启动模板，使用 VS Code 开发，具有代码提示、自动格式化、统一配置、代码片段等功能，同时内置了大量平时开发常用的基本组件，开箱即用，让你编写 uniapp 拥有 best 体验。
+
+*   [Ares-Chang/uni-vitesse](https://github.com/Ares-Chang/uni-vitesse) - 使用 Vitesse cli 而不是 HbuildX 获得 double 的开发快乐! Uniapp + Vue 3 + TS + UnoCSS template
+
+*   [chengpeiquan/learning-vue3](https://github.com/chengpeiquan/learning-vue3) - 超过 230w+ 阅读人次的《Vue3 入门指南与实战案例》，关于前端工程化开发的基础知识点，以及 TypeScript 、 Vue 3 、 Pinia 的入门学习指南。
+
+*   [yang1206/uniapp-template](https://github.com/yang1206/uniapp-template) - 基于vite，unocss和typescript的uniapp起始模版
+
+*   [ttk-cli/uni-vue3-vite-ts-pinia](https://github.com/ttk-cli/uni-vue3-vite-ts-pinia) - A template for uniapp with vue3.
+
+*   [korbinjoe/excalidraw-cn](https://github.com/korbinjoe/excalidraw-cn) - Excalidraw-CN 是支持中文手写和多画布的 Excalidraw 白板工具。Excalidraw-CN  is a whiteboard supporting Chinese hand draw font and multi-canvas based on Excalidraw.
+
+*   [codercup/unibest](https://github.com/codercup/unibest) - unibest - 最好用的 uniapp 开发框架。unibest 是由 uniapp + Vue3 + Ts + Vite4 + UnoCss + UniUI 驱动的跨端快速启动模板，使用 VS Code 开发，具有代码提示、自动格式化、统一配置、代码片段等功能，同时内置了大量平时开发常用的基本组件，开箱即用，让你编写 uniapp 拥有 best 体验。
+
+*   [ATQQ/uni-vue3-ts-template](https://github.com/ATQQ/uni-vue3-ts-template) - 开箱即用的uni-app vue3 TS 工程化模板项目，支持小程序/H5/APP开发使用，包含pinia，sass/less，axios，vitest，eslint，Unocss
+
+*   [CoderYiXin/unveilr](https://github.com/CoderYiXin/unveilr) - 一款小程序安全评估工具
+
+*   [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.
+
+*   [antdv-pro/antdv-pro](https://github.com/antdv-pro/antdv-pro) - An antdv-based middle and background management system
+
+*   [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
+
+*   [shivammathur/setup-php](https://github.com/shivammathur/setup-php) - GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools.
+
+*   [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
+
+*   [lyswhut/lx-music-mobile](https://github.com/lyswhut/lx-music-mobile) - 一个基于 React native 开发的音乐软件
+
+*   [futantan/OpenGpt](https://github.com/futantan/OpenGpt) - Create your own ChatGPT App in seconds.
+
+*   [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+
+*   [prompt-engineering/click-prompt](https://github.com/prompt-engineering/click-prompt) - ClickPrompt - Streamline your prompt design, with ClickPrompt, you can easily view, share, and run these prompts with just one click.  ClickPrompt 用于一键轻松查看、分享和执行您的 Prompt。
+
+*   [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity, support for English,中文,Español,العربية. 让生产力加倍的AI快捷指令。更有效地定制、保存和分享自己的提示词。在提示词分享社区中，轻松找到适用于不同场景的指令。
+
+*   [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) - Elegant and Powerfull. Powered by OpenAI and Vercel.
+
+*   [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
+
+*   [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
+
+*   [anse-app/chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal web UI for ChatGPT.
+
+*   [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) - An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
+
+*   [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Your API ⇒ Paid MCP. Instantly.
+
+*   [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
+
+*   [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
+
+*   [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty
+
+*   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
+
+*   [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
+
+*   [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
+
+*   [zebra-ui/zebra-swiper](https://github.com/zebra-ui/zebra-swiper) - 兼容多端的高性能轮播组件库，支持多种复杂的 3D 轮播效果。
+
+*   [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo) - Ethereum L1 Protocol Stack and EVM in TypeScript
+
+*   [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
+
+*   [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
+
+*   [ethereumjs/ethereumjs-wallet](https://github.com/ethereumjs/ethereumjs-wallet) - Utilities for handling Ethereum keys
+
+*   [mufancom/remote-workspace](https://github.com/mufancom/remote-workspace) - A simple solution enabling one-workspace-per-feature development.
+
+*   [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
+
+*   [aweiu/dm.dll](https://github.com/aweiu/dm.dll) - JS 版按键精灵（大漠插件）
+
+*   [redis/ioredis](https://github.com/redis/ioredis) - 🚀 A robust, performance-focused, and full-featured Redis client for Node.js.
+
+*   [redis/node-redis](https://github.com/redis/node-redis) - Redis Node.js client
+
+*   [thecodrr/fdir](https://github.com/thecodrr/fdir) - ⚡ The fastest directory crawler & globbing library for NodeJS. Crawls 1m files in < 1s
+
+*   [isaacs/node-glob](https://github.com/isaacs/node-glob) - glob functionality for node.js
+
+*   [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
+
+*   [kentcdodds/cross-env](https://github.com/kentcdodds/cross-env) - 🔀 Cross platform setting of environment scripts
+
+*   [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
+
+*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
+
+*   [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node\_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
+
+*   [szwacz/fs-jetpack](https://github.com/szwacz/fs-jetpack) - Better file system API for Node.js
+
+*   [yibn2008/find-process](https://github.com/yibn2008/find-process) - find process by port/pid/name etc.
+
+*   [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
+
+*   [grafana/grafana-zabbix](https://github.com/grafana/grafana-zabbix) - Zabbix plugin for Grafana dashboard
+
+*   [filecoin-shipyard/filecoin.js](https://github.com/filecoin-shipyard/filecoin.js) - A JavaScript (and TypeScript) library for interacting with the Filecoin's Lotus node, with support for external signers.
+
+*   [tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun) - Easily generate flowcharts and diagrams from text ⿻
+
+*   [RemoteDebug/remotedebug-ios-webkit-adapter](https://github.com/RemoteDebug/remotedebug-ios-webkit-adapter) - Debug Safari and WebViews on iOS from tools like VS Code and Chrome DevTools
+
+*   [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
+
+*   [any86/any-rule](https://github.com/any86/any-rule) - 🦕  常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台
+
+*   [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
+
+*   [koajs/koa-body](https://github.com/koajs/koa-body) - koa body parser middleware
+
+*   [astroboy-lab/astroboy](https://github.com/astroboy-lab/astroboy) - Astroboy（阿童木）is a Nodejs SFB(Separation of Front and Back ends) framework, built on koa2.
+
+*   [oleksiikhr/vue-stripe-menu](https://github.com/oleksiikhr/vue-stripe-menu) - Creating a navigation menu with animations like on Stripe
+
+*   [YishaiBerg/vue-dynamic-marquee](https://github.com/YishaiBerg/vue-dynamic-marquee) - Marquee component for Vue - repeatedly translate content across wrapper. Completely responsive to after-render changes with many options to customize.
+
+*   [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
+
+*   [felixrieseberg/windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) - :package: Install C++ Build Tools for Windows using npm
+
+*   [empjs/emp](https://github.com/empjs/emp) - EMP Micro FE Base on Rspack & module federation
+
+*   [umijs/qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
+
+*   [sequelize/sequelize-auto](https://github.com/sequelize/sequelize-auto) - Automatically generate bare sequelize models from your database.
+
+*   [ecomfe/vue-echarts](https://github.com/ecomfe/vue-echarts) - Vue.js component for Apache ECharts™.
+
+*   [umbrella22/electron-vue-template](https://github.com/umbrella22/electron-vue-template) - An Electron & Vue.js quick start
+
+*   [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
+
+*   [vercel-community/php](https://github.com/vercel-community/php) - 🐘 PHP Runtime for ▲ Vercel Serverless Functions (support 7.4-8.3)
+
+*   [sparrow-js/sparrow](https://github.com/sparrow-js/sparrow) - 🎉场景化低代码（LowCode）搭建工作台，实时输出源代码
+
+*   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
+
+*   [nefe/number-precision](https://github.com/nefe/number-precision) - 🚀1K tiny & fast lib for doing addition, subtraction, multiplication and division operations precisely
+
+*   [wkl007/vue-wechat-login](https://github.com/wkl007/vue-wechat-login) - Vue 3.0 + TypeScript 微信网页授权登录示例
+
+*   [bytedance/IconPark](https://github.com/bytedance/IconPark) - 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
+
+*   [ustbhuangyi/better-scroll](https://github.com/ustbhuangyi/better-scroll) - :scroll: inspired by iscroll, and it supports more features and has a better scroll perfermance
+
+*   [ant-design/ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - Essential UI blocks for building mobile web apps.
+
+*   [yiminghe/async-validator](https://github.com/yiminghe/async-validator) - validate form asynchronous
+
+*   [hylerrix/deno-tutorial](https://github.com/hylerrix/deno-tutorial) - :sauropod: 长期更新的《Deno 钻研之术》！循序渐进学 Deno & 先易后难补 Node & 面向未来的 Deno Web 应用开发
+
+*   [xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) - TypeScript 入门教程
+
+*   [zhongsp/TypeScript](https://github.com/zhongsp/TypeScript) - TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org
+
+*   [emqx/MQTTX](https://github.com/emqx/MQTTX) - A Powerful and All-in-One MQTT 5.0 client toolbox for Desktop, CLI and WebSocket.
+
+*   [mqttjs/MQTT.js](https://github.com/mqttjs/MQTT.js) - The MQTT client for Node.js and the browser
+
+*   [Vanessa219/vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
+
+*   [mcuking/mobile-web-best-practice](https://github.com/mcuking/mobile-web-best-practice) - :tiger: 移动 web 最佳实践
+
+*   [sunniejs/vue-h5-template](https://github.com/sunniejs/vue-h5-template) - :tada:vue搭建移动端开发,基于vue-cli4.0+webpack 4+vant ui + sass+ rem适配方案+axios封装，构建手机端模板脚手架
+
+*   [alibaba/lightproxy](https://github.com/alibaba/lightproxy) - 💎 Cross platform Web debugging proxy
+
+*   [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
+
+*   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+
+*   [Tencent/vConsole](https://github.com/Tencent/vConsole) - A lightweight, extendable front-end developer tool for mobile web page.
+
+*   [Jigsaw-Code/outline-apps](https://github.com/Jigsaw-Code/outline-apps) - Outline Client and Manager, developed by Jigsaw. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them access to the free and open internet.
+
+*   [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
+
+*   [Pana/nrm](https://github.com/Pana/nrm) - NPM registry manager, fast switch between different registries: npm, cnpm, nj, taobao
+
+*   [tradingview/charting-library-examples](https://github.com/tradingview/charting-library-examples) - Examples of Charting Library integrations with other libraries, frameworks and data transports
+
+*   [472647301/tradingview-web-socket](https://github.com/472647301/tradingview-web-socket) - The tradingView middle layer for Vue/React, supports https+websocket mode and websocket single mode
+
+*   [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
+
+*   [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
+
+*   [fengyuanchen/vue-qrcode](https://github.com/fengyuanchen/vue-qrcode) - QR code component for Vue.js
+
+*   [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
+
+*   [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
+
+*   [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
+
+*   [liximomo/vscode-sftp](https://github.com/liximomo/vscode-sftp) - Super fast sftp/ftp extension for VS Code
+
+*   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
+
+*   [alibaba/ice](https://github.com/alibaba/ice) - 🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
+
+*   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+
+*   [pieroxy/lz-string](https://github.com/pieroxy/lz-string) - LZ-based compression algorithm for JavaScript
+
+*   [Caligatio/jsSHA](https://github.com/Caligatio/jsSHA) - A JavaScript/TypeScript implementation of the complete Secure Hash Standard (SHA) family (SHA-1, SHA-224/256/384/512, SHA3-224/256/384/512, SHAKE128/256, cSHAKE128/256, and KMAC128/256) with HMAC.
+
+*   [midwayjs/pandora](https://github.com/midwayjs/pandora) - A Manageable, Measurable and Traceable Node.js Application Manager represented by Alibaba powered by TypeScript
+
+*   [youzan/zent](https://github.com/youzan/zent) - A collection of essential UI components written with React.
+
+*   [youzan/vant](https://github.com/youzan/vant) - A lightweight, customizable Vue UI library for mobile web apps.
+
+*   [vuejs/devtools-v6](https://github.com/vuejs/devtools-v6) - ⚙️ Browser devtools extension for debugging Vue.js applications.
+
+*   [notadd/notadd](https://github.com/notadd/notadd) - A microservice development architecture based on nest.js. —— 基于 Nest.js 的微服务开发架构。
+
+*   [logaretm/vee-validate](https://github.com/logaretm/vee-validate) - ✅  Painless Vue forms
+
+*   [auth0/jwt-decode](https://github.com/auth0/jwt-decode) - Decode JWT tokens; useful for browser applications.
 
 ## Dart
 
@@ -357,254 +607,6 @@
 
 *   [SublimeText/CTags](https://github.com/SublimeText/CTags) - CTags support for Sublime Text
 
-## TypeScript
-
-*   [Buywatermelon/claude-relay-monorepo](https://github.com/Buywatermelon/claude-relay-monorepo) - 一个现代化的 Claude API 代理服务，基于 Cloudflare Workers 构建
-
-*   [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
-
-*   [Haleclipse/Claudiatron](https://github.com/Haleclipse/Claudiatron) -
-
-*   [jae-jae/g-search-mcp](https://github.com/jae-jae/g-search-mcp) - A powerful MCP server for Google search that enables parallel searching with multiple keywords simultaneously.
-
-*   [jae-jae/fetcher-mcp](https://github.com/jae-jae/fetcher-mcp) - MCP server for fetch web page content using Playwright headless browser.
-
-*   [vue-zone/vue3-vant-mobile](https://github.com/vue-zone/vue3-vant-mobile) - An mobile web apps template based on the Vue 3 ecosystem。一个基于 Vue 3 生态系统的移动 web 应用模板，帮助你快速完成业务开发。
-
-*   [AmoyLab/Unla](https://github.com/AmoyLab/Unla) - 🧩 MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes. Features Docker deployment and management UI, requiring no infrastructure modifications.
-
-*   [oslook/cursor-ai-downloads](https://github.com/oslook/cursor-ai-downloads) - All Cursor AI's official download links for both the latest and older versions, making it easy for you to update, downgrade, and choose any version. 🚀
-
-*   [unibest-tech/unibest](https://github.com/unibest-tech/unibest) - unibest - 最好用的 uniapp 开发框架。unibest 是由 uniapp + Vue3 + Ts + Vite5 + UnoCss + WotUI 驱动的跨端快速启动模板，使用 VS Code 开发，具有代码提示、自动格式化、统一配置、代码片段等功能，同时内置了大量平时开发常用的基本组件，开箱即用，让你编写 uniapp 拥有 best 体验。
-
-*   [Ares-Chang/uni-vitesse](https://github.com/Ares-Chang/uni-vitesse) - 使用 Vitesse cli 而不是 HbuildX 获得 double 的开发快乐! Uniapp + Vue 3 + TS + UnoCSS template
-
-*   [chengpeiquan/learning-vue3](https://github.com/chengpeiquan/learning-vue3) - 超过 230w+ 阅读人次的《Vue3 入门指南与实战案例》，关于前端工程化开发的基础知识点，以及 TypeScript 、 Vue 3 、 Pinia 的入门学习指南。
-
-*   [yang1206/uniapp-template](https://github.com/yang1206/uniapp-template) - 基于vite，unocss和typescript的uniapp起始模版
-
-*   [ttk-cli/uni-vue3-vite-ts-pinia](https://github.com/ttk-cli/uni-vue3-vite-ts-pinia) - A template for uniapp with vue3.
-
-*   [korbinjoe/excalidraw-cn](https://github.com/korbinjoe/excalidraw-cn) - Excalidraw-CN 是支持中文手写和多画布的 Excalidraw 白板工具。Excalidraw-CN  is a whiteboard supporting Chinese hand draw font and multi-canvas based on Excalidraw.
-
-*   [codercup/unibest](https://github.com/codercup/unibest) - unibest - 最好用的 uniapp 开发框架。unibest 是由 uniapp + Vue3 + Ts + Vite4 + UnoCss + UniUI 驱动的跨端快速启动模板，使用 VS Code 开发，具有代码提示、自动格式化、统一配置、代码片段等功能，同时内置了大量平时开发常用的基本组件，开箱即用，让你编写 uniapp 拥有 best 体验。
-
-*   [ATQQ/uni-vue3-ts-template](https://github.com/ATQQ/uni-vue3-ts-template) - 开箱即用的uni-app vue3 TS 工程化模板项目，支持小程序/H5/APP开发使用，包含pinia，sass/less，axios，vitest，eslint，Unocss
-
-*   [CoderYiXin/unveilr](https://github.com/CoderYiXin/unveilr) - 一款小程序安全评估工具
-
-*   [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.
-
-*   [antdv-pro/antdv-pro](https://github.com/antdv-pro/antdv-pro) - An antdv-based middle and background management system
-
-*   [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
-
-*   [shivammathur/setup-php](https://github.com/shivammathur/setup-php) - GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools.
-
-*   [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
-
-*   [lyswhut/lx-music-mobile](https://github.com/lyswhut/lx-music-mobile) - 一个基于 React native 开发的音乐软件
-
-*   [futantan/OpenGpt](https://github.com/futantan/OpenGpt) - Create your own ChatGPT App in seconds.
-
-*   [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
-
-*   [prompt-engineering/click-prompt](https://github.com/prompt-engineering/click-prompt) - ClickPrompt - Streamline your prompt design, with ClickPrompt, you can easily view, share, and run these prompts with just one click.  ClickPrompt 用于一键轻松查看、分享和执行您的 Prompt。
-
-*   [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity, support for English,中文,Español,العربية. 让生产力加倍的AI快捷指令。更有效地定制、保存和分享自己的提示词。在提示词分享社区中，轻松找到适用于不同场景的指令。
-
-*   [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) - Elegant and Powerfull. Powered by OpenAI and Vercel.
-
-*   [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
-
-*   [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
-
-*   [anse-app/chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal web UI for ChatGPT.
-
-*   [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) - An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
-
-*   [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Your API ⇒ Paid MCP. Instantly.
-
-*   [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
-
-*   [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-
-*   [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty
-
-*   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
-
-*   [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
-
-*   [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
-
-*   [zebra-ui/zebra-swiper](https://github.com/zebra-ui/zebra-swiper) - 兼容多端的高性能轮播组件库，支持多种复杂的 3D 轮播效果。
-
-*   [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo) - Ethereum L1 Protocol Stack and EVM in TypeScript
-
-*   [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
-
-*   [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
-
-*   [ethereumjs/ethereumjs-wallet](https://github.com/ethereumjs/ethereumjs-wallet) - Utilities for handling Ethereum keys
-
-*   [mufancom/remote-workspace](https://github.com/mufancom/remote-workspace) - A simple solution enabling one-workspace-per-feature development.
-
-*   [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
-
-*   [aweiu/dm.dll](https://github.com/aweiu/dm.dll) - JS 版按键精灵（大漠插件）
-
-*   [redis/ioredis](https://github.com/redis/ioredis) - 🚀 A robust, performance-focused, and full-featured Redis client for Node.js.
-
-*   [redis/node-redis](https://github.com/redis/node-redis) - Redis Node.js client
-
-*   [thecodrr/fdir](https://github.com/thecodrr/fdir) - ⚡ The fastest directory crawler & globbing library for NodeJS. Crawls 1m files in < 1s
-
-*   [isaacs/node-glob](https://github.com/isaacs/node-glob) - glob functionality for node.js
-
-*   [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
-
-*   [kentcdodds/cross-env](https://github.com/kentcdodds/cross-env) - 🔀 Cross platform setting of environment scripts
-
-*   [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
-
-*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-
-*   [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node\_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
-
-*   [szwacz/fs-jetpack](https://github.com/szwacz/fs-jetpack) - Better file system API for Node.js
-
-*   [yibn2008/find-process](https://github.com/yibn2008/find-process) - find process by port/pid/name etc.
-
-*   [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
-
-*   [grafana/grafana-zabbix](https://github.com/grafana/grafana-zabbix) - Zabbix plugin for Grafana dashboard
-
-*   [filecoin-shipyard/filecoin.js](https://github.com/filecoin-shipyard/filecoin.js) - A JavaScript (and TypeScript) library for interacting with the Filecoin's Lotus node, with support for external signers.
-
-*   [tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun) - Easily generate flowcharts and diagrams from text ⿻
-
-*   [RemoteDebug/remotedebug-ios-webkit-adapter](https://github.com/RemoteDebug/remotedebug-ios-webkit-adapter) - Debug Safari and WebViews on iOS from tools like VS Code and Chrome DevTools
-
-*   [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
-
-*   [any86/any-rule](https://github.com/any86/any-rule) - 🦕  常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台
-
-*   [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
-
-*   [koajs/koa-body](https://github.com/koajs/koa-body) - koa body parser middleware
-
-*   [astroboy-lab/astroboy](https://github.com/astroboy-lab/astroboy) - Astroboy（阿童木）is a Nodejs SFB(Separation of Front and Back ends) framework, built on koa2.
-
-*   [oleksiikhr/vue-stripe-menu](https://github.com/oleksiikhr/vue-stripe-menu) - Creating a navigation menu with animations like on Stripe
-
-*   [YishaiBerg/vue-dynamic-marquee](https://github.com/YishaiBerg/vue-dynamic-marquee) - Marquee component for Vue - repeatedly translate content across wrapper. Completely responsive to after-render changes with many options to customize.
-
-*   [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
-
-*   [felixrieseberg/windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) - :package: Install C++ Build Tools for Windows using npm
-
-*   [empjs/emp](https://github.com/empjs/emp) - EMP Micro FE Base on Rspack & module federation
-
-*   [umijs/qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
-
-*   [sequelize/sequelize-auto](https://github.com/sequelize/sequelize-auto) - Automatically generate bare sequelize models from your database.
-
-*   [ecomfe/vue-echarts](https://github.com/ecomfe/vue-echarts) - Vue.js component for Apache ECharts™.
-
-*   [umbrella22/electron-vue-template](https://github.com/umbrella22/electron-vue-template) - An Electron & Vue.js quick start
-
-*   [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
-
-*   [vercel-community/php](https://github.com/vercel-community/php) - 🐘 PHP Runtime for ▲ Vercel Serverless Functions (support 7.4-8.3)
-
-*   [sparrow-js/sparrow](https://github.com/sparrow-js/sparrow) - 🎉场景化低代码（LowCode）搭建工作台，实时输出源代码
-
-*   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
-
-*   [nefe/number-precision](https://github.com/nefe/number-precision) - 🚀1K tiny & fast lib for doing addition, subtraction, multiplication and division operations precisely
-
-*   [wkl007/vue-wechat-login](https://github.com/wkl007/vue-wechat-login) - Vue 3.0 + TypeScript 微信网页授权登录示例
-
-*   [bytedance/IconPark](https://github.com/bytedance/IconPark) - 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
-
-*   [ustbhuangyi/better-scroll](https://github.com/ustbhuangyi/better-scroll) - :scroll: inspired by iscroll, and it supports more features and has a better scroll perfermance
-
-*   [ant-design/ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - Essential UI blocks for building mobile web apps.
-
-*   [yiminghe/async-validator](https://github.com/yiminghe/async-validator) - validate form asynchronous
-
-*   [hylerrix/deno-tutorial](https://github.com/hylerrix/deno-tutorial) - :sauropod: 长期更新的《Deno 钻研之术》！循序渐进学 Deno & 先易后难补 Node & 面向未来的 Deno Web 应用开发
-
-*   [xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) - TypeScript 入门教程
-
-*   [zhongsp/TypeScript](https://github.com/zhongsp/TypeScript) - TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org
-
-*   [emqx/MQTTX](https://github.com/emqx/MQTTX) - A Powerful and All-in-One MQTT 5.0 client toolbox for Desktop, CLI and WebSocket.
-
-*   [mqttjs/MQTT.js](https://github.com/mqttjs/MQTT.js) - The MQTT client for Node.js and the browser
-
-*   [Vanessa219/vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
-
-*   [mcuking/mobile-web-best-practice](https://github.com/mcuking/mobile-web-best-practice) - :tiger: 移动 web 最佳实践
-
-*   [sunniejs/vue-h5-template](https://github.com/sunniejs/vue-h5-template) - :tada:vue搭建移动端开发,基于vue-cli4.0+webpack 4+vant ui + sass+ rem适配方案+axios封装，构建手机端模板脚手架
-
-*   [alibaba/lightproxy](https://github.com/alibaba/lightproxy) - 💎 Cross platform Web debugging proxy
-
-*   [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
-
-*   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
-
-*   [Tencent/vConsole](https://github.com/Tencent/vConsole) - A lightweight, extendable front-end developer tool for mobile web page.
-
-*   [Jigsaw-Code/outline-apps](https://github.com/Jigsaw-Code/outline-apps) - Outline Client and Manager, developed by Jigsaw. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them access to the free and open internet.
-
-*   [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
-
-*   [Pana/nrm](https://github.com/Pana/nrm) - NPM registry manager, fast switch between different registries: npm, cnpm, nj, taobao
-
-*   [tradingview/charting-library-examples](https://github.com/tradingview/charting-library-examples) - Examples of Charting Library integrations with other libraries, frameworks and data transports
-
-*   [472647301/tradingview-web-socket](https://github.com/472647301/tradingview-web-socket) - The tradingView middle layer for Vue/React, supports https+websocket mode and websocket single mode
-
-*   [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
-
-*   [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
-
-*   [fengyuanchen/vue-qrcode](https://github.com/fengyuanchen/vue-qrcode) - QR code component for Vue.js
-
-*   [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
-
-*   [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
-
-*   [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
-
-*   [liximomo/vscode-sftp](https://github.com/liximomo/vscode-sftp) - Super fast sftp/ftp extension for VS Code
-
-*   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
-
-*   [alibaba/ice](https://github.com/alibaba/ice) - 🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
-
-*   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-
-*   [pieroxy/lz-string](https://github.com/pieroxy/lz-string) - LZ-based compression algorithm for JavaScript
-
-*   [Caligatio/jsSHA](https://github.com/Caligatio/jsSHA) - A JavaScript/TypeScript implementation of the complete Secure Hash Standard (SHA) family (SHA-1, SHA-224/256/384/512, SHA3-224/256/384/512, SHAKE128/256, cSHAKE128/256, and KMAC128/256) with HMAC.
-
-*   [midwayjs/pandora](https://github.com/midwayjs/pandora) - A Manageable, Measurable and Traceable Node.js Application Manager represented by Alibaba powered by TypeScript
-
-*   [youzan/zent](https://github.com/youzan/zent) - A collection of essential UI components written with React.
-
-*   [youzan/vant](https://github.com/youzan/vant) - A lightweight, customizable Vue UI library for mobile web apps.
-
-*   [vuejs/devtools-v6](https://github.com/vuejs/devtools-v6) - ⚙️ Browser devtools extension for debugging Vue.js applications.
-
-*   [notadd/notadd](https://github.com/notadd/notadd) - A microservice development architecture based on nest.js. —— 基于 Nest.js 的微服务开发架构。
-
-*   [logaretm/vee-validate](https://github.com/logaretm/vee-validate) - ✅  Painless Vue forms
-
-*   [auth0/jwt-decode](https://github.com/auth0/jwt-decode) - Decode JWT tokens; useful for browser applications.
-
 ## Go
 
 *   [tbphp/gpt-load](https://github.com/tbphp/gpt-load) - 智能密钥轮询的多渠道 AI 代理。 Multi-channel AI proxy with intelligent key rotation.
@@ -867,7 +869,7 @@
 
 *   [pfinalclub/coze-php](https://github.com/pfinalclub/coze-php) -
 
-*   [dtyq/magic](https://github.com/dtyq/magic) - Super Magic (超级麦吉). The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
+*   [dtyq/magic](https://github.com/dtyq/magic) - Super Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
 
 *   [imliam/cpx](https://github.com/imliam/cpx) - Run any command from any composer package, even if it's not installed in your project.
 
@@ -2200,8 +2202,6 @@
 *   [uappkit/uapp](https://github.com/uappkit/uapp) - uapp是一款基于uni-app跨平台开发的高效cli。 源自自有产品跨平台的最佳实践，通过集成 uni-app, electron, tauri，让开发者仅需维护一套代码，就能横跨所有平台。uapp助开发者无限制重构一切软件。
 
 *   [luzhisheng/js\_reverse](https://github.com/luzhisheng/js_reverse) - 主要用来收集/学习爬虫相关技术如：js逆向、app逆向、抓包、验证码、加密技术、自动化技术、机器学习。
-
-*   [sfter/evm-inscription-mint](https://github.com/sfter/evm-inscription-mint) - 兼容 evm 的铭文 Mint 工具
 
 *   [rosswintle/can-i-php](https://github.com/rosswintle/can-i-php) - caniuse.com but for PHP - a searchable list of new and deprecated features in recent PHP versions
 
