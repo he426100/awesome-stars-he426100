@@ -1075,7 +1075,7 @@
 
 ## Go
 
-*   [tbphp/gpt-load](https://github.com/tbphp/gpt-load) - 智能密钥轮询的多渠道 AI 代理。 Multi-channel AI proxy with intelligent key rotation.
+*   [tbphp/gpt-load](https://github.com/tbphp/gpt-load) - Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。
 
 *   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
 
@@ -3303,7 +3303,7 @@
 
 ## Objective-C
 
-*   [iodefog/VipVideo](https://github.com/iodefog/VipVideo) - 各大网站vip视频、世界杯直播（CCTV5）免费观看 - Mac版。付费电影，VIP会员剧等，去广告播放。自用视频或者电影URL，音乐破解URL，CCTV等电视播放URL，爱奇艺、腾讯视频、芒果视频、bilibili、美剧、韩剧、日剧、音乐破解
+*   [iodefog/VipVideo](https://github.com/iodefog/VipVideo) - 各大视频网站、世界杯直播（CCTV5）免费观看 。付费电影，VIP会员剧等，去广告播放。自用看电影网站，CCTV世界杯等电视播放，爱奇艺、腾讯视频、芒果视频、bilibili、美剧、韩剧、日剧、网易云音乐、腾讯音乐、酷狗音乐、喜马拉雅
 
 ## Makefile
 
