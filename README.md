@@ -2883,7 +2883,7 @@
 
 *   [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 
-*   [ConEmu/ConEmu](https://github.com/ConEmu/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
+*   [ConEmu/ConEmu](https://github.com/ConEmu/ConEmu) - ConEmu: Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 
 *   [ariya/phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 
