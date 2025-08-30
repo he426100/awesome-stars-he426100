@@ -3303,7 +3303,7 @@
 
 ## Objective-C
 
-*   [iodefog/VipVideo](https://github.com/iodefog/VipVideo) - 各大视频网站、世界杯直播（CCTV5）免费观看 。付费电影，VIP会员剧等，去广告播放。自用看电影网站，CCTV世界杯等电视播放，爱奇艺、腾讯视频、芒果视频、bilibili、美剧、韩剧、日剧、网易云音乐、腾讯音乐、酷狗音乐、喜马拉雅
+*   [iodefog/VipVideo](https://github.com/iodefog/VipVideo) - 各大视频网站、音乐网站、CCTV中央电视台直播（CCTV1/CCTV5/CCTV13等）免费观看 。付费电影，VIP会员剧等，去广告播放。自用看电影网站，CCTV世界杯等电视播放，爱奇艺、腾讯视频、芒果视频、bilibili、美剧、韩剧、日剧、网易云音乐、腾讯音乐、酷狗音乐、喜马拉雅
 
 ## Makefile
 
