@@ -705,7 +705,7 @@
 
 *   [Chia-Network/chia-blockchain](https://github.com/Chia-Network/chia-blockchain) - Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)
 
-*   [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) tool that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints through a web browser.
+*   [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints through a web browser.
 
 *   [0voice/interview\_internal\_reference](https://github.com/0voice/interview_internal_reference) - 2023年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
 
@@ -2167,7 +2167,7 @@
 
 *   [verot/class.upload.php](https://github.com/verot/class.upload.php) - This PHP class uploads files and manipulates images very easily. It is in fact as much as an image processing class than it is an upload class. Compatible with PHP 4, 5, 7 and 8. Supports processing of local files, uploaded files, files sent through XMLHttpRequest.
 
-*   [overtrue/easy-sms](https://github.com/overtrue/easy-sms) - 📲 一款满足你的多种发送需求的短信发送轮子
+*   [overtrue/easy-sms](https://github.com/overtrue/easy-sms) - 📲 一款多渠道的短信发送轮子
 
 ## Java
 
