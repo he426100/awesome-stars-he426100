@@ -16,6 +16,7 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [miscellaneous](#miscellaneous)
 *   [HTML](#html)
 *   [Python](#python)
@@ -30,7 +31,6 @@
 *   [C++](#c)
 *   [Shell](#shell)
 *   [Lua](#lua)
-*   [Rust](#rust)
 *   [C](#c-1)
 *   [CSS](#css)
 *   [Smarty](#smarty)
@@ -58,6 +58,28 @@
 *   [Clojure](#clojure)
 *   [Blade](#blade)
 *   [Thanks](#thanks)
+
+## Rust
+
+*   [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
+
+*   [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
+
+*   [johnlui/PPHC](https://github.com/johnlui/PPHC) - 📙《高并发的哲学原理》开源图书（CC BY-NC-ND）https://pphc.lvwenhan.com
+
+*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
+
+*   [Zondax/filecoin-signing-tools](https://github.com/Zondax/filecoin-signing-tools) - Filecoin Signing Library
+
+*   [sunface/rust-course](https://github.com/sunface/rust-course) - “连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
+
+*   [nullpo-head/wsl-distrod](https://github.com/nullpo-head/wsl-distrod) - Distrod is a meta-distro for WSL 2 which installs Ubuntu, Arch, Debian, Gentoo, etc. with systemd in a minute for you. Distrod also has built-in auto-start feature on Windows startup and port forwarding ability.
+
+*   [Hira710/BellPerson014](https://github.com/Hira710/BellPerson014) - BellPerson 0.14.2 3090
+
+*   [shelmesky/bellperson\_optimized](https://github.com/shelmesky/bellperson_optimized) -
+
+*   [jackoelv/bellperson](https://github.com/jackoelv/bellperson) - zk-SNARK library
 
 ## miscellaneous
 
@@ -2167,8 +2189,6 @@
 
 *   [verot/class.upload.php](https://github.com/verot/class.upload.php) - This PHP class uploads files and manipulates images very easily. It is in fact as much as an image processing class than it is an upload class. Compatible with PHP 4, 5, 7 and 8. Supports processing of local files, uploaded files, files sent through XMLHttpRequest.
 
-*   [overtrue/easy-sms](https://github.com/overtrue/easy-sms) - 📲 一款多渠道的短信发送轮子
-
 ## Java
 
 *   [dunwu/java-tutorial](https://github.com/dunwu/java-tutorial) - :coffee: 老司机在 Java 技术领域的十年积累。
@@ -2990,26 +3010,6 @@
 *   [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 
 *   [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
-
-## Rust
-
-*   [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
-
-*   [johnlui/PPHC](https://github.com/johnlui/PPHC) - 📙《高并发的哲学原理》开源图书（CC BY-NC-ND）https://pphc.lvwenhan.com
-
-*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
-
-*   [Zondax/filecoin-signing-tools](https://github.com/Zondax/filecoin-signing-tools) - Filecoin Signing Library
-
-*   [sunface/rust-course](https://github.com/sunface/rust-course) - “连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
-
-*   [nullpo-head/wsl-distrod](https://github.com/nullpo-head/wsl-distrod) - Distrod is a meta-distro for WSL 2 which installs Ubuntu, Arch, Debian, Gentoo, etc. with systemd in a minute for you. Distrod also has built-in auto-start feature on Windows startup and port forwarding ability.
-
-*   [Hira710/BellPerson014](https://github.com/Hira710/BellPerson014) - BellPerson 0.14.2 3090
-
-*   [shelmesky/bellperson\_optimized](https://github.com/shelmesky/bellperson_optimized) -
-
-*   [jackoelv/bellperson](https://github.com/jackoelv/bellperson) - zk-SNARK library
 
 ## C
 
