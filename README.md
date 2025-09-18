@@ -29,6 +29,7 @@
 *   [JavaScript](#javascript)
 *   [Vue](#vue)
 *   [PHP](#php)
+*   [Makefile](#makefile)
 *   [Java](#java)
 *   [C++](#c-1)
 *   [Lua](#lua)
@@ -51,7 +52,6 @@
 *   [ASL](#asl)
 *   [PLpgSQL](#plpgsql)
 *   [Objective-C](#objective-c)
-*   [Makefile](#makefile)
 *   [CoffeeScript](#coffeescript)
 *   [NSIS](#nsis)
 *   [Rich Text Format](#rich-text-format)
@@ -416,8 +416,6 @@
 *   [xlucn/oh-my-foss-android](https://github.com/xlucn/oh-my-foss-android) - 个人收集的实用、良心开源安卓软件
 
 *   [yolain/ComfyUI-Yolain-Workflows](https://github.com/yolain/ComfyUI-Yolain-Workflows) - Some awesome comfyui workflows in here, and they are built using the comfyui-easy-use node package.
-
-*   [cexll/myclaude](https://github.com/cexll/myclaude) - Cladue Code AI Team Workflow Sub Agents
 
 *   [AobingJava/JavaFamily](https://github.com/AobingJava/JavaFamily) - 【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 
@@ -2977,6 +2975,18 @@
 
 *   [lijiebin/LoggerOne](https://github.com/lijiebin/LoggerOne) - One Efficient & Light & Simple high performance PHP log implemention of PSR-3
 
+## Makefile
+
+*   [cexll/myclaude](https://github.com/cexll/myclaude) - Cladue Code AI Team Workflow Sub Agents
+
+*   [zh-google-styleguide/zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide) - Google 开源项目风格指南 (中文版)
+
+*   [jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。
+
+*   [ruanyf/articles](https://github.com/ruanyf/articles) - personal articles
+
+*   [phpbrew/phpbrew](https://github.com/phpbrew/phpbrew) - Brew & manage PHP versions in pure PHP at HOME
+
 ## Java
 
 *   [dunwu/java-tutorial](https://github.com/dunwu/java-tutorial) - :coffee: 老司机在 Java 技术领域的十年积累。
@@ -3304,16 +3314,6 @@
 ## Objective-C
 
 *   [iodefog/VipVideo](https://github.com/iodefog/VipVideo) - 各大视频网站、音乐网站、CCTV中央电视台直播（CCTV1/CCTV5/CCTV13等）免费观看 。付费电影，VIP会员剧等，去广告播放。自用看电影网站，CCTV世界杯等电视播放，爱奇艺、腾讯视频、芒果视频、bilibili、美剧、韩剧、日剧、网易云音乐、腾讯音乐、酷狗音乐、喜马拉雅
-
-## Makefile
-
-*   [zh-google-styleguide/zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide) - Google 开源项目风格指南 (中文版)
-
-*   [jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。
-
-*   [ruanyf/articles](https://github.com/ruanyf/articles) - personal articles
-
-*   [phpbrew/phpbrew](https://github.com/phpbrew/phpbrew) - Brew & manage PHP versions in pure PHP at HOME
 
 ## CoffeeScript
 
