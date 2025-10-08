@@ -61,6 +61,8 @@
 
 ## TypeScript
 
+*   [shareAI-lab/Kode](https://github.com/shareAI-lab/Kode) - Like Claude Code, but Koding with DeepSeek V3.1, Kimi2, GLM4.5, Qwen Coder etc.（welcome to use Kode to summit PR)
+
 *   [edwinhern/express-typescript](https://github.com/edwinhern/express-typescript) - Express + TypeScript starter template
 
 *   [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source GUI app for Gemini CLI — Better Chat UI, File Management, AI image editing, multi-agent support, multi-LLMs & apikey polling, code diff view & more | 🌟 Star if you like it!
@@ -2974,8 +2976,6 @@
 *   [jwage/purl](https://github.com/jwage/purl) - Purl is a simple Object Oriented URL manipulation library for PHP 7.2+
 
 *   [Yurunsoft/YurunPHP](https://github.com/Yurunsoft/YurunPHP) - YurunPHP是宇润软件专为懒人开发者设计的一款开源PHP框架，基于MVC动态分层架构，开发者可以根据需要自行扩充分层。宇润PHP交流群：17916227
-
-*   [lijiebin/LoggerOne](https://github.com/lijiebin/LoggerOne) - One Efficient & Light & Simple high performance PHP log implemention of PSR-3
 
 ## Makefile
 
