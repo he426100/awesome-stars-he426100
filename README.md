@@ -24,8 +24,8 @@
 *   [C](#c)
 *   [Rust](#rust)
 *   [HTML](#html)
-*   [Python](#python)
 *   [Dockerfile](#dockerfile)
+*   [Python](#python)
 *   [Go](#go)
 *   [Vue](#vue)
 *   [PHP](#php)
@@ -63,8 +63,6 @@
 
 *   [1e0n/droid2api](https://github.com/1e0n/droid2api) -
 
-*   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型聚合管理中转分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
-
 *   [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 
 *   [langren1353/GM\_script](https://github.com/langren1353/GM_script) - 我就是来分享脚本玩玩的
@@ -91,7 +89,7 @@
 
 *   [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - 这是一款提高ChatGPT的数据安全能力和效率的插件。并且免费共享大量创新功能，如：自动刷新、保持活跃、数据安全、取消审计、克隆对话、言无不尽、净化页面、展示大屏、拦截跟踪、日新月异、明察秋毫等。让我们的AI体验无比安全、顺畅、丝滑、高效、简洁。
 
-*   [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 【出版书籍】京东购买链接 https://item.jd.com/10183653901041.html  深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。
+*   [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 【出版书籍】京东购买链接 https://item.jd.com/14531549.html  深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。
 
 *   [ChatGPTBox-dev/chatGPTBox](https://github.com/ChatGPTBox-dev/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 
@@ -428,8 +426,6 @@
 *   [mukuashi/uniapp-scaffold](https://github.com/mukuashi/uniapp-scaffold) - 基于Vue.js的跨平台小程序脚手架、设计语言、组件库及插拔式模板
 
 *   [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
-
-*   [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 
 *   [staven630/blog](https://github.com/staven630/blog) - 旧书常读出新意,俗见尽弃作雅人！
 
@@ -853,6 +849,8 @@
 
 *   [hylerrix/deno-tutorial](https://github.com/hylerrix/deno-tutorial) - :sauropod: 长期更新的《Deno 钻研之术》！循序渐进学 Deno & 先易后难补 Node & 面向未来的 Deno Web 应用开发
 
+*   [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
+
 *   [xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) - TypeScript 入门教程
 
 *   [zhongsp/TypeScript](https://github.com/zhongsp/TypeScript) - TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org
@@ -1035,7 +1033,7 @@
 
 *   [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
 
-*   [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub) - 2025年9月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器
+*   [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub) - 2025年10月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器
 
 *   [likuai2010/auto-installer](https://github.com/likuai2010/auto-installer) - HarmonyOS Next Hap installer
 
@@ -1657,9 +1655,47 @@
 
 *   [hulin32/design-patterns-by-php](https://github.com/hulin32/design-patterns-by-php) - 《大话设计模式》php版本, https://design-patterns-by-php.hulin.ink
 
-## Python
+## Dockerfile
 
-*   [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+*   [YanWenKun/ComfyUI-Docker](https://github.com/YanWenKun/ComfyUI-Docker) - 🐳Dockerfile for 🎨ComfyUI. | 容器镜像与启动脚本
+
+*   [gotoeasy/docker-ubuntu-desktop](https://github.com/gotoeasy/docker-ubuntu-desktop) - 在ubuntu系统的基础上，安装中文桌面环境及输入法，支持VNC远程连接，可以相互复制粘贴文本
+
+*   [y0ngb1n/dockerized](https://github.com/y0ngb1n/dockerized) - 🐳 Build once, run anywhere
+
+*   [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
+
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+
+*   [robinostlund/docker-miner-trex](https://github.com/robinostlund/docker-miner-trex) -
+
+*   [dockminer/T-Rex](https://github.com/dockminer/T-Rex) - Docker foe T-Rex.
+
+*   [docker-library/php](https://github.com/docker-library/php) - Docker Official Image packaging for PHP
+
+*   [swoole/docker-swoole](https://github.com/swoole/docker-swoole) - 🏄 Official Docker Image of Swoole
+
+*   [nakanomikuorg/arch-guide](https://github.com/nakanomikuorg/arch-guide) - ✨ archlinux 简明指南 | 本指南包含从 archlinux 安装、显卡驱动、日常软件配置、多媒体制作、编程等你可能需要的全部内容 | 提供在线文档 ✨
+
+*   [theomessin/laravel-devcontainer](https://github.com/theomessin/laravel-devcontainer) - 🐋 Fully-Dockerised Laravel development in Visual Studio Code
+
+*   [khs1994-docker/lnmp](https://github.com/khs1994-docker/lnmp) - :computer: :whale: :elephant: :dolphin: :penguin: :rocket: Start Docker LNMP(LEMP) In less than 2 minutes Powered by Docker Compose. 让 PHP 开发者快速（一键）搭建基于容器技术（Docker、Kubernetes）的开发、测试、生产（CI/CD by Drone）环境.
+
+*   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white\_check\_mark:  The Node.js best practices list (July 2024)
+
+*   [jaywcjlove/awesome-uikit](https://github.com/jaywcjlove/awesome-uikit) - Collect JS Frameworks, Web components library and Admin Template.
+
+*   [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+
+*   [ThinkDevelop/Free-SS-SSR](https://github.com/ThinkDevelop/Free-SS-SSR) - 每日分享免费的ss、vmess、vless、trojan、hysteria2等各类节点
+
+*   [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
+
+*   [gnulife/dphp](https://github.com/gnulife/dphp) - 在2分钟内极速构建超轻量级docker + php全功能开发测试环境
+
+*   [kfkme/k-docker-lnmp](https://github.com/kfkme/k-docker-lnmp) -
+
+## Python
 
 *   [snailyp/gemini-balance](https://github.com/snailyp/gemini-balance) - Gemini polling proxy service （gemini轮询代理服务）
 
@@ -1858,46 +1894,6 @@
 *   [meolu/walle-web](https://github.com/meolu/walle-web) - walle - 瓦力 Devops开源项目代码部署平台
 
 *   [FeeiCN/Cobra](https://github.com/FeeiCN/Cobra) - Source Code Security Audit (源代码安全审计)
-
-## Dockerfile
-
-*   [YanWenKun/ComfyUI-Docker](https://github.com/YanWenKun/ComfyUI-Docker) - 🐳Dockerfile for 🎨ComfyUI. | 容器镜像与启动脚本
-
-*   [gotoeasy/docker-ubuntu-desktop](https://github.com/gotoeasy/docker-ubuntu-desktop) - 在ubuntu系统的基础上，安装中文桌面环境及输入法，支持VNC远程连接，可以相互复制粘贴文本
-
-*   [y0ngb1n/dockerized](https://github.com/y0ngb1n/dockerized) - 🐳 Build once, run anywhere
-
-*   [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
-
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
-
-*   [robinostlund/docker-miner-trex](https://github.com/robinostlund/docker-miner-trex) -
-
-*   [dockminer/T-Rex](https://github.com/dockminer/T-Rex) - Docker foe T-Rex.
-
-*   [docker-library/php](https://github.com/docker-library/php) - Docker Official Image packaging for PHP
-
-*   [swoole/docker-swoole](https://github.com/swoole/docker-swoole) - 🏄 Official Docker Image of Swoole
-
-*   [nakanomikuorg/arch-guide](https://github.com/nakanomikuorg/arch-guide) - ✨ archlinux 简明指南 | 本指南包含从 archlinux 安装、显卡驱动、日常软件配置、多媒体制作、编程等你可能需要的全部内容 | 提供在线文档 ✨
-
-*   [theomessin/laravel-devcontainer](https://github.com/theomessin/laravel-devcontainer) - 🐋 Fully-Dockerised Laravel development in Visual Studio Code
-
-*   [khs1994-docker/lnmp](https://github.com/khs1994-docker/lnmp) - :computer: :whale: :elephant: :dolphin: :penguin: :rocket: Start Docker LNMP(LEMP) In less than 2 minutes Powered by Docker Compose. 让 PHP 开发者快速（一键）搭建基于容器技术（Docker、Kubernetes）的开发、测试、生产（CI/CD by Drone）环境.
-
-*   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white\_check\_mark:  The Node.js best practices list (July 2024)
-
-*   [jaywcjlove/awesome-uikit](https://github.com/jaywcjlove/awesome-uikit) - Collect JS Frameworks, Web components library and Admin Template.
-
-*   [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-
-*   [ThinkDevelop/Free-SS-SSR](https://github.com/ThinkDevelop/Free-SS-SSR) - 每日分享免费的ss、vmess、vless、trojan、hysteria2等各类节点
-
-*   [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
-
-*   [gnulife/dphp](https://github.com/gnulife/dphp) - 在2分钟内极速构建超轻量级docker + php全功能开发测试环境
-
-*   [kfkme/k-docker-lnmp](https://github.com/kfkme/k-docker-lnmp) -
 
 ## Go
 
@@ -2978,6 +2974,10 @@
 *   [CoderKungfu/php-queue](https://github.com/CoderKungfu/php-queue) - A unified front-end for different queuing backends. Includes a REST server, CLI interface and daemon runners.
 
 *   [geocoder-php/Geocoder](https://github.com/geocoder-php/Geocoder) - The most featured Geocoder library written in PHP.
+
+*   [jwage/purl](https://github.com/jwage/purl) - Purl is a simple Object Oriented URL manipulation library for PHP 7.2+
+
+*   [Yurunsoft/YurunPHP](https://github.com/Yurunsoft/YurunPHP) - YurunPHP是宇润软件专为懒人开发者设计的一款开源PHP框架，基于MVC动态分层架构，开发者可以根据需要自行扩充分层。宇润PHP交流群：17916227
 
 ## Makefile
 
