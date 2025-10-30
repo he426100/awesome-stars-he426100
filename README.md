@@ -61,6 +61,8 @@
 
 ## miscellaneous
 
+*   [Tangent-Wei/crypto\_info](https://github.com/Tangent-Wei/crypto_info) - （原创）全网最全-币圈区块链各类常用工具与相关信息资料大全-虚拟加密货币-欧易OKX币安Binace芝麻开门Gate-交易所App注册-NFT-Defi-加密钱包-比特币-新手入门教程 -持续更新
+
 *   [NeekChaw/RIPER-5](https://github.com/NeekChaw/RIPER-5) - 神级Cursor Rule
 
 *   [TokenRollAI/cc-plugin](https://github.com/TokenRollAI/cc-plugin) - (WIP) toeknroll cc-plugin
@@ -2976,8 +2978,6 @@
 *   [fukuball/jieba-php](https://github.com/fukuball/jieba-php) - "結巴"中文分詞：做最好的 PHP 中文分詞、中文斷詞組件。 / "Jieba" (Chinese for "to stutter") Chinese text segmentation: built to be the best PHP Chinese word segmentation module.
 
 *   [hoaproject/Ustring](https://github.com/hoaproject/Ustring) - The Hoa\Ustring library.
-
-*   [hprose/hprose-php](https://github.com/hprose/hprose-php) - Hprose is a cross-language RPC. This project is Hprose 3.0 for PHP
 
 ## Makefile
 
