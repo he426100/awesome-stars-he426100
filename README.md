@@ -2537,7 +2537,7 @@
 
 *   [Zhao-github/ApiAdmin](https://github.com/Zhao-github/ApiAdmin) - 基于ThinkPHP V6.\*开发的面向API的后台管理系统！
 
-*   [JaguarJack/catch-admin](https://github.com/JaguarJack/catch-admin) - CatchAdmin是一个基于对Laravel和Element Plus进行二次开发的后台管理系统。CatchAdmin仍然采用传统的前后端分离策略，其中Laravel框架仅用作Api输出。通过这种设计，成功将管理系统模块之间的耦合降至最低。
+*   [JaguarJack/catch-admin](https://github.com/JaguarJack/catch-admin) - CatchAdmin 是一个功能强大、易于扩展的现代化 PHP 后台管理系统。它采用前后端分离架构：后端基于强大的 PHP 框架 Laravel，纯粹提供 API 接口；前端则拥抱现代技术栈，使用 Vue 3 和 Element Plus 构建用户界面。  通过精心的模块化设计，CatchAdmin 极大地降低了后台管理系统中各个模块的耦合度，为开发者提供了灵活、高效的二次开发体验。无论您是需要快速搭建一个 PHP 后台系统，还是寻找一个坚实的 PHP 后台框架 作为项目起点，CatchAdmin 是一个理想的选择
 
 *   [bobthecow/psysh](https://github.com/bobthecow/psysh) - A REPL for PHP
 
