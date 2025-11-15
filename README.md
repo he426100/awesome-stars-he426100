@@ -2235,7 +2235,7 @@
 
 *   [minicli/minicli](https://github.com/minicli/minicli) - A minimal framework for command-line applications in PHP. Join our Discord: https://discord.gg/hY5UNC4XPf
 
-*   [guanguans/notify](https://github.com/guanguans/notify) - Push notification SDK(AnPush、Bark、Chanify、DingTalk、Discord、Gitter、GoogleChat、IGot、Lark、Mattermost、MicrosoftTeams、NowPush、Ntfy、Push、Pushback、PushBullet、PushDeer、PushMe、Pushover、PushPlus、QQ、RocketChat、ServerChan、ShowdocPush、SimplePush、Slack、Telegram、WeWork、WPush、XiZhi、YiFengChuanHua、Zulip).
+*   [guanguans/notify](https://github.com/guanguans/notify) - Push notification SDK(AnPush、Bark、Chanify、DingTalk、Discord、Gitter、GoogleChat、IGot、Lark、Mattermost、MicrosoftTeams、NowPush、Ntfy、Push、Pushback、PushBullet、PushDeer、PushMe、Pushover、PushPlus、QQ、RocketChat、ServerChan、ShowdocPush、SimplePush、Slack、Telegram、WeWork、WPush、XiZhi、YiFengChuanHua、ZohoCliq、Zulip).
 
 *   [mhor/php-mediainfo](https://github.com/mhor/php-mediainfo) - PHP wrapper around the mediainfo command
 
