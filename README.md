@@ -1745,7 +1745,7 @@
 
 *   [shannon-6block/lotus-miner](https://github.com/shannon-6block/lotus-miner) - An improved lotus toolchain for Filecoin cluster mining
 
-*   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
+*   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
 
 *   [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows Subsystem for Linux
 
