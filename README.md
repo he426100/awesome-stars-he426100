@@ -2343,7 +2343,7 @@
 
 *   [chopins/php-libui](https://github.com/chopins/php-libui) - php bindings to the libui C library.
 
-*   [friendsofhyperf/components](https://github.com/friendsofhyperf/components) - 🚀 The most popular components for Hyperf. https://hyperf.fans/
+*   [friendsofhyperf/components](https://github.com/friendsofhyperf/components) - 🚀 The most popular components for Hyperf.
 
 *   [SerendipitySwow/Serendipity-job](https://github.com/SerendipitySwow/Serendipity-job) - 🚀🐟 Task Platform Developed Based On Swow and Php8 ｜基于swow和php8开发的任务平台
 
