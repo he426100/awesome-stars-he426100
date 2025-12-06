@@ -1161,7 +1161,7 @@
 
 ## Python
 
-*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点【不要 fork】 !而是 【use this template】
+*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点【 当前仅推荐Docker部署，Fork/Actions方式暂停（正在与GitHub官方沟通中）】
 
 *   [666ghj/BettaFish](https://github.com/666ghj/BettaFish) - 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
 
@@ -2113,7 +2113,7 @@
 
 *   [tbphp/gpt-load](https://github.com/tbphp/gpt-load) - Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。
 
-*   [cexll/myclaude](https://github.com/cexll/myclaude) - Claude Code AI Team Workflow Sub Agents
+*   [cexll/myclaude](https://github.com/cexll/myclaude) - Claude Code and Codex orchestration workflow
 
 *   [guangzhengli/k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials) - k8s tutorials | k8s 教程
 
@@ -3065,7 +3065,7 @@
 
 *   [apache/hertzbeat](https://github.com/apache/hertzbeat) - An AI-powered next-generation open source real-time observability system.
 
-*   [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
+*   [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 学习&面试指南（Go、Python 后端面试通用,计算机基础面试总结）。准备后端技术面试，首选 JavaGuide！
 
 *   [tianshiyeben/wgcloud](https://github.com/tianshiyeben/wgcloud) - Linux运维监控工具，支持系统硬件信息，内存，CPU，温度，磁盘空间及IO，硬盘smart，GPU，防火墙，网络流量速率等监控，服务接口监测，大屏展示，拓扑图，端口监控，进程监控，docker监控，日志监控，文件防篡改，数据库监控，指令批量下发执行，web ssh，Linux面板(探针)，告警，SNMP监测，K8S，Redis，Nginx，Kafka，资产管理，计划任务，密码管理，工作笔记
 
