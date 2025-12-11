@@ -509,7 +509,7 @@
 
 *   [AutoPiano/AutoPiano](https://github.com/AutoPiano/AutoPiano) - 🎹 自由钢琴 AutoPiano - Simple & Elegant Piano Online
 
-*   [zhouyupeng/vue-cli3-H5](https://github.com/zhouyupeng/vue-cli3-H5) - 🎉 基于 vue-cli3 搭建的前端H5模板
+*   [qiuyu303/vue-cli3-H5](https://github.com/qiuyu303/vue-cli3-H5) - 🎉 基于 vue-cli3 搭建的前端H5模板
 
 *   [staven630/vue-cli4-config](https://github.com/staven630/vue-cli4-config) - vue-cli4配置vue.config.js持续更新
 
