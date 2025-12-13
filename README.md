@@ -273,7 +273,7 @@
 
 *   [LTAND/filecoin-web-wallet-cn](https://github.com/LTAND/filecoin-web-wallet-cn) - fil-wallet
 
-*   [smalldata-industries/starling-api](https://github.com/smalldata-industries/starling-api) - RESTful API for Starling, a decentralized storage application powered by Filecoin.
+*   [canyon-media-art-conservation-center/starling-api](https://github.com/canyon-media-art-conservation-center/starling-api) - RESTful API for Starling, a decentralized storage application powered by Filecoin.
 
 *   [nondanee/UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) - Revive unavailable songs for Netease Cloud Music
 
@@ -1571,7 +1571,7 @@
 
 *   [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Your API ⇒ Paid MCP. Instantly.
 
-*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 *   [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 
