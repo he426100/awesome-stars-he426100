@@ -83,7 +83,7 @@
 
 *   [cilame/v\_jstools](https://github.com/cilame/v_jstools) - 模仿着写一个 chrome 插件，用来快速调试前端 js 代码。
 
-*   [pysunday/sdenv](https://github.com/pysunday/sdenv) - sdenv补环境框架，完美过瑞数vmp理论通杀，配合瑞数vmp纯算法逆向项目（rs-reverse）更好学习原理
+*   [pysunday/sdenv](https://github.com/pysunday/sdenv) - 补环境框架sdenv，完美过瑞数vmp理论通杀，配合瑞数vmp纯算法逆向项目（rs-reverse）更好学习原理
 
 *   [uappx/uapp](https://github.com/uappx/uapp) - uapp是一款基于uni-app跨平台开发的高效cli。 源自自有产品跨平台的最佳实践，通过集成 uni-app, electron, tauri，让开发者仅需维护一套代码，就能横跨所有平台。uapp助开发者无限制重构一切软件。
 
