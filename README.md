@@ -595,8 +595,6 @@
 
 *   [chaozh/awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn) - 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料
 
-*   [star7th/showdoc](https://github.com/star7th/showdoc) - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
-
 *   [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
 
 *   [NewNewKing/SmallRomance](https://github.com/NewNewKing/SmallRomance) - 程序员的小浪漫
@@ -1188,8 +1186,6 @@
 *   [DR-lin-eng/stock-scanner](https://github.com/DR-lin-eng/stock-scanner) - 开源A股量化分析（并且配合llm模型，进行高级分析）
 
 *   [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor
-
-*   [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - \[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
 
 *   [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) - \[EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
 
@@ -2849,6 +2845,8 @@
 
 *   [php-school/cli-menu](https://github.com/php-school/cli-menu) - 🖥  Build beautiful PHP CLI menus. Simple yet Powerful. Expressive DSL.
 
+*   [star7th/showdoc](https://github.com/star7th/showdoc) - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
+
 *   [hhxsv5/php-sse](https://github.com/hhxsv5/php-sse) - A simple and efficient library implemented HTML5's server-sent events by PHP, is used to real-time push events from server to client, and easier than Websocket, instead of AJAX request.
 
 *   [Bit-Wasp/bitcoin-php](https://github.com/Bit-Wasp/bitcoin-php) - Bitcoin implementation in PHP
@@ -3048,6 +3046,8 @@
 *   [douyasi/identity-card](https://github.com/douyasi/identity-card) - Chinese Identity Card package （中国大陆）公民身份证类
 
 *   [yl/id-card](https://github.com/yl/id-card) - 身份证号校验及信息获取
+
+*   [ramsey/uuid](https://github.com/ramsey/uuid) - :snowflake: A PHP library for generating universally unique identifiers (UUIDs).
 
 ## Java
 
