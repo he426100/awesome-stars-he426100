@@ -979,6 +979,8 @@
 
 *   [hackstoic/golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects) - 为互联网IT人打造的中文版awesome-go
 
+*   [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程/英语学习/学英语
+
 *   [shmilyLT/blockchain](https://github.com/shmilyLT/blockchain) - 区块链、交易所、币种、自媒体、高频交易策略
 
 *   [veaba/socket.io-docs](https://github.com/veaba/socket.io-docs) - :cn: socket.io 中文文档。https://socket.gitbook.io/docs/  翻译完毕 :heavy\_check\_mark:  等待校验 :heavy\_multiplication\_x:    (注：该文档可能过于久远)
@@ -2044,8 +2046,6 @@
 *   [EvilCult/iptv-m3u-maker](https://github.com/EvilCult/iptv-m3u-maker) - IPTV 国内+国外 电视台直播源m3u文件, 收集&汇总&本地源脚本
 
 *   [wx-chevalier/Web-Notes](https://github.com/wx-chevalier/Web-Notes) - :books: 现代 Web 开发语法基础与工程实践，涵盖 Web 开发基础、前端工程化、应用架构、性能与体验优化、混合开发、React 实践、Vue 实践、WebAssembly 等多方面。
-
-*   [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程/英语学习/学英语
 
 *   [golang-china/gopl-zh](https://github.com/golang-china/gopl-zh) - :books: Go语言圣经中文版
 
