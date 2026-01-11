@@ -67,7 +67,7 @@
 
 *   [botswin/BotBrowser](https://github.com/botswin/BotBrowser) - 🤖 Advanced Privacy Browser Core with Unified Fingerprint Defense: Cloudflare, Akamai, Kasada, Shape, DataDome, PerimeterX, hCaptcha, FunCaptcha, Imperva, reCAPTCHA, ThreatMetrix, Adscore
 
-*   [shareAI-lab/Kode-cli](https://github.com/shareAI-lab/Kode-cli) - Design for post human.   Kode is one unit agent for every human & computer task
+*   [shareAI-lab/Kode-cli](https://github.com/shareAI-lab/Kode-cli) - Kode CLI — Design for post-human workflows. One unit agent for every human & computer task.
 
 *   [edwinhern/express-typescript](https://github.com/edwinhern/express-typescript) - Express + TypeScript starter template
 
@@ -1445,7 +1445,7 @@
 
 ## Python
 
-*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测。支持 Docker 一键部署，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。⭐
+*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。 AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测。支持 Docker 一键部署，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。⭐
 
 *   [666ghj/BettaFish](https://github.com/666ghj/BettaFish) - 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
 
