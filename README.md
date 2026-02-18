@@ -2374,7 +2374,7 @@
 
 *   [joanhey/AdapterMan](https://github.com/joanhey/AdapterMan) - Boost the performance of nearly any PHP app effortlessly with Workerman, enabling faster and asynchronous execution—all without modifying a single line of code in your framework or app. Additionally, leverage Workerman as a powerful Serverless solution for scalable, event-driven workloads. It's lightweight design and high efficiency
 
-*   [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone portable PHP binaries on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
+*   [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone portable PHP binaries on Linux, macOS, Windows, with PHP project together, with popular extensions included.
 
 *   [ambroisemaupate/intervention-request](https://github.com/ambroisemaupate/intervention-request) - A customizable Intervention Image wrapper to use simple image re-sampling features over urls and a configurable cache.
 
