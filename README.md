@@ -42,10 +42,10 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [MDX](#mdx)
 *   [EJS](#ejs)
-*   [Ruby](#ruby)
 *   [Roff](#roff)
 *   [Haskell](#haskell)
 *   [SCSS](#scss)
+*   [Ruby](#ruby)
 *   [R](#r)
 *   [Go Template](#go-template)
 *   [Crystal](#crystal)
@@ -1643,6 +1643,8 @@
 *   [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 
 *   [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
+
+*   [hoochanlon/hamuleite](https://github.com/hoochanlon/hamuleite) - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
 
 *   [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
 
@@ -3252,18 +3254,6 @@
 
 *   [lework/reference](https://github.com/lework/reference) - 专为运维人员而分享的速查表(备忘单)，目的是为了方便运维小伙伴在日常工作中查阅。
 
-## Ruby
-
-*   [hoochanlon/hamuleite](https://github.com/hoochanlon/hamuleite) - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
-
-*   [pluosi/app-host](https://github.com/pluosi/app-host) - 应用内网发布 | iOS OTA (Over-the-Air) | APP publish website like fir.im  | 适用于企业 iOS & Android 内网发布测试使用，方便管理和分发 APP 包
-
-*   [chyingp/nodejs-learning-guide](https://github.com/chyingp/nodejs-learning-guide) - Nodejs学习笔记以及经验总结，公众号"程序猿小卡"
-
-*   [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
-
-*   [capistrano/capistrano](https://github.com/capistrano/capistrano) - A deployment automation tool built on Ruby, Rake, and SSH.
-
 ## Roff
 
 *   [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
@@ -3283,6 +3273,16 @@
 *   [mdbootstrap/mdb-vue-ui-kit](https://github.com/mdbootstrap/mdb-vue-ui-kit) - Vue 3 & Bootstrap 5 & Material Design 2.0 UI KIT
 
 *   [mdo/code-guide](https://github.com/mdo/code-guide) - Standards for developing consistent, flexible, and sustainable HTML and CSS.
+
+## Ruby
+
+*   [pluosi/app-host](https://github.com/pluosi/app-host) - 应用内网发布 | iOS OTA (Over-the-Air) | APP publish website like fir.im  | 适用于企业 iOS & Android 内网发布测试使用，方便管理和分发 APP 包
+
+*   [chyingp/nodejs-learning-guide](https://github.com/chyingp/nodejs-learning-guide) - Nodejs学习笔记以及经验总结，公众号"程序猿小卡"
+
+*   [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
+
+*   [capistrano/capistrano](https://github.com/capistrano/capistrano) - A deployment automation tool built on Ruby, Rake, and SSH.
 
 ## R
 
