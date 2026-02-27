@@ -2500,7 +2500,7 @@
 
 *   [walkor/crontab](https://github.com/walkor/crontab) - A crontab written in PHP based on workerman
 
-*   [aliyun/openapi-sdk-php-client](https://github.com/aliyun/openapi-sdk-php-client) - The Alibaba Cloud V1.0 SDK will soon enter the Basic Security Maintenance phase and is no longer recommended for use.
+*   [aliyun/openapi-sdk-php-client](https://github.com/aliyun/openapi-sdk-php-client) - The Alibaba Cloud V1.0 SDK will soon enter the Basic Security Maintenance phase and is no longer recommended for use. V2.0 SDK is available here: https://github.com/aliyun/alibabacloud-php-sdk
 
 *   [webman-php/webman-manual](https://github.com/webman-php/webman-manual) - Manual for webman
 
