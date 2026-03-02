@@ -1104,7 +1104,7 @@
 
 *   [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
 
-*   [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub) - 2026年2月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器
+*   [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub) - 2026年3月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器
 
 *   [likuai2010/auto-installer](https://github.com/likuai2010/auto-installer) - HarmonyOS Next Hap installer
 
@@ -2148,8 +2148,6 @@
 
 *   [daichangya/prometheus.io](https://github.com/daichangya/prometheus.io) - prometheus.io 中文文档
 
-*   [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
-
 *   [mingo-chen/mingo-chen.github.io](https://github.com/mingo-chen/mingo-chen.github.io) - 个人博客
 
 *   [anran-world/Anranawsl](https://github.com/anran-world/Anranawsl) - 公众号：OMGA，百度云Svip、免费获取优酷vip、芒果vip、B站大会员、腾讯vip、百度网盘Svip、科学上网不限速节点、百度网盘代下载、SS、SSR、V2ray、百度网盘资源更新、百度网盘热门电视剧、电影、每天分享最新的百度网SVIP，迅雷超级会员，爱奇艺VIP会员，优酷VIP会员，哔哩哔哩大会员，百度文库VIP，网易云黑胶VIP，喜马拉雅VIP，千图网VIP ，包图网VIP，摄图网VIP，天眼查VIP，苹果ID等各类VIP帐号，随取随用，完全免费，绝无套路，同时提供：百度文库VIP下载，图库素材VIP下载，学术文献VIP下载（知网维普万方读秀龙源超星，英语数据库，法律数据库，医学数据库，金融数据库），全网视频VIP解析，百度网盘代下载，各种绝版资源汇总，欢迎推荐分享给好友！
@@ -3123,6 +3121,8 @@
 *   [thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) - Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!
 
 *   [fingerchar/fingernft](https://github.com/fingerchar/fingernft) - FingerNFT是一款开源NFT市场，兼容Opensea、Rarible。
+
+*   [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 
 *   [openexchangerates/money.js](https://github.com/openexchangerates/money.js) - money.js is a tiny (1kb) javascript currency conversion library, for web & nodeJS
 
