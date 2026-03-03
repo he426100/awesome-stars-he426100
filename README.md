@@ -2878,7 +2878,7 @@
 
 *   [wilon/php-number2chinese](https://github.com/wilon/php-number2chinese) - PHP 数字转为中文汉字描述、人民币大写方法。
 
-*   [spatie/crawler](https://github.com/spatie/crawler) - An easy to use,  powerful crawler implemented in PHP. Can execute Javascript.
+*   [spatie/crawler](https://github.com/spatie/crawler) - https://spatie.be/docs/crawler
 
 *   [Seldaek/monolog](https://github.com/Seldaek/monolog) - Sends your logs to files, sockets, inboxes, databases and various web services
 
