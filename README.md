@@ -1602,8 +1602,6 @@
 
 *   [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 
-*   [shidahuilang/shuyuan](https://github.com/shidahuilang/shuyuan) - 阅读书源-香色闺阁+用心读书+源阅+阅读3.0书源+源阅读+爱阅书香+千阅+花火阅读+读不舍手+番茄+喜马拉雅+漫画+听书+书源+IPTV源+IPA巨魔应用=自动更新
-
 *   [ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer) - An easy and fast way to create a Python GUI 🐍
 
 *   [PyQt5/PyQt](https://github.com/PyQt5/PyQt) - PyQt Examples（PyQt各种测试和例子） PyQt4 PyQt5
@@ -2336,7 +2334,7 @@
 
 *   [orhanerday/open-ai](https://github.com/orhanerday/open-ai) - OpenAI PHP SDK : Most downloaded, forked, contributed, huge community supported, and used PHP (Laravel , Symfony, Yii, Cake PHP or any PHP framework) SDK for OpenAI GPT-3 and DALL-E. It also supports chatGPT-like streaming. (ChatGPT AI is supported)
 
-*   [cry-no-cry/easytree](https://github.com/cry-no-cry/easytree) - PHP tree format
+*   [crynocri/easytree](https://github.com/crynocri/easytree) - PHP tree format
 
 *   [taobali32/jtar-hyperf-user-node](https://github.com/taobali32/jtar-hyperf-user-node) - 用户节点关系记录
 
@@ -3047,6 +3045,8 @@
 *   [douyasi/identity-card](https://github.com/douyasi/identity-card) - Chinese Identity Card package （中国大陆）公民身份证类
 
 *   [yl/id-card](https://github.com/yl/id-card) - 身份证号校验及信息获取
+
+*   [ramsey/uuid](https://github.com/ramsey/uuid) - :snowflake: A PHP library for generating universally unique identifiers (UUIDs).
 
 ## Java
 
