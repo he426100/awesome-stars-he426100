@@ -918,7 +918,7 @@
 
 *   [mdnice/markdown-nice](https://github.com/mdnice/markdown-nice) - 支持主题设计的 Markdown 编辑器，让排版变 Nice
 
-*   [Tencent/wepy](https://github.com/Tencent/wepy) - 小程序组件化开发框架
+*   [Tencent/wepy](https://github.com/Tencent/wepy) - 小程序组件化开发框架 - 已归档
 
 *   [zhangdaren/miniprogram-to-uniapp](https://github.com/zhangdaren/miniprogram-to-uniapp) - 轻松将各种小程序转换为uni-app项目
 
