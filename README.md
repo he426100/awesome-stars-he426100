@@ -1592,8 +1592,6 @@
 
 *   [DR-lin-eng/stock-scanner](https://github.com/DR-lin-eng/stock-scanner) - 开源A股量化分析（并且配合llm模型，进行高级分析）
 
-*   [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
-
 *   [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor
 
 *   [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) - \[EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
@@ -3053,6 +3051,8 @@
 *   [dunwu/java-tutorial](https://github.com/dunwu/java-tutorial) - :coffee: 老司机在 Java 技术领域的十年积累。
 
 *   [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) - To Be Top Javaer - Java工程师成神之路
+
+*   [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
 
 *   [NaTieJun/orise-charge-cloud](https://github.com/NaTieJun/orise-charge-cloud) - ⚡️充电桩开源云平台⚡️完整源代码，包含模拟桩模块，可通过docker编排快速部署测试。技术栈：SpringCloud、MySQL、Redis、RabbitMQ，前后端管理系统（管理后台、小程序），支持互联互通协议、市政协议、一对多方平台支持。支持高并发业务、业务动态伸缩、桩通信负载均衡（NLB）。
 
