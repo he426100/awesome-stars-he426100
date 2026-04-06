@@ -1094,8 +1094,6 @@
 
 *   [NeekChaw/RIPER-5](https://github.com/NeekChaw/RIPER-5) - 神级Cursor Rule
 
-*   [TokenRollAI/cc-plugin](https://github.com/TokenRollAI/cc-plugin) - (WIP) toeknroll cc-plugin
-
 *   [xlucn/oh-my-foss-android](https://github.com/xlucn/oh-my-foss-android) - 个人收集的实用、良心开源安卓软件
 
 *   [yolain/ComfyUI-Yolain-Workflows](https://github.com/yolain/ComfyUI-Yolain-Workflows) - Some awesome comfyui workflows in here, and they are built using the comfyui-easy-use node package.
@@ -1901,6 +1899,8 @@
 *   [iview/iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js 2.0
 
 ## Shell
+
+*   [TokenRollAI/llmdoc](https://github.com/TokenRollAI/llmdoc) - (WIP) toeknroll cc-plugin
 
 *   [bin456789/reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
 
