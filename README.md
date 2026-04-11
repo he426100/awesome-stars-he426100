@@ -49,6 +49,7 @@
 *   [R](#r)
 *   [Go Template](#go-template)
 *   [Crystal](#crystal)
+*   [Astro](#astro)
 *   [ASL](#asl)
 *   [PLpgSQL](#plpgsql)
 *   [Objective-C](#objective-c)
@@ -383,6 +384,8 @@
 *   [vercel-community/php](https://github.com/vercel-community/php) - 🐘 PHP Runtime for ▲ Vercel Serverless Functions (support 7.4-8.5)
 
 *   [sparrow-js/sparrow](https://github.com/sparrow-js/sparrow) - 🎉场景化低代码（LowCode）搭建工作台，实时输出源代码
+
+*   [ant-design/pro-components](https://github.com/ant-design/pro-components) - 🏆 Use Ant Design like a Pro!
 
 *   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 
@@ -2168,8 +2171,6 @@
 
 *   [demopark/electron-api-demos-Zh\_CN](https://github.com/demopark/electron-api-demos-Zh_CN) - 这是 electron-api-demos 的中文版本, 更新至 v2.0.2
 
-*   [ant-design/pro-components](https://github.com/ant-design/pro-components) - 🏆 Use Ant Design like a Pro!
-
 *   [HADB/GetWeixinCode](https://github.com/HADB/GetWeixinCode) - 解决微信OAuth2.0网页授权只能设置一个回调域名的问题
 
 *   [yuantuo666/baiduwp-php](https://github.com/yuantuo666/baiduwp-php) - A tool to get the download link of the Baidu netdisk / 一个获取百度网盘分享链接下载地址的工具
@@ -3122,8 +3123,6 @@
 
 *   [fingerchar/fingernft](https://github.com/fingerchar/fingernft) - FingerNFT是一款开源NFT市场，兼容Opensea、Rarible。
 
-*   [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
-
 *   [openexchangerates/money.js](https://github.com/openexchangerates/money.js) - money.js is a tiny (1kb) javascript currency conversion library, for web & nodeJS
 
 *   [LenGxien/vue-licence-plate](https://github.com/LenGxien/vue-licence-plate) - 基于Vue的移动端车牌键盘
@@ -3293,6 +3292,10 @@
 ## Crystal
 
 *   [kadalu/gluster-metrics-exporter](https://github.com/kadalu/gluster-metrics-exporter) - Lightweight and efficient Prometheus exporter for Gluster metrics
+
+## Astro
+
+*   [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 
 ## ASL
 
