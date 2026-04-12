@@ -519,7 +519,7 @@
 
 *   [rosswintle/can-i-php](https://github.com/rosswintle/can-i-php) - caniuse.com but for PHP - a searchable list of new and deprecated features in recent PHP versions
 
-*   [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
+*   [win12-online/win12](https://github.com/win12-online/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
 
 *   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 
