@@ -3117,7 +3117,7 @@
 
 *   [QiShaoXuan/css\_tricks](https://github.com/QiShaoXuan/css_tricks) - Some CSS tricks - 一些 CSS 常用样式
 
-*   [wux1an/wxapkg](https://github.com/wux1an/wxapkg) - 微信小程序反编译 GUI 工具，.wxapkg 文件扫描 + 解密 + 解包工具
+*   [wux1an/wxapkg](https://github.com/wux1an/wxapkg) - 跨平台微信小程序反编译 GUI 工具，.wxapkg 文件扫描 + 解密 + 解包工具
 
 *   [thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) - Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!
 
