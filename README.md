@@ -665,7 +665,7 @@
 
 *   [neekey/ps](https://github.com/neekey/ps) - A Node.js module for looking up running processes
 
-*   [avoidwork/filesize.js](https://github.com/avoidwork/filesize.js) - JavaScript library to generate a human readable String describing the file size
+*   [avoidwork/filesize.js](https://github.com/avoidwork/filesize.js) - A lightweight, high-performance file size utility that converts bytes to human-readable strings. Zero dependencies. 100% test coverage.
 
 *   [jprichardson/node-fs-extra](https://github.com/jprichardson/node-fs-extra) - Node.js: extra methods for the fs object like copy(), remove(), mkdirs()
 
