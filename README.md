@@ -399,7 +399,7 @@
 
 *   [yiminghe/async-validator](https://github.com/yiminghe/async-validator) - validate form asynchronous
 
-*   [hylerrix/deno-tutorial](https://github.com/hylerrix/deno-tutorial) - :sauropod: 长期更新的《Deno 钻研之术》！循序渐进学 Deno & 先易后难补 Node & 面向未来的 Deno Web 应用开发
+*   [esmadrider/deno-tutorial](https://github.com/esmadrider/deno-tutorial) - :sauropod: 长期更新的《Deno 钻研之术》！循序渐进学 Deno & 先易后难补 Node & 面向未来的 Deno Web 应用开发
 
 *   [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 
