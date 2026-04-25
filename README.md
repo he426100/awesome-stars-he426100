@@ -34,7 +34,7 @@
 *   [Java](#java)
 *   [Lua](#lua)
 *   [CSS](#css)
-*   [Smarty](#smarty)
+*   [Go Template](#go-template)
 *   [C#](#c-2)
 *   [Markdown](#markdown)
 *   [Kotlin](#kotlin)
@@ -46,8 +46,8 @@
 *   [Haskell](#haskell)
 *   [SCSS](#scss)
 *   [Ruby](#ruby)
+*   [Smarty](#smarty)
 *   [R](#r)
-*   [Go Template](#go-template)
 *   [Crystal](#crystal)
 *   [Astro](#astro)
 *   [ASL](#asl)
@@ -2125,8 +2125,6 @@
 
 *   [comfyanonymous/ComfyUI\_examples](https://github.com/comfyanonymous/ComfyUI_examples) - Examples of ComfyUI workflows
 
-*   [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
-
 *   [odan/learn-php](https://github.com/odan/learn-php) - :elephant: Learn modern PHP
 
 *   [itbdw/ip-database](https://github.com/itbdw/ip-database) - 免费IP离线数据库，支持IPV4+IPV6 ，国家、省、市、县、运营商
@@ -3055,6 +3053,8 @@
 
 *   [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) - To Be Top Javaer - Java工程师成神之路
 
+*   [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
+
 *   [NaTieJun/orise-charge-cloud](https://github.com/NaTieJun/orise-charge-cloud) - ⚡️充电桩开源云平台⚡️完整源代码，包含模拟桩模块，可通过docker编排快速部署测试。技术栈：SpringCloud、MySQL、Redis、RabbitMQ，前后端管理系统（管理后台、小程序），支持互联互通协议、市政协议、一对多方平台支持。支持高并发业务、业务动态伸缩、桩通信负载均衡（NLB）。
 
 *   [roinli/HUIZHI-ChargeOS-cloud](https://github.com/roinli/HUIZHI-ChargeOS-cloud) - ⚡️慧知开源充电平台全套源码⚡️;⚡️完整业务流程⚡️； ①SpringCloud、MySQL、Netty、uniapp、云快充协议1.5  云快充协议1.6、互联互通协议、多租户、分时计费。 ②小程序、管理后台、多商户、模拟桩。 ③充电平台技术解决方案。
@@ -3155,11 +3155,11 @@
 
 *   [msys2/msys2.github.io](https://github.com/msys2/msys2.github.io) - The MSYS2 homepage
 
-## Smarty
+## Go Template
 
 *   [opsre/awesome-ops](https://github.com/opsre/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 651 个。
 
-*   [rubyhan1314/Golang-100-Days](https://github.com/rubyhan1314/Golang-100-Days) - Golang - 100天从新手到大师
+*   [zabbix/zabbix](https://github.com/zabbix/zabbix) - Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.
 
 ## C\#
 
@@ -3281,13 +3281,13 @@
 
 *   [capistrano/capistrano](https://github.com/capistrano/capistrano) - A deployment automation tool built on Ruby, Rake, and SSH.
 
+## Smarty
+
+*   [rubyhan1314/Golang-100-Days](https://github.com/rubyhan1314/Golang-100-Days) - Golang - 100天从新手到大师
+
 ## R
 
 *   [psychbruce/ChineseNames](https://github.com/psychbruce/ChineseNames) - 🀄 Chinese Name Database (1930-2008).
-
-## Go Template
-
-*   [zabbix/zabbix](https://github.com/zabbix/zabbix) - Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.
 
 ## Crystal
 
