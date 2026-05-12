@@ -551,8 +551,6 @@
 
 *   [nftstorage/nft.storage](https://github.com/nftstorage/nft.storage) - **Notice: Uploads Decommissioned - Existing Data is Safe!**
 
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
-
 *   [imfly/bitcoin-on-nodejs](https://github.com/imfly/bitcoin-on-nodejs) - 《Node.js区块链开发》，注：新版代码已开源！请star支持哦-^-：
 
 *   [snyk-labs/nodejs-docker-best-practices](https://github.com/snyk-labs/nodejs-docker-best-practices) - Best practices to containerize Node.js web applications with Docker
@@ -1182,6 +1180,8 @@
 *   [tvvocold/free-for-dev-zh](https://github.com/tvvocold/free-for-dev-zh) - 国内免费开发工具/服务清单
 
 *   [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
+
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 
 *   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 
@@ -2251,7 +2251,7 @@
 
 *   [pfinalclub/coze-php](https://github.com/pfinalclub/coze-php) -
 
-*   [imliam/cpx](https://github.com/imliam/cpx) - Run any command from any composer package, even if it's not installed in your project.
+*   [laravel/cpx](https://github.com/laravel/cpx) - Run any command from any composer package, even if it's not installed in your project.
 
 *   [kint-php/kint](https://github.com/kint-php/kint) - Kint - Advanced PHP dumper
 
