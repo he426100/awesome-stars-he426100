@@ -2307,7 +2307,7 @@
 
 *   [guanguans/favorite-link](https://github.com/guanguans/favorite-link) - ❤️ 每天收集喜欢的开源项目。
 
-*   [reliforp/reli-prof](https://github.com/reliforp/reli-prof) - A sampling profiler or a memory profiler for PHP written in PHP, which reads information about running PHP VM from outside the process. You can find performance bottlenecks or memory leaks of your scripts without changing the target script or loading extensions.
+*   [reliforp/reli-prof](https://github.com/reliforp/reli-prof) - A sampling profiler or a memory usage profiler for PHP written in PHP, which reads information about running PHP VM from outside the process. You can find performance bottlenecks or memory leaks of your scripts without changing the target script or loading extensions.
 
 *   [zhangyue0503/dev-blog](https://github.com/zhangyue0503/dev-blog) - php博客文章
 
