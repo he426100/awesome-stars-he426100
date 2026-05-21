@@ -567,7 +567,7 @@
 
 *   [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform programmable network tool
 
-*   [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+*   [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 
 *   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 
