@@ -139,8 +139,6 @@
 
 *   [Iorest/rime-dict](https://github.com/Iorest/rime-dict) - RIME 词库增强
 
-*   [laubonghaudoi/Chinese\_Rime](https://github.com/laubonghaudoi/Chinese_Rime) - 收集非普通話漢語和古漢語的中州韻輸入法拼音方案 Collection of phonetic spelling schemas for Sinitic languages and dialects
-
 *   [wangdoc/es6-tutorial](https://github.com/wangdoc/es6-tutorial) - 一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性。
 
 *   [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
@@ -1828,6 +1826,8 @@
 *   [fkxxyz/rime-cloverpinyin](https://github.com/fkxxyz/rime-cloverpinyin) - 🍀️四叶草拼音输入方案，做最好用的基于rime开源的简体拼音输入方案！
 
 *   [napoler/rime-idf-dict](https://github.com/napoler/rime-idf-dict) - 抛弃庞大的词库 拥抱更高效率的小词库 并且实现小狼毫的自动联想
+
+*   [laubonghaudoi/Chinese\_Rime](https://github.com/laubonghaudoi/Chinese_Rime) - 收集非普通話漢語和古漢語的中州韻輸入法拼音方案 Collection of phonetic spelling schemas for Sinitic languages and dialects
 
 *   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
