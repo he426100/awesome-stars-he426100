@@ -811,8 +811,6 @@
 
 *   [nondanee/UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) - Revive unavailable songs for Netease Cloud Music
 
-*   [rdp-studio/UnblockNeteaseMusic](https://github.com/rdp-studio/UnblockNeteaseMusic) - 解锁网易云音乐客户端变灰歌曲
-
 *   [Binaryify/vue-qr](https://github.com/Binaryify/vue-qr) - The Vue Component for Awesome-qr.js
 
 *   [xiandanin/magnetW](https://github.com/xiandanin/magnetW) - \[已失效，不再维护]
@@ -1186,6 +1184,8 @@
 *   [ciaoca/cxSelect](https://github.com/ciaoca/cxSelect) - cxSelect 是基于 jQuery 的多级联动菜单插件，适用于省市、商品分类等联动菜单。
 
 *   [snapappointments/bootstrap-select](https://github.com/snapappointments/bootstrap-select) - :rocket: The jQuery plugin that brings select elements into the 21st century with intuitive multiselection, searching, and much more.
+
+*   [TerryZ/SelectPage](https://github.com/TerryZ/SelectPage) - A simple style and powerful selector, including ajax remote data, autocomplete, pagination, tags, i18n and  keyboard navigation features
 
 ## miscellaneous
 
