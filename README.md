@@ -931,8 +931,6 @@
 
 *   [wuhao000/antd-mobile-vue](https://github.com/wuhao000/antd-mobile-vue) - ant design mobile/antd mobile的vue实现
 
-*   [zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook) - 🍭在线工具秘籍,为在线工具写一本优质说明书,让在线工具造福人类~ Online tool cheats, write a quality manual for online tools, make online tools benefit humanity~
-
 *   [Tencent/cloudbase-framework](https://github.com/Tencent/cloudbase-framework) -  腾讯云开发云原生一体化部署工具 🚀  CloudBase Framework：一键部署，不限框架语言，云端一体化开发，基于Serverless 架构
 
 *   [mudenglong/hxc3-indicatorFormula](https://github.com/mudenglong/hxc3-indicatorFormula) - 技术指标计算模块，包含常用的 asi, bias, boll, kdj, macd, rsi, vr, wr
@@ -3124,6 +3122,8 @@
 *   [openexchangerates/money.js](https://github.com/openexchangerates/money.js) - money.js is a tiny (1kb) javascript currency conversion library, for web & nodeJS
 
 *   [LenGxien/vue-licence-plate](https://github.com/LenGxien/vue-licence-plate) - 基于Vue的移动端车牌键盘
+
+*   [zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook) - 🍭在线工具秘籍,为在线工具写一本优质说明书,让在线工具造福人类~ Online tool cheats, write a quality manual for online tools, make online tools benefit humanity~
 
 *   [filipelinhares/ress](https://github.com/filipelinhares/ress) - 🚿 A modern CSS reset
 
