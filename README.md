@@ -605,7 +605,7 @@
 
 *   [1e0n/droid2api](https://github.com/1e0n/droid2api) -
 
-*   [SolidFaker/ohtotptoken](https://github.com/SolidFaker/ohtotptoken) - TOTP & Forti Token for HarmonyOS Next
+*   [OHOTP/ohtotptoken](https://github.com/OHOTP/ohtotptoken) - TOTP & Forti Token for HarmonyOS Next
 
 *   [langren1353/GM\_script](https://github.com/langren1353/GM_script) - 我就是来分享脚本玩玩的
 
