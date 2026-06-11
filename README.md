@@ -1455,8 +1455,6 @@
 
 *   [lpg-it/BaiduYunVIP](https://github.com/lpg-it/BaiduYunVIP) - 百度云百度网盘超级会员账号SVIP账号 分享, 另分享多款百度网盘不限速下载工具以及各大平台会员账号（迅雷 优酷 爱奇艺 腾讯视频等）.
 
-*   [wuxingsanren/wildcat-vip-account](https://github.com/wuxingsanren/wildcat-vip-account) - 野猫 - 每天分享最新的百度网盘SVIP、迅雷超级会员、手机话费折扣充值、霸王餐免费吃VIP（美团、饿了么、大众点评、肯德基、麦当劳、星巴克）、饿了么超级会员、美团外卖会员&红包券、爱奇艺VIP会员、腾讯视频VIP、优酷VIP会员、哔哩哔哩大会员、百度文库VIP、QQ音乐VIP、网易云黑胶VIP、喜马拉雅VIP、樊登读书会VIP、千图网VIP、包图网VIP、摄图网VIP、CSDN下载VIP、天眼查VIP、苹果ID等等各类VIP帐号，随取随用，完全免费，绝无套路，同时提供：百度文库VIP下载、图库素材VIP下载、学术文献VIP下载（知网维普万方读秀龙源超星、英文数据库、法律数据库、医学数据库、金融数据库）、全网视频VIP解析、全网音乐MP3免费听及下载、微信域名拦截检测API ，欢迎推荐分享给
-
 *   [top-think/think-awesome](https://github.com/top-think/think-awesome) - awesome for thinkphp
 
 *   [ossu/computer-science-cn](https://github.com/ossu/computer-science-cn) -  🎓计算机技术与科学自学之旅
@@ -2589,7 +2587,7 @@
 
 *   [mockery/mockery](https://github.com/mockery/mockery) - Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).
 
-*   [easy-coding-standard/ecs](https://github.com/easy-coding-standard/ecs) - The Easiest way to add coding standard to your PHP project
+*   [ecsphp/ecs](https://github.com/ecsphp/ecs) - ECS runs PHP-CS-Fixer and PHP\_CodeSniffer as a single, parallel, fast tool, zero dependencies, requiring only PHP 7.2+. Configure with prepared sets, gradual levels via, plug-in and keep it running for years with zero maintenance
 
 *   [vimeo/psalm](https://github.com/vimeo/psalm) - A PHP static analysis tool for finding errors and security vulnerabilities in PHP applications
 
@@ -2679,7 +2677,7 @@
 
 *   [Double-Jin/jin-chat](https://github.com/Double-Jin/jin-chat) - Complete PC chat system based on EasySwoole and PHP  (IM chat app)
 
-*   [tealang/tea](https://github.com/tealang/tea) - Programming is like drinking tea.
+*   [tealang/tea](https://github.com/tealang/tea) - Some explorations about programming languages
 
 *   [QThans/jwt-auth](https://github.com/QThans/jwt-auth) - JSON Web Token Authentication for Thinkphp
 
@@ -3046,6 +3044,8 @@
 *   [douyasi/identity-card](https://github.com/douyasi/identity-card) - Chinese Identity Card package （中国大陆）公民身份证类
 
 *   [yl/id-card](https://github.com/yl/id-card) - 身份证号校验及信息获取
+
+*   [ramsey/uuid](https://github.com/ramsey/uuid) - :snowflake: A PHP library for generating universally unique identifiers (UUIDs).
 
 ## Java
 
