@@ -2237,7 +2237,7 @@
 
 *   [ThinkDevelop/Free-SS-SSR](https://github.com/ThinkDevelop/Free-SS-SSR) - 每日分享免费的ss、vmess、vless、trojan、hysteria2等各类节点
 
-*   [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
+*   [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker. Run Laravel, Symfony, WordPress, Drupal, Magento, CodeIgniter, Yii, Lumen, Phalcon, CakePHP or any PHP project with 70+ pre-configured services: Nginx, Apache, PHP-FPM, MySQL, PostgreSQL, MariaDB, MongoDB, Redis, Elasticsearch & more.
 
 *   [gnulife/dphp](https://github.com/gnulife/dphp) - 在2分钟内极速构建超轻量级docker + php全功能开发测试环境
 
