@@ -2413,7 +2413,7 @@
 
 *   [wxxiong6/tree](https://github.com/wxxiong6/tree) - 使用递归把有规则数据，处理成树形数据结构。适用场景菜单、权限、分类等功能。
 
-*   [mineadmin/MineAdmin](https://github.com/mineadmin/MineAdmin) - 🎉🎉🎉 MineAdmin是基于Hyperf框架 和 Vue3+Vite5 开发的前后端分离权限管理系统，自适应多终端。特色：后端 crud 生成 + 前端低代码 json 化配置
+*   [mineadmin/MineAdmin](https://github.com/mineadmin/MineAdmin) - 🎉🎉🎉 MineAdmin是基于Hyperf框架 和 Vue+Vite 开发的前后端分离权限管理系统，自适应多终端。特色：后端 crud 生成 + 前端低代码 json 化配置
 
 *   [mochat-cloud/mochat](https://github.com/mochat-cloud/mochat) - 基于企业微信的开源SCRM应用开发框架&引擎，也是一套通用的企业私域流量管理系统!
 
