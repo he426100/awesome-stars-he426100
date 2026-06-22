@@ -295,6 +295,8 @@
 
 *   [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
 
+*   [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
+
 *   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 
 *   [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node\_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
@@ -348,8 +350,6 @@
 *   [sparrow-js/sparrow](https://github.com/sparrow-js/sparrow) - 🎉场景化低代码（LowCode）搭建工作台，实时输出源代码
 
 *   [ant-design/pro-components](https://github.com/ant-design/pro-components) - 🏆 Use Ant Design like a Pro!
-
-*   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 
 *   [nefe/number-precision](https://github.com/nefe/number-precision) - 🚀1K tiny & fast lib for doing addition, subtraction, multiplication and division operations precisely
 
@@ -1889,8 +1889,6 @@
 
 *   [froghub-io/filecoin-docs](https://github.com/froghub-io/filecoin-docs) - Filecoin 中文文档
 
-*   [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
-
 *   [zhouwei1994/uni-app-demo](https://github.com/zhouwei1994/uni-app-demo) - uni-app-demo
 
 *   [dongyuanxin/blog](https://github.com/dongyuanxin/blog) - 📚 专注Web与算法
@@ -2120,6 +2118,8 @@
 *   [shelmesky/bellperson\_optimized](https://github.com/shelmesky/bellperson_optimized) -
 
 *   [jackoelv/bellperson](https://github.com/jackoelv/bellperson) - zk-SNARK library
+
+*   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 
 ## HTML
 
